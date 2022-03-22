@@ -1,0 +1,802 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "HPRQ+3J Curitiba, State of Paraná, Brazil",
+      "global_code" : "586GHPRQ+3J"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "302",
+               "short_name" : "302",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Marechal Mallet",
+               "short_name" : "R. Mal. Mallet",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ahú",
+               "short_name" : "Ahú",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80540-230",
+               "short_name" : "80540-230",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Mal. Mallet, 302 - Ahú, Curitiba - PR, 80540-230, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.4096954,
+                  "lng" : -49.2606902
+               },
+               "southwest" : {
+                  "lat" : -25.4098463,
+                  "lng" : -49.26111059999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4097774,
+               "lng" : -49.2608786
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.40842186970849,
+                  "lng" : -49.25955141970849
+               },
+               "southwest" : {
+                  "lat" : -25.4111198302915,
+                  "lng" : -49.26224938029149
+               }
+            }
+         },
+         "place_id" : "ChIJB413_CDk3JQRVSKTAk7kOAw",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "302",
+               "short_name" : "302",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Marechal Mallet",
+               "short_name" : "R. Mal. Mallet",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ahú",
+               "short_name" : "Ahú",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80540-230",
+               "short_name" : "80540-230",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Mal. Mallet, 302 - Ahú, Curitiba - PR, 80540-230, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.4097045,
+               "lng" : -49.2610586
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4083555197085,
+                  "lng" : -49.2597096197085
+               },
+               "southwest" : {
+                  "lat" : -25.4110534802915,
+                  "lng" : -49.2624075802915
+               }
+            }
+         },
+         "place_id" : "ChIJ9fxv-SDk3JQRUCMFCA2JUn4",
+         "plus_code" : {
+            "compound_code" : "HPRQ+4H Curitiba, State of Paraná, Brazil",
+            "global_code" : "586GHPRQ+4H"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "868",
+               "short_name" : "868",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Manoel Eufrásio",
+               "short_name" : "R. Manoel Eufrásio",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Juvevê",
+               "short_name" : "Juvevê",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80540-010",
+               "short_name" : "80540-010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Manoel Eufrásio, 868 - Juvevê, Curitiba - PR, 80540-010, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.4099412,
+               "lng" : -49.2610299
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4085922197085,
+                  "lng" : -49.2596809197085
+               },
+               "southwest" : {
+                  "lat" : -25.4112901802915,
+                  "lng" : -49.2623788802915
+               }
+            }
+         },
+         "place_id" : "ChIJ3eilPCHk3JQRAi733qqyKow",
+         "plus_code" : {
+            "compound_code" : "HPRQ+2H Curitiba, State of Paraná, Brazil",
+            "global_code" : "586GHPRQ+2H"
+         },
+         "types" : [ "bakery", "establishment", "food", "point_of_interest", "store" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Marechal Mallet, 280 - Ahu",
+               "short_name" : "Marechal Mallet, 280 - Ahu",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Ahú",
+               "short_name" : "Ahú",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82860-140",
+               "short_name" : "82860-140",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Marechal Mallet, 280 - Ahu - Ahú, Curitiba - PR, 82860-140, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.4095872,
+               "lng" : -49.2611672
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.40823821970849,
+                  "lng" : -49.25981821970849
+               },
+               "southwest" : {
+                  "lat" : -25.4109361802915,
+                  "lng" : -49.26251618029149
+               }
+            }
+         },
+         "place_id" : "ChIJ7X3N-SDk3JQRUU6DSSFj0Ig",
+         "plus_code" : {
+            "compound_code" : "HPRQ+5G Curitiba, State of Paraná, Brazil",
+            "global_code" : "586GHPRQ+5G"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "305",
+               "short_name" : "305",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Marechal Mallet",
+               "short_name" : "R. Mal. Mallet",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ahú",
+               "short_name" : "Ahú",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80540-230",
+               "short_name" : "80540-230",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Mal. Mallet, 305 - Ahú, Curitiba - PR, 80540-230, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.409732,
+               "lng" : -49.261269
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4083830197085,
+                  "lng" : -49.2599200197085
+               },
+               "southwest" : {
+                  "lat" : -25.4110809802915,
+                  "lng" : -49.2626179802915
+               }
+            }
+         },
+         "place_id" : "EjxSLiBNYWwuIE1hbGxldCwgMzA1IC0gQWjDuiwgQ3VyaXRpYmEgLSBQUiwgODA1NDAtMjMwLCBCcmF6aWwiGxIZChQKEglr2C_0IOTclBEjAqq0emnlZhCxAg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "280-468",
+               "short_name" : "280-468",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Marechal Mallet",
+               "short_name" : "R. Mal. Mallet",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Ahú",
+               "short_name" : "Ahú",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80540-230",
+               "short_name" : "80540-230",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Mal. Mallet, 280-468 - Ahú, Curitiba - PR, 80540-230, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.4083205,
+                  "lng" : -49.26093969999999
+               },
+               "southwest" : {
+                  "lat" : -25.4100263,
+                  "lng" : -49.2613376
+               }
+            },
+            "location" : {
+               "lat" : -25.4091734,
+               "lng" : -49.2611389
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4078244197085,
+                  "lng" : -49.2597896697085
+               },
+               "southwest" : {
+                  "lat" : -25.4105223802915,
+                  "lng" : -49.2624876302915
+               }
+            }
+         },
+         "place_id" : "ChIJa9gv9CDk3JQRIgKqtHpp5WY",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "80540-010",
+               "short_name" : "80540-010",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Juvevê",
+               "short_name" : "Juvevê",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Juvevê, Curitiba - State of Paraná, 80540-010, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.4085928,
+                  "lng" : -49.2581767
+               },
+               "southwest" : {
+                  "lat" : -25.4114443,
+                  "lng" : -49.2685192
+               }
+            },
+            "location" : {
+               "lat" : -25.4098216,
+               "lng" : -49.2624425
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4085928,
+                  "lng" : -49.2581767
+               },
+               "southwest" : {
+                  "lat" : -25.4114443,
+                  "lng" : -49.2685192
+               }
+            }
+         },
+         "place_id" : "ChIJSYpKPCDk3JQRe9eT5hvCsvc",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "80540",
+               "short_name" : "80540",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Ahu",
+               "short_name" : "Ahu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ahu, Curitiba - State of Paraná, 80540, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.4003718,
+                  "lng" : -49.2549262
+               },
+               "southwest" : {
+                  "lat" : -25.4138702,
+                  "lng" : -49.2655909
+               }
+            },
+            "location" : {
+               "lat" : -25.4053236,
+               "lng" : -49.2613339
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4003718,
+                  "lng" : -49.2549262
+               },
+               "southwest" : {
+                  "lat" : -25.4138702,
+                  "lng" : -49.2655909
+               }
+            }
+         },
+         "place_id" : "ChIJI5F8IZ7m3JQR13qXRC7Uiyg",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ahu",
+               "short_name" : "Ahu",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ahu, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3927996,
+                  "lng" : -49.2565162
+               },
+               "southwest" : {
+                  "lat" : -25.4113841,
+                  "lng" : -49.2716304
+               }
+            },
+            "location" : {
+               "lat" : -25.4037831,
+               "lng" : -49.2611962
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3927996,
+                  "lng" : -49.2565162
+               },
+               "southwest" : {
+                  "lat" : -25.4113841,
+                  "lng" : -49.2716304
+               }
+            }
+         },
+         "place_id" : "ChIJ630knpjm3JQRE0p3j_p34gI",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Matriz",
+               "short_name" : "Matriz",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Matriz, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3928639,
+                  "lng" : -49.2184679
+               },
+               "southwest" : {
+                  "lat" : -25.4688678,
+                  "lng" : -49.3192934
+               }
+            },
+            "location" : {
+               "lat" : -25.4217847,
+               "lng" : -49.2740045
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3928639,
+                  "lng" : -49.2184679
+               },
+               "southwest" : {
+                  "lat" : -25.4688678,
+                  "lng" : -49.3192934
+               }
+            }
+         },
+         "place_id" : "ChIJSdL-QBTk3JQRTa4Zsr5CKw0",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba, State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4289541,
+               "lng" : -49.267137
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            }
+         },
+         "place_id" : "ChIJ3bPNUVPj3JQRCejLuqVrL20",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4808762,
+               "lng" : -49.3044253
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            }
+         },
+         "place_id" : "ChIJ8Q8J_PXj3JQRR7crCbCDejw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            },
+            "location" : {
+               "lat" : -25.2520888,
+               "lng" : -52.0215415
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            }
+         },
+         "place_id" : "ChIJnWK4MJQL25QRYfDOY1D9k-g",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

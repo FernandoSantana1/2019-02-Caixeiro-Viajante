@@ -1,0 +1,300 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJOdStSh7k3JQRL8pFykxe0PY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJt9Cz3srm3JQRXgABOivCMC8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.3935039,
+               "lng" : -49.2676162
+            },
+            "southwest" : {
+               "lat" : -25.4096614,
+               "lng" : -49.2833254
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.1 km",
+                  "value" : 3148
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 471
+               },
+               "end_address" : "R. P Min Brochado Rocha, 29 - Pilarzinho, Curitiba - PR, 82120-100, Brazil",
+               "end_location" : {
+                  "lat" : -25.3935039,
+                  "lng" : -49.28330949999999
+               },
+               "start_address" : "R. Mal. Hermes, 999 - Centro Cívico, Curitiba - PR, 80530-230, Brazil",
+               "start_location" : {
+                  "lat" : -25.4094687,
+                  "lng" : -49.2676162
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "21 m",
+                        "value" : 21
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : -25.4096522,
+                        "lng" : -49.2676671
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e toward \u003cb\u003eR. Manoel Eufrásio\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "dxazCrqukHb@H"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4094687,
+                        "lng" : -49.2676162
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 125
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : -25.4089048,
+                        "lng" : -49.2680263
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eR. Manoel Eufrásio\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "hyazC|qukH@B?@?DCTGb@CPADEBE?}AS[E"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4096522,
+                        "lng" : -49.2676671
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "47 m",
+                        "value" : 47
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 29
+                     },
+                     "end_location" : {
+                        "lat" : -25.4088764,
+                        "lng" : -49.2684902
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Manoel Eufrásio\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "rtazCdtukHCzA"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4089048,
+                        "lng" : -49.2680263
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 220
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : -25.4071249,
+                        "lng" : -49.2686968
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eR. Viêira dos Santos\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ntazC`wukHC^?LADABA@A?A@E?K@_@AmBEwAEyAE"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4088764,
+                        "lng" : -49.2684902
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 296
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : -25.4073149,
+                        "lng" : -49.27162209999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. José Sabóia Cortês\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "niazCjxukHCvCAXClBDh@@PR`BRhC"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4071249,
+                        "lng" : -49.2686968
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 593
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 82
+                     },
+                     "end_location" : {
+                        "lat" : -25.402088,
+                        "lng" : -49.27141109999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. Mateus Leme\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "tjazCrjvkHgEwAi@M]GS?q@AuCT_BHwCVg@@aCDeCD"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4073149,
+                        "lng" : -49.27162209999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 391
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 66
+                     },
+                     "end_location" : {
+                        "lat" : -25.4020177,
+                        "lng" : -49.2753007
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Dep. Fernando Ferrari\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "`j`zChivkH?f@Az@?tA?L?lAAlAErE?Z?d@AnAA~@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.402088,
+                        "lng" : -49.27141109999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "31 m",
+                        "value" : 31
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : -25.4022959,
+                        "lng" : -49.2753201
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Nilo Peçanha\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ri`zCrawkHZ@Z@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4020177,
+                        "lng" : -49.2753007
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 214
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : -25.4021637,
+                        "lng" : -49.2774393
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. Cláudio Manoel da Costa\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "jk`zCvawkH@`ACt@GdCA^GbAGdA"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4022959,
+                        "lng" : -49.2753201
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.2 km",
+                        "value" : 1210
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 119
+                     },
+                     "end_location" : {
+                        "lat" : -25.3935039,
+                        "lng" : -49.28330949999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eRua Primeiro Ministro Brochado da Rocha\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "nj`zC~nwkHgA@qA@yCBoB|@}@^MHIDYNCBa@X[Vu@r@[Z[XmBfBGNKRGLEP?@GTEZiAnAiApAIFa@Tq@Vi@RA@e@VMHILILIJGLMTENENEVEXEREPIVUZe@d@UP[POJa@Rk@RA?QDQBE?a@Bc@?wACW?"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4021637,
+                        "lng" : -49.2774393
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "dxazCrqukHb@H@B?FQpAKByBYInCGFQ@mCGqDKEpDClBDh@TrBRhCgEwAgAUeAAuF^wCVg@@gGJAfEGjKAtBA~@Z@Z@@`AKzDIbBGdAgA@kFDmD|Au@b@}@p@qAnAiC`CSb@Uv@EZiAnAsAxAsAl@k@Ts@`@SZQXSd@WtAOh@UZ{@v@k@\\mAf@SDWBeABoBC"
+         },
+         "summary" : "Rua Primeiro Ministro Brochado da Rocha",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

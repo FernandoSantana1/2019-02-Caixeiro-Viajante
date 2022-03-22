@@ -1,0 +1,204 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ94k5N4jj3JQR2rm0CIIOC9c",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJbfW59HTk3JQRI8PiLXsO-48",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.4359549,
+               "lng" : -49.27795039999999
+            },
+            "southwest" : {
+               "lat" : -25.4431643,
+               "lng" : -49.2856616
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.4 km",
+                  "value" : 1440
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 355
+               },
+               "end_address" : "R. Brg. Franco, 1693 - Centro, Curitiba - PR, 80420-200, Brazil",
+               "end_location" : {
+                  "lat" : -25.4359549,
+                  "lng" : -49.2805938
+               },
+               "start_address" : "Av. Visc. de Guarapuava, 4610 - Batel, Curitiba - PR, 80240-010, Brazil",
+               "start_location" : {
+                  "lat" : -25.4430855,
+                  "lng" : -49.28481799999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "22 m",
+                        "value" : 22
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : -25.4431643,
+                        "lng" : -49.2850237
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eAv. Visc. de Guarapuava\u003c/b\u003e toward \u003cb\u003eR. Bento Viana\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "hjhzCb}xkHLf@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4430855,
+                        "lng" : -49.28481799999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 180
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : -25.4416543,
+                        "lng" : -49.2856616
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eR. Bento Viana\u003c/b\u003e (signs for \u003cb\u003eMercês\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eSanta Felicidade\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eParque Barigui\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eP. São Evangélico\u003c/b\u003e)",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "vjhzCj~xkHaCt@KDIBuC~@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4431643,
+                        "lng" : -49.2850237
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 209
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : -25.4409636,
+                        "lng" : -49.2837319
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAv. do Batel\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "hahzCjbykHw@aEAEYiAu@oB"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4416543,
+                        "lng" : -49.2856616
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 510
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 104
+                     },
+                     "end_location" : {
+                        "lat" : -25.4389513,
+                        "lng" : -49.2791754
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eR. Benjamin Lins\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "~|gzChvxkHSs@c@oAEK}@mCm@eBCIEIq@qBe@sAAAe@uAQe@Q[CWWo@]mA"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4409636,
+                        "lng" : -49.2837319
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 138
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 53
+                     },
+                     "end_location" : {
+                        "lat" : -25.4384085,
+                        "lng" : -49.27795039999999
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e to continue on \u003cb\u003eR. Dr. Pedrosa\u003c/b\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "lpgzCzywkHKGo@wBo@uB"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4389513,
+                        "lng" : -49.2791754
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 381
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 102
+                     },
+                     "end_location" : {
+                        "lat" : -25.4359549,
+                        "lng" : -49.2805938
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Brg. Franco\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "`mgzCdrwkH[V[ZWVOT_AdA}@dAaAfAaAfAiCpC"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4384085,
+                        "lng" : -49.27795039999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "hjhzCb}xkHLf@aCt@UHuC~@w@aE[oAsB_GuBgG_C}Gc@aACWWo@]mAKG_BmFw@r@g@l@aGzGiCpC"
+         },
+         "summary" : "R. Benjamin Lins and R. Brg. Franco",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

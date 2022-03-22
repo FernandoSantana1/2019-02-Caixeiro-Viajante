@@ -1,0 +1,204 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJt9Cz3srm3JQRXgABOivCMC8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ6bNJy7nm3JQRxwbj9TmVx_8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.3908086,
+               "lng" : -49.27283449999999
+            },
+            "southwest" : {
+               "lat" : -25.3946878,
+               "lng" : -49.28341349999999
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.4 km",
+                  "value" : 1424
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 168
+               },
+               "end_address" : "R. Nilo Peçanha, 2959 - São Francisco, Curitiba - PR, 82120-440, Brazil",
+               "end_location" : {
+                  "lat" : -25.3946878,
+                  "lng" : -49.2728697
+               },
+               "start_address" : "R. P Min Brochado Rocha, 29 - Pilarzinho, Curitiba - PR, 82120-100, Brazil",
+               "start_location" : {
+                  "lat" : -25.3935039,
+                  "lng" : -49.28330949999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "52 m",
+                        "value" : 52
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : -25.3930525,
+                        "lng" : -49.28341349999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eRua Primeiro Ministro Brochado da Rocha\u003c/b\u003e toward \u003cb\u003eR. Amauri Lange Silvério\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "jt~yCtsxkHC?c@@G@G@QFOD"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3935039,
+                        "lng" : -49.28330949999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 179
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : -25.3915814,
+                        "lng" : -49.2830627
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. Amauri Lange Silvério\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "pq~yChtxkHKOIIIKIIKGKIKG_@IWC[?[?e@@_@Fa@F"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3930525,
+                        "lng" : -49.28341349999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 377
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 56
+                     },
+                     "end_location" : {
+                        "lat" : -25.3908086,
+                        "lng" : -49.27940780000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. Humberto de Campos\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "jh~yCbrxkHK}@COE[AICQMmAYsBUaBOmAOiAACOkAGg@E_@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3915814,
+                        "lng" : -49.2830627
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 443
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 43
+                     },
+                     "end_location" : {
+                        "lat" : -25.3925895,
+                        "lng" : -49.2755924
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. Manife Tacla\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "pc~yCh{wkHb@WJGPK^St@yC^yA`@_Br@sCt@kC^gA"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3908086,
+                        "lng" : -49.27940780000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 350
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : -25.394486,
+                        "lng" : -49.27283449999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eRua Leonor Castellano\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "tn~yClcwkHh@cAJQHSDSNULUr@kAj@u@Xa@^g@h@o@JMFKb@m@Zy@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3925895,
+                        "lng" : -49.2755924
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "23 m",
+                        "value" : 23
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : -25.3946878,
+                        "lng" : -49.2728697
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. Nilo Peçanha\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "pz~yCdrvkHf@F"
+                     },
+                     "start_location" : {
+                        "lat" : -25.394486,
+                        "lng" : -49.27283449999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "jt~yCtsxkHg@@OBa@LUYk@g@k@Qs@CaA@aANWsBsB}OMgAn@_@p@_@tAsFtAsFtAsEt@uANg@\\k@r@kAj@u@x@iAt@}@j@y@Zy@f@F"
+         },
+         "summary" : "R. Humberto de Campos and R. Manife Tacla",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

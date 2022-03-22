@@ -1,0 +1,676 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "JP4Q+WC Curitiba, State of Paraná, Brazil",
+      "global_code" : "586GJP4Q+WC"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "45",
+               "short_name" : "45",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua João Guariza",
+               "short_name" : "R. João Guariza",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "São Lourenço",
+               "short_name" : "São Lourenço",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82200-440",
+               "short_name" : "82200-440",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. João Guariza, 45 - São Lourenço, Curitiba - PR, 82200-440, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.3926245,
+               "lng" : -49.261419
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3912755197085,
+                  "lng" : -49.26007001970849
+               },
+               "southwest" : {
+                  "lat" : -25.3939734802915,
+                  "lng" : -49.26276798029149
+               }
+            }
+         },
+         "place_id" : "ChIJwRHo0pXm3JQRpYfD4pFCu68",
+         "plus_code" : {
+            "compound_code" : "JP4Q+XC Curitiba, State of Paraná, Brazil",
+            "global_code" : "586GJP4Q+XC"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "75",
+               "short_name" : "75",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua João Guariza",
+               "short_name" : "R. João Guariza",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "São Lourenço",
+               "short_name" : "São Lourenço",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82210-010",
+               "short_name" : "82210-010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. João Guariza, 75 - São Lourenço, Curitiba - PR, 82210-010, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3925651,
+                  "lng" : -49.2617088
+               },
+               "southwest" : {
+                  "lat" : -25.3927084,
+                  "lng" : -49.2618108
+               }
+            },
+            "location" : {
+               "lat" : -25.3926385,
+               "lng" : -49.2617497
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.39128776970849,
+                  "lng" : -49.2604108197085
+               },
+               "southwest" : {
+                  "lat" : -25.3939857302915,
+                  "lng" : -49.2631087802915
+               }
+            }
+         },
+         "place_id" : "ChIJaaDZ0ZXm3JQR_coosn9pydc",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "51",
+               "short_name" : "51",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua João Guariza",
+               "short_name" : "R. João Guariza",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "São Lourenço",
+               "short_name" : "São Lourenço",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82210-010",
+               "short_name" : "82210-010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. João Guariza, 51 - São Lourenço, Curitiba - PR, 82210-010, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.3924961,
+               "lng" : -49.26148999999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3911471197085,
+                  "lng" : -49.2601410197085
+               },
+               "southwest" : {
+                  "lat" : -25.3938450802915,
+                  "lng" : -49.2628389802915
+               }
+            }
+         },
+         "place_id" : "EjxSLiBKb8OjbyBHdWFyaXphLCA1MSAtIFPDo28gTG91cmVuw6dvLCBDdXJpdGliYSAtIFBSLCBCcmF6aWwiGhIYChQKEgkj-WfNlebclBHfXOw3jomYDBAz",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2-108",
+               "short_name" : "2-108",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua João Guariza",
+               "short_name" : "R. João Guariza",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "São Lourenço",
+               "short_name" : "São Lourenço",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82210-010",
+               "short_name" : "82210-010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. João Guariza, 2-108 - São Lourenço, Curitiba - PR, 82210-010, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3924164,
+                  "lng" : -49.2608847
+               },
+               "southwest" : {
+                  "lat" : -25.3925149,
+                  "lng" : -49.2619414
+               }
+            },
+            "location" : {
+               "lat" : -25.3925001,
+               "lng" : -49.2614169
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3911166697085,
+                  "lng" : -49.2600640697085
+               },
+               "southwest" : {
+                  "lat" : -25.3938146302915,
+                  "lng" : -49.2627620302915
+               }
+            }
+         },
+         "place_id" : "ChIJI_lnzZXm3JQR3lzsN46JmAw",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "82200-440",
+               "short_name" : "82200-440",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "São Lourenço",
+               "short_name" : "São Lourenço",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "São Lourenço, Curitiba - State of Paraná, 82200-440, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3920057,
+                  "lng" : -49.26014379999999
+               },
+               "southwest" : {
+                  "lat" : -25.3947882,
+                  "lng" : -49.2680193
+               }
+            },
+            "location" : {
+               "lat" : -25.3935374,
+               "lng" : -49.2645013
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3920057,
+                  "lng" : -49.26014379999999
+               },
+               "southwest" : {
+                  "lat" : -25.3947882,
+                  "lng" : -49.2680193
+               }
+            }
+         },
+         "place_id" : "ChIJXWuAdb7m3JQRDvFF6Qx1_JQ",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "82200",
+               "short_name" : "82200",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba - State of Paraná, 82200, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3887457,
+                  "lng" : -49.25792020000001
+               },
+               "southwest" : {
+                  "lat" : -25.4020097,
+                  "lng" : -49.2773835
+               }
+            },
+            "location" : {
+               "lat" : -25.3972295,
+               "lng" : -49.2664018
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3887457,
+                  "lng" : -49.25792020000001
+               },
+               "southwest" : {
+                  "lat" : -25.4020097,
+                  "lng" : -49.2773835
+               }
+            }
+         },
+         "place_id" : "ChIJO8bWIbzm3JQRJ08D1e19NFA",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "São Lourenço",
+               "short_name" : "São Lourenço",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "São Lourenço, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3763476,
+                  "lng" : -49.260504
+               },
+               "southwest" : {
+                  "lat" : -25.4036632,
+                  "lng" : -49.2753201
+               }
+            },
+            "location" : {
+               "lat" : -25.3913782,
+               "lng" : -49.26743010000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3763476,
+                  "lng" : -49.260504
+               },
+               "southwest" : {
+                  "lat" : -25.4036632,
+                  "lng" : -49.2753201
+               }
+            }
+         },
+         "place_id" : "ChIJ0cPRF8fm3JQRYChbA2w7du0",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boa Vista",
+               "short_name" : "Boa Vista",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Boa Vista, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1914303
+               },
+               "southwest" : {
+                  "lat" : -25.4313697,
+                  "lng" : -49.2815916
+               }
+            },
+            "location" : {
+               "lat" : -25.3886823,
+               "lng" : -49.2334685
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1914303
+               },
+               "southwest" : {
+                  "lat" : -25.4313697,
+                  "lng" : -49.2815916
+               }
+            }
+         },
+         "place_id" : "ChIJ4yXhiYjm3JQRib7FMdA38u0",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba, State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4289541,
+               "lng" : -49.267137
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            }
+         },
+         "place_id" : "ChIJ3bPNUVPj3JQRCejLuqVrL20",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4808762,
+               "lng" : -49.3044253
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            }
+         },
+         "place_id" : "ChIJ8Q8J_PXj3JQRR7crCbCDejw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            },
+            "location" : {
+               "lat" : -25.2520888,
+               "lng" : -52.0215415
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            }
+         },
+         "place_id" : "ChIJnWK4MJQL25QRYfDOY1D9k-g",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

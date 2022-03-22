@@ -1,0 +1,739 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "GMXP+GP Curitiba, State of Paraná, Brazil",
+      "global_code" : "586GGMXP+GP"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "64",
+               "short_name" : "64",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Cidade de França",
+               "short_name" : "R. Cidade de França",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Seminário",
+               "short_name" : "Seminário",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80310-050",
+               "short_name" : "80310-050",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Cidade de França, 64 - Seminário, Curitiba - PR, 80310-050, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.4511408,
+                  "lng" : -49.31310389999999
+               },
+               "southwest" : {
+                  "lat" : -25.4512837,
+                  "lng" : -49.3133059
+               }
+            },
+            "location" : {
+               "lat" : -25.4511989,
+               "lng" : -49.3131785
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.44986326970849,
+                  "lng" : -49.3118559197085
+               },
+               "southwest" : {
+                  "lat" : -25.4525612302915,
+                  "lng" : -49.3145538802915
+               }
+            }
+         },
+         "place_id" : "ChIJCTldQrrj3JQRiE96HhDM-GQ",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "56",
+               "short_name" : "56",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Cidade de França",
+               "short_name" : "R. Cidade de França",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Seminário",
+               "short_name" : "Seminário",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80310-050",
+               "short_name" : "80310-050",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Cidade de França, 56 - Seminário, Curitiba - PR, 80310-050, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.4510864,
+               "lng" : -49.3131689
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4497374197085,
+                  "lng" : -49.3118199197085
+               },
+               "southwest" : {
+                  "lat" : -25.4524353802915,
+                  "lng" : -49.3145178802915
+               }
+            }
+         },
+         "place_id" : "ChIJI7AvQrrj3JQRV6OtG0UnF1c",
+         "plus_code" : {
+            "compound_code" : "GMXP+HP Curitiba, State of Paraná, Brazil",
+            "global_code" : "586GGMXP+HP"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "23",
+               "short_name" : "23",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Cidade de França",
+               "short_name" : "R. Cidade de França",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Seminário",
+               "short_name" : "Seminário",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80310-050",
+               "short_name" : "80310-050",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Cidade de França, 23 - Seminário, Curitiba - PR, 80310-050, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.45076,
+               "lng" : -49.3128855
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4494110197085,
+                  "lng" : -49.3115365197085
+               },
+               "southwest" : {
+                  "lat" : -25.4521089802915,
+                  "lng" : -49.3142344802915
+               }
+            }
+         },
+         "place_id" : "ChIJjbvtQLrj3JQRdCpCEeCHAws",
+         "plus_code" : {
+            "compound_code" : "GMXP+MR Curitiba, State of Paraná, Brazil",
+            "global_code" : "586GGMXP+MR"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "79",
+               "short_name" : "79",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Cidade de França",
+               "short_name" : "R. Cidade de França",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Seminário",
+               "short_name" : "Seminário",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80310-050",
+               "short_name" : "80310-050",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Cidade de França, 79 - Seminário, Curitiba - PR, 80310-050, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.4511339,
+               "lng" : -49.3129818
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4497849197085,
+                  "lng" : -49.31163281970849
+               },
+               "southwest" : {
+                  "lat" : -25.4524828802915,
+                  "lng" : -49.31433078029149
+               }
+            }
+         },
+         "place_id" : "EkdSLiBDaWRhZGUgZGUgRnJhbsOnYSwgNzkgLSBTZW1pbsOhcmlvLCBDdXJpdGliYSAtIFBSLCA4MDMxMC0wNTAsIEJyYXppbCIaEhgKFAoSCSsnaEG649yUEcUJQ-jCl9DLEE8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2-120",
+               "short_name" : "2-120",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Cidade de França",
+               "short_name" : "R. Cidade de França",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Seminário",
+               "short_name" : "Seminário",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80310-050",
+               "short_name" : "80310-050",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Cidade de França, 2-120 - Seminário, Curitiba - PR, 80310-050, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.4506193,
+                  "lng" : -49.3128987
+               },
+               "southwest" : {
+                  "lat" : -25.4513583,
+                  "lng" : -49.3131722
+               }
+            },
+            "location" : {
+               "lat" : -25.4509888,
+               "lng" : -49.3130356
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.44963981970849,
+                  "lng" : -49.3116864697085
+               },
+               "southwest" : {
+                  "lat" : -25.4523377802915,
+                  "lng" : -49.3143844302915
+               }
+            }
+         },
+         "place_id" : "ChIJKydoQbrj3JQRxAlD6MKX0Ms",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "80310-050",
+               "short_name" : "80310-050",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Seminário",
+               "short_name" : "Seminário",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Seminário, Curitiba - State of Paraná, 80310-050, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.4505988,
+                  "lng" : -49.3120617
+               },
+               "southwest" : {
+                  "lat" : -25.4523683,
+                  "lng" : -49.3133943
+               }
+            },
+            "location" : {
+               "lat" : -25.4514088,
+               "lng" : -49.3128255
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4501345697085,
+                  "lng" : -49.3113790197085
+               },
+               "southwest" : {
+                  "lat" : -25.4528325302915,
+                  "lng" : -49.3140769802915
+               }
+            }
+         },
+         "place_id" : "ChIJU4unWbrj3JQRpZRKpSH8RE8",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Seminário",
+               "short_name" : "Seminário",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Seminário, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.4415664,
+                  "lng" : -49.2941535
+               },
+               "southwest" : {
+                  "lat" : -25.4552317,
+                  "lng" : -49.3158313
+               }
+            },
+            "location" : {
+               "lat" : -25.4494208,
+               "lng" : -49.3046406
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4415664,
+                  "lng" : -49.2941535
+               },
+               "southwest" : {
+                  "lat" : -25.4552317,
+                  "lng" : -49.3158313
+               }
+            }
+         },
+         "place_id" : "ChIJm1SDd73j3JQRm5hjCyztPmY",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "80310",
+               "short_name" : "80310",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba - State of Paraná, 80310, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.4469865,
+                  "lng" : -49.29987269999999
+               },
+               "southwest" : {
+                  "lat" : -25.4648981,
+                  "lng" : -49.3176397
+               }
+            },
+            "location" : {
+               "lat" : -25.4548053,
+               "lng" : -49.3069611
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4469865,
+                  "lng" : -49.29987269999999
+               },
+               "southwest" : {
+                  "lat" : -25.4648981,
+                  "lng" : -49.3176397
+               }
+            }
+         },
+         "place_id" : "ChIJayWTmqPj3JQRnJUyMcwix-I",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Felicidade",
+               "short_name" : "Santa Felicidade",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Felicidade, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3574986,
+                  "lng" : -49.28389989999999
+               },
+               "southwest" : {
+                  "lat" : -25.478325,
+                  "lng" : -49.38983289999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4040074,
+               "lng" : -49.3286941
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3574986,
+                  "lng" : -49.28389989999999
+               },
+               "southwest" : {
+                  "lat" : -25.478325,
+                  "lng" : -49.38983289999999
+               }
+            }
+         },
+         "place_id" : "ChIJVyZ-IkHh3JQRDh40dyt3LqI",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba, State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4289541,
+               "lng" : -49.267137
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            }
+         },
+         "place_id" : "ChIJ3bPNUVPj3JQRCejLuqVrL20",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4808762,
+               "lng" : -49.3044253
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            }
+         },
+         "place_id" : "ChIJ8Q8J_PXj3JQRR7crCbCDejw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            },
+            "location" : {
+               "lat" : -25.2520888,
+               "lng" : -52.0215415
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            }
+         },
+         "place_id" : "ChIJnWK4MJQL25QRYfDOY1D9k-g",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

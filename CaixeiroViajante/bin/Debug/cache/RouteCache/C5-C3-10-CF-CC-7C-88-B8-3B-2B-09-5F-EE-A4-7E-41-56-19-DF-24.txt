@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJmaXy2j_k3JQRaTdeY5Fv8r8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJmaXy2j_k3JQRaTdeY5Fv8r8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.4261382,
+               "lng" : -49.2634064
+            },
+            "southwest" : {
+               "lat" : -25.4261382,
+               "lng" : -49.2634064
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "R. Conselheiro Araújo, 80 - Centro, Curitiba - PR, 80060-230, Brazil",
+               "end_location" : {
+                  "lat" : -25.4261382,
+                  "lng" : -49.2634064
+               },
+               "start_address" : "R. Conselheiro Araújo, 80 - Centro, Curitiba - PR, 80060-230, Brazil",
+               "start_location" : {
+                  "lat" : -25.4261382,
+                  "lng" : -49.2634064
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : -25.4261382,
+                        "lng" : -49.2634064
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eR. Conselheiro Araújo\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "j`ezChwtkH"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4261382,
+                        "lng" : -49.2634064
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "j`ezChwtkH"
+         },
+         "summary" : "R. Conselheiro Araújo",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

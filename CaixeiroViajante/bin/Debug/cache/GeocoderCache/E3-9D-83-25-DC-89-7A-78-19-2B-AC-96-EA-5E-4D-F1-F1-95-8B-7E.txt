@@ -1,0 +1,622 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "HR55+5J Pinhais, State of Paraná, Brazil",
+      "global_code" : "586GHR55+5J"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "556",
+               "short_name" : "556",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Vinte e Um de Abril",
+               "short_name" : "R. Vinte e Um de Abril",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Centro",
+               "short_name" : "Centro",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Pinhais",
+               "short_name" : "Pinhais",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83323-030",
+               "short_name" : "83323-030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Vinte e Um de Abril, 556 - Centro, Pinhais - PR, 83323-030, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.4420613,
+               "lng" : -49.1909446
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4407123197085,
+                  "lng" : -49.18959561970851
+               },
+               "southwest" : {
+                  "lat" : -25.4434102802915,
+                  "lng" : -49.1922935802915
+               }
+            }
+         },
+         "place_id" : "ChIJ07tx25Lv3JQRIGdJH7hF_60",
+         "plus_code" : {
+            "compound_code" : "HR55+5J Pinhais, State of Paraná, Brazil",
+            "global_code" : "586GHR55+5J"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "536",
+               "short_name" : "536",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Vinte e Um de Abril",
+               "short_name" : "R. Vinte e Um de Abril",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Centro",
+               "short_name" : "Centro",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Pinhais",
+               "short_name" : "Pinhais",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83323-030",
+               "short_name" : "83323-030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Vinte e Um de Abril, 536 - Centro, Pinhais - PR, 83323-030, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.4418941,
+                  "lng" : -49.1909589
+               },
+               "southwest" : {
+                  "lat" : -25.441998,
+                  "lng" : -49.1910687
+               }
+            },
+            "location" : {
+               "lat" : -25.4419648,
+               "lng" : -49.1910035
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4405970697085,
+                  "lng" : -49.1896648197085
+               },
+               "southwest" : {
+                  "lat" : -25.4432950302915,
+                  "lng" : -49.1923627802915
+               }
+            }
+         },
+         "place_id" : "ChIJ80LM3JLv3JQR0K_wZTORktU",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "544",
+               "short_name" : "544",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Vinte e Um de Abril",
+               "short_name" : "R. Vinte e Um de Abril",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Centro",
+               "short_name" : "Centro",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Pinhais",
+               "short_name" : "Pinhais",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83323-030",
+               "short_name" : "83323-030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Vinte e Um de Abril, 544 - Centro, Pinhais - PR, 83323-030, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.4420313,
+               "lng" : -49.1908708
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4406823197085,
+                  "lng" : -49.1895218197085
+               },
+               "southwest" : {
+                  "lat" : -25.4433802802915,
+                  "lng" : -49.1922197802915
+               }
+            }
+         },
+         "place_id" : "EkVSLiBWaW50ZSBlIFVtIGRlIEFicmlsLCA1NDQgLSBDZW50cm8sIFBpbmhhaXMgLSBQUiwgODMzMjMtMDMwLCBCcmF6aWwiGxIZChQKEgn_TUhcku_clBHVxsy4QLOD5xCgBA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "692-610",
+               "short_name" : "692-610",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Vinte e Um de Abril",
+               "short_name" : "R. Vinte e Um de Abril",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Centro",
+               "short_name" : "Centro",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Pinhais",
+               "short_name" : "Pinhais",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83323-030",
+               "short_name" : "83323-030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Vinte e Um de Abril, 692-610 - Centro, Pinhais - PR, 83323-030, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.4416853,
+                  "lng" : -49.19081180000001
+               },
+               "southwest" : {
+                  "lat" : -25.4424471,
+                  "lng" : -49.1909415
+               }
+            },
+            "location" : {
+               "lat" : -25.4420662,
+               "lng" : -49.1908768
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4407172197085,
+                  "lng" : -49.18952766970851
+               },
+               "southwest" : {
+                  "lat" : -25.4434151802915,
+                  "lng" : -49.19222563029151
+               }
+            }
+         },
+         "place_id" : "ChIJ_01IXJLv3JQR1MbMuECzg-c",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "83323-030",
+               "short_name" : "83323-030",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Estância Pinhais",
+               "short_name" : "Estância Pinhais",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Pinhais",
+               "short_name" : "Pinhais",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Estância Pinhais, Pinhais - PR, 83323-030, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.4360787,
+                  "lng" : -49.1893797
+               },
+               "southwest" : {
+                  "lat" : -25.4423823,
+                  "lng" : -49.1911393
+               }
+            },
+            "location" : {
+               "lat" : -25.4391799,
+               "lng" : -49.1902719
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4360787,
+                  "lng" : -49.1889105197085
+               },
+               "southwest" : {
+                  "lat" : -25.4423823,
+                  "lng" : -49.1916084802915
+               }
+            }
+         },
+         "place_id" : "ChIJ1-hq4ZLv3JQR3dtWDFhJSGw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Planta Estância Pinhais",
+               "short_name" : "Planta Estância Pinhais",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Pinhais",
+               "short_name" : "Pinhais",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Planta Estância Pinhais, Pinhais - PR, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.436886,
+                  "lng" : -49.1838636
+               },
+               "southwest" : {
+                  "lat" : -25.4442923,
+                  "lng" : -49.196216
+               }
+            },
+            "location" : {
+               "lat" : -25.4403516,
+               "lng" : -49.1942263
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.436886,
+                  "lng" : -49.1838636
+               },
+               "southwest" : {
+                  "lat" : -25.4442923,
+                  "lng" : -49.196216
+               }
+            }
+         },
+         "place_id" : "ChIJBaIAGpPv3JQRCPunMf3nkjE",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "83323",
+               "short_name" : "83323",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Pinhais",
+               "short_name" : "Pinhais",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pinhais - State of Paraná, 83323, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.4247235,
+                  "lng" : -49.1806901
+               },
+               "southwest" : {
+                  "lat" : -25.4487869,
+                  "lng" : -49.2022336
+               }
+            },
+            "location" : {
+               "lat" : -25.4354136,
+               "lng" : -49.1904301
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4247235,
+                  "lng" : -49.1806901
+               },
+               "southwest" : {
+                  "lat" : -25.4487869,
+                  "lng" : -49.2022336
+               }
+            }
+         },
+         "place_id" : "ChIJebvqvpHv3JQRdB8OhpxbqHY",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pinhais",
+               "short_name" : "Pinhais",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pinhais",
+               "short_name" : "Pinhais",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pinhais, State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.377315,
+                  "lng" : -49.1171216
+               },
+               "southwest" : {
+                  "lat" : -25.4720189,
+                  "lng" : -49.2039711
+               }
+            },
+            "location" : {
+               "lat" : -25.4434411,
+               "lng" : -49.1931448
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.377315,
+                  "lng" : -49.1171216
+               },
+               "southwest" : {
+                  "lat" : -25.4720189,
+                  "lng" : -49.2039711
+               }
+            }
+         },
+         "place_id" : "ChIJgzKoD03u3JQREdNbDhpL-_U",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pinhais",
+               "short_name" : "Pinhais",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pinhais - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3784418,
+                  "lng" : -49.1039078
+               },
+               "southwest" : {
+                  "lat" : -25.4719359,
+                  "lng" : -49.2034818
+               }
+            },
+            "location" : {
+               "lat" : -25.4433346,
+               "lng" : -49.1931865
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3784418,
+                  "lng" : -49.1039078
+               },
+               "southwest" : {
+                  "lat" : -25.4719359,
+                  "lng" : -49.2034818
+               }
+            }
+         },
+         "place_id" : "ChIJ0zr1S0_u3JQRx1r0Tv77moY",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            },
+            "location" : {
+               "lat" : -25.2520888,
+               "lng" : -52.0215415
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            }
+         },
+         "place_id" : "ChIJnWK4MJQL25QRYfDOY1D9k-g",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

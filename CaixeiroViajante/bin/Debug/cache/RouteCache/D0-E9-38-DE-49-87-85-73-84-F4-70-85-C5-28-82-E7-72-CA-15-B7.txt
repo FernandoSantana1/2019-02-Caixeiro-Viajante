@@ -1,0 +1,209 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJmaXy2j_k3JQRaTdeY5Fv8r8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJIS_2wEfk3JQRO35Gzk1XmGk",
+         "types" : [
+            "establishment",
+            "furniture_store",
+            "home_goods_store",
+            "point_of_interest",
+            "store"
+         ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.4237408,
+               "lng" : -49.2547823
+            },
+            "southwest" : {
+               "lat" : -25.4275478,
+               "lng" : -49.2651984
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.7 km",
+                  "value" : 1686
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 361
+               },
+               "end_address" : "Rua XV de Novembro, 2023 - Alto da XV, Curitiba - PR, 80045-125, Brazil",
+               "end_location" : {
+                  "lat" : -25.4265209,
+                  "lng" : -49.25508929999999
+               },
+               "start_address" : "R. Conselheiro Araújo, 80 - Centro, Curitiba - PR, 80060-230, Brazil",
+               "start_location" : {
+                  "lat" : -25.4261382,
+                  "lng" : -49.2634064
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 180
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : -25.4268328,
+                        "lng" : -49.26502439999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eR. Conselheiro Araújo\u003c/b\u003e toward \u003cb\u003eLargo Bittencourt\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eR. Mariano Torres\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "j`ezChwtkHFTd@tAZhARn@JXLVPh@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4261382,
+                        "lng" : -49.2634064
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "41 m",
+                        "value" : 41
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : -25.4270417,
+                        "lng" : -49.2650401
+                     },
+                     "html_instructions" : "Sharp \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Luiz Leão\u003c/b\u003e",
+                     "maneuver" : "turn-sharp-left",
+                     "polyline" : {
+                        "points" : "tdezCjaukHFPDPLQLM"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4268328,
+                        "lng" : -49.26502439999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "63 m",
+                        "value" : 63
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : -25.4275478,
+                        "lng" : -49.2647633
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eJardim Leonor Twardowski\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "~eezCnaukHVSlAc@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4270417,
+                        "lng" : -49.2650401
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 994
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 210
+                     },
+                     "end_location" : {
+                        "lat" : -25.4237399,
+                        "lng" : -49.2558236
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eJardim Leonor Twardowski\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eR. Amintas de Barros\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eContinue to follow R. Amintas de Barros\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "diezCv_ukHW{@U{@GOGSi@uAWs@GOm@yBYcAs@_CoAgEi@kBo@oB}@kCwAwE]gA]gAK_@M[a@_AGMk@eACICE?EAA?C?C"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4275478,
+                        "lng" : -49.2647633
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 105
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : -25.423809,
+                        "lng" : -49.2547823
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eR. Prof. Brandão\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "jqdzCzgskHDeBFiB"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4237399,
+                        "lng" : -49.2558236
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 303
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 40
+                     },
+                     "end_location" : {
+                        "lat" : -25.4265209,
+                        "lng" : -49.25508929999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. Alm. Tamandaré\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "xqdzCjaskHlIb@lBL`BJ"
+                     },
+                     "start_location" : {
+                        "lat" : -25.423809,
+                        "lng" : -49.2547823
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "j`ezChwtkH|AdFXp@Xz@DPLQd@a@lAc@W{@]kAqAmDkEeOoF_QuAkEyA}CEQDiBFiBlIb@nEX"
+         },
+         "summary" : "R. Amintas de Barros",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

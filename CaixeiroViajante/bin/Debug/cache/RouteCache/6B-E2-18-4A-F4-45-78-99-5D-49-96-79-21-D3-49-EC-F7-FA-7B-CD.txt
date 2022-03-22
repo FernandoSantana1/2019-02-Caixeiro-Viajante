@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJY-Hi7lrh3JQRrEGwhs8HdD4",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJY-Hi7lrh3JQRrEGwhs8HdD4",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.4112408,
+               "lng" : -49.2961609
+            },
+            "southwest" : {
+               "lat" : -25.4112408,
+               "lng" : -49.2961609
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Rua Victório Viezzer, 930 - Vista Alegre, Curitiba - PR, 80810-340, Brazil",
+               "end_location" : {
+                  "lat" : -25.4112408,
+                  "lng" : -49.2961609
+               },
+               "start_address" : "Rua Victório Viezzer, 930 - Vista Alegre, Curitiba - PR, 80810-340, Brazil",
+               "start_location" : {
+                  "lat" : -25.4112408,
+                  "lng" : -49.2961609
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : -25.4112408,
+                        "lng" : -49.2961609
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eRua Victório Viezzer\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "fcbzC~c{kH"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4112408,
+                        "lng" : -49.2961609
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "fcbzC~c{kH"
+         },
+         "summary" : "Rua Victório Viezzer",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

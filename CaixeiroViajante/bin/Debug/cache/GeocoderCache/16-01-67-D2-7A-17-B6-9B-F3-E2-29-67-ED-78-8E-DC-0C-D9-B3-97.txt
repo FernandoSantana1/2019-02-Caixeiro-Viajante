@@ -1,0 +1,679 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "JPGM+43 Curitiba, State of Paraná, Brazil",
+      "global_code" : "586GJPGM+43"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "98",
+               "short_name" : "98",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Thadeu Wasilewski",
+               "short_name" : "Rua Thadeu Wasilewski",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Abranches",
+               "short_name" : "Abranches",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82220-440",
+               "short_name" : "82220-440",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Thadeu Wasilewski, 98 - Abranches, Curitiba - PR, 82220-440, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.3747868,
+               "lng" : -49.2678281
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3734378197085,
+                  "lng" : -49.2664791197085
+               },
+               "southwest" : {
+                  "lat" : -25.37613578029151,
+                  "lng" : -49.2691770802915
+               }
+            }
+         },
+         "place_id" : "ChIJl0upud7m3JQRzEBvwG1THlQ",
+         "plus_code" : {
+            "compound_code" : "JPGJ+3V Curitiba, State of Paraná, Brazil",
+            "global_code" : "586GJPGJ+3V"
+         },
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Thadeu Wasilewski",
+               "short_name" : "Rua Thadeu Wasilewski",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Abranches",
+               "short_name" : "Abranches",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82220-440",
+               "short_name" : "82220-440",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Thadeu Wasilewski, 110 - Abranches, Curitiba - PR, 82220-440, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.3746311,
+               "lng" : -49.2680949
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3732821197085,
+                  "lng" : -49.26674591970851
+               },
+               "southwest" : {
+                  "lat" : -25.3759800802915,
+                  "lng" : -49.2694438802915
+               }
+            }
+         },
+         "place_id" : "ChIJB48Ok9Tn3JQR8h9PocFz5rg",
+         "plus_code" : {
+            "compound_code" : "JPGJ+4Q Abranches - Boa Vista, Curitiba - State of Paraná, Brazil",
+            "global_code" : "586GJPGJ+4Q"
+         },
+         "types" : [ "establishment", "insurance_agency", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Thadeu Wasilewski",
+               "short_name" : "Rua Thadeu Wasilewski",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Abranches",
+               "short_name" : "Abranches",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82220-440",
+               "short_name" : "82220-440",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Thadeu Wasilewski, 104 - Abranches, Curitiba - PR, 82220-440, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.374325,
+               "lng" : -49.268081
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3729760197085,
+                  "lng" : -49.2667320197085
+               },
+               "southwest" : {
+                  "lat" : -25.3756739802915,
+                  "lng" : -49.2694299802915
+               }
+            }
+         },
+         "place_id" : "ChIJbcz5xt7m3JQR_elkpsQpmCA",
+         "plus_code" : {
+            "compound_code" : "JPGJ+7Q Curitiba, State of Paraná, Brazil",
+            "global_code" : "586GJPGJ+7Q"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "124",
+               "short_name" : "124",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Thadeu Wasilewski",
+               "short_name" : "Rua Thadeu Wasilewski",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Abranches",
+               "short_name" : "Abranches",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82220-440",
+               "short_name" : "82220-440",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Thadeu Wasilewski, 124 - Abranches, Curitiba - PR, 82220-440, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.3744451,
+               "lng" : -49.268229
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3730961197085,
+                  "lng" : -49.26688001970849
+               },
+               "southwest" : {
+                  "lat" : -25.3757940802915,
+                  "lng" : -49.26957798029149
+               }
+            }
+         },
+         "place_id" : "Ej1SdWEgVGhhZGV1IFdhc2lsZXdza2ksIDEyNCAtIEFicmFuY2hlcywgQ3VyaXRpYmEgLSBQUiwgQnJhemlsIhoSGAoUChIJi57Ex97m3JQR0Zaq9ni6_HMQfA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "149-127",
+               "short_name" : "149-127",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Thadeu Wasilewski",
+               "short_name" : "Rua Thadeu Wasilewski",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Abranches",
+               "short_name" : "Abranches",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82220-440",
+               "short_name" : "82220-440",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Thadeu Wasilewski, 149-127 - Abranches, Curitiba - PR, 82220-440, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3743446,
+                  "lng" : -49.2681891
+               },
+               "southwest" : {
+                  "lat" : -25.3745103,
+                  "lng" : -49.2682549
+               }
+            },
+            "location" : {
+               "lat" : -25.3744275,
+               "lng" : -49.26822199999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3730784697085,
+                  "lng" : -49.26687301970851
+               },
+               "southwest" : {
+                  "lat" : -25.3757764302915,
+                  "lng" : -49.2695709802915
+               }
+            }
+         },
+         "place_id" : "ChIJi57Ex97m3JQR0Jaq9ni6_HM",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "82210",
+               "short_name" : "82210",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Boa Vista",
+               "short_name" : "Boa Vista",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Boa Vista, Curitiba - State of Paraná, 82210, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3714926,
+                  "lng" : -49.25648940000001
+               },
+               "southwest" : {
+                  "lat" : -25.389409,
+                  "lng" : -49.2730898
+               }
+            },
+            "location" : {
+               "lat" : -25.3825509,
+               "lng" : -49.2664018
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3714926,
+                  "lng" : -49.25648940000001
+               },
+               "southwest" : {
+                  "lat" : -25.389409,
+                  "lng" : -49.2730898
+               }
+            }
+         },
+         "place_id" : "ChIJVR_7u8Lm3JQRi3LyEA28dNI",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barreirinha",
+               "short_name" : "Barreirinha",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barreirinha, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3598298,
+                  "lng" : -49.24661320000001
+               },
+               "southwest" : {
+                  "lat" : -25.3856732,
+                  "lng" : -49.2688626
+               }
+            },
+            "location" : {
+               "lat" : -25.3703826,
+               "lng" : -49.2609562
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3598298,
+                  "lng" : -49.24661320000001
+               },
+               "southwest" : {
+                  "lat" : -25.3856732,
+                  "lng" : -49.2688626
+               }
+            }
+         },
+         "place_id" : "ChIJBTOlaOTm3JQRL1ukNUsUMOs",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boa Vista",
+               "short_name" : "Boa Vista",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Boa Vista, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1914303
+               },
+               "southwest" : {
+                  "lat" : -25.4313697,
+                  "lng" : -49.2815916
+               }
+            },
+            "location" : {
+               "lat" : -25.3886823,
+               "lng" : -49.2334685
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1914303
+               },
+               "southwest" : {
+                  "lat" : -25.4313697,
+                  "lng" : -49.2815916
+               }
+            }
+         },
+         "place_id" : "ChIJ4yXhiYjm3JQRib7FMdA38u0",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba, State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4289541,
+               "lng" : -49.267137
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            }
+         },
+         "place_id" : "ChIJ3bPNUVPj3JQRCejLuqVrL20",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4808762,
+               "lng" : -49.3044253
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            }
+         },
+         "place_id" : "ChIJ8Q8J_PXj3JQRR7crCbCDejw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            },
+            "location" : {
+               "lat" : -25.2520888,
+               "lng" : -52.0215415
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            }
+         },
+         "place_id" : "ChIJnWK4MJQL25QRYfDOY1D9k-g",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

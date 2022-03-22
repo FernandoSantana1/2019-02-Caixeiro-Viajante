@@ -1,0 +1,738 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "HPC8+JM Curitiba, State of Paraná, Brazil",
+      "global_code" : "586GHPC8+JM"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "755",
+               "short_name" : "755",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alameda Prudente de Moraes",
+               "short_name" : "Alameda Prudente de Moraes",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Centro",
+               "short_name" : "Centro",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80430-220",
+               "short_name" : "80430-220",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alameda Prudente de Moraes, 755 - Centro, Curitiba - PR, 80430-220, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.428369,
+               "lng" : -49.28316299999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4270200197085,
+                  "lng" : -49.2818140197085
+               },
+               "southwest" : {
+                  "lat" : -25.4297179802915,
+                  "lng" : -49.28451198029149
+               }
+            }
+         },
+         "place_id" : "ChIJybOSwQnk3JQRD7rYBKeFeCk",
+         "plus_code" : {
+            "compound_code" : "HPC8+MP Curitiba, State of Paraná, Brazil",
+            "global_code" : "586GHPC8+MP"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "748",
+               "short_name" : "748",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alameda Prudente de Moraes",
+               "short_name" : "Alameda Prudente de Moraes",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mercês",
+               "short_name" : "Mercês",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80430-220",
+               "short_name" : "80430-220",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alameda Prudente de Moraes, 748 - Mercês, Curitiba - PR, 80430-220, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.4284776,
+               "lng" : -49.2833838
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.42712861970849,
+                  "lng" : -49.2820348197085
+               },
+               "southwest" : {
+                  "lat" : -25.4298265802915,
+                  "lng" : -49.28473278029149
+               }
+            }
+         },
+         "place_id" : "ChIJe0_wwgnk3JQRl7LIvcZSxG8",
+         "plus_code" : {
+            "compound_code" : "HPC8+JJ Curitiba, State of Paraná, Brazil",
+            "global_code" : "586GHPC8+JJ"
+         },
+         "types" : [ "clothing_store", "establishment", "point_of_interest", "store" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "770",
+               "short_name" : "770",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alameda Prudente de Moraes",
+               "short_name" : "Alameda Prudente de Moraes",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "São Francisco",
+               "short_name" : "São Francisco",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80430-220",
+               "short_name" : "80430-220",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alameda Prudente de Moraes, 770 - São Francisco, Curitiba - PR, 80430-220, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.428576,
+               "lng" : -49.2833517
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4272270197085,
+                  "lng" : -49.2820027197085
+               },
+               "southwest" : {
+                  "lat" : -25.4299249802915,
+                  "lng" : -49.2847006802915
+               }
+            }
+         },
+         "place_id" : "ChIJswlNwgnk3JQRcueZdqdfU1I",
+         "plus_code" : {
+            "compound_code" : "HPC8+HM Curitiba, State of Paraná, Brazil",
+            "global_code" : "586GHPC8+HM"
+         },
+         "types" : [ "establishment", "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "746",
+               "short_name" : "746",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alameda Prudente de Moraes",
+               "short_name" : "Alameda Prudente de Moraes",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Centro",
+               "short_name" : "Centro",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82860-140",
+               "short_name" : "82860-140",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alameda Prudente de Moraes, 746 - Centro, Curitiba - PR, 82860-140, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.4283977,
+               "lng" : -49.2833269
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.42704871970849,
+                  "lng" : -49.2819779197085
+               },
+               "southwest" : {
+                  "lat" : -25.4297466802915,
+                  "lng" : -49.28467588029149
+               }
+            }
+         },
+         "place_id" : "Ej9BbGFtZWRhIFBydWRlbnRlIGRlIE1vcmFlcywgNzQ2IC0gQ2VudHJvLCBDdXJpdGliYSAtIFBSLCBCcmF6aWwiGxIZChQKEgl7dafDCeTclBE42ARTz7YkWxDqBQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "722-760",
+               "short_name" : "722-760",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alameda Prudente de Moraes",
+               "short_name" : "Alameda Prudente de Moraes",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Centro",
+               "short_name" : "Centro",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82860-140",
+               "short_name" : "82860-140",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alameda Prudente de Moraes, 722-760 - Centro, Curitiba - PR, 82860-140, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.4282091,
+                  "lng" : -49.2832807
+               },
+               "southwest" : {
+                  "lat" : -25.4284974,
+                  "lng" : -49.2834143
+               }
+            },
+            "location" : {
+               "lat" : -25.4283533,
+               "lng" : -49.2833475
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4270042697085,
+                  "lng" : -49.28199851970849
+               },
+               "southwest" : {
+                  "lat" : -25.4297022302915,
+                  "lng" : -49.28469648029149
+               }
+            }
+         },
+         "place_id" : "ChIJe3Wnwwnk3JQRONgEU8-2JFs",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "80430-220",
+               "short_name" : "80430-220",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Mercês",
+               "short_name" : "Mercês",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mercês, Curitiba - State of Paraná, 80430-220, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.4221667,
+                  "lng" : -49.2815866
+               },
+               "southwest" : {
+                  "lat" : -25.4314112,
+                  "lng" : -49.2864583
+               }
+            },
+            "location" : {
+               "lat" : -25.4267976,
+               "lng" : -49.2839846
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4221667,
+                  "lng" : -49.2815866
+               },
+               "southwest" : {
+                  "lat" : -25.4314112,
+                  "lng" : -49.2864583
+               }
+            }
+         },
+         "place_id" : "ChIJqQaJIArk3JQRLl7QeTuDVpU",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "80410",
+               "short_name" : "80410",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Matriz",
+               "short_name" : "Matriz",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Matriz, Curitiba - State of Paraná, 80410, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.4243901,
+                  "lng" : -49.2758433
+               },
+               "southwest" : {
+                  "lat" : -25.4359976,
+                  "lng" : -49.284805
+               }
+            },
+            "location" : {
+               "lat" : -25.430016,
+               "lng" : -49.28034090000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4243901,
+                  "lng" : -49.2758433
+               },
+               "southwest" : {
+                  "lat" : -25.4359976,
+                  "lng" : -49.284805
+               }
+            }
+         },
+         "place_id" : "ChIJA2WGlQvk3JQRLhFEdc_Qg0U",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mercês",
+               "short_name" : "Mercês",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mercês, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.4142271,
+                  "lng" : -49.2791773
+               },
+               "southwest" : {
+                  "lat" : -25.4306924,
+                  "lng" : -49.30881369999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4220894,
+               "lng" : -49.2918813
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4142271,
+                  "lng" : -49.2791773
+               },
+               "southwest" : {
+                  "lat" : -25.4306924,
+                  "lng" : -49.30881369999999
+               }
+            }
+         },
+         "place_id" : "ChIJlVV3tfzj3JQRQZdn8x7IoIw",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Matriz",
+               "short_name" : "Matriz",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Matriz, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3928639,
+                  "lng" : -49.2184679
+               },
+               "southwest" : {
+                  "lat" : -25.4688678,
+                  "lng" : -49.3192934
+               }
+            },
+            "location" : {
+               "lat" : -25.4217847,
+               "lng" : -49.2740045
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3928639,
+                  "lng" : -49.2184679
+               },
+               "southwest" : {
+                  "lat" : -25.4688678,
+                  "lng" : -49.3192934
+               }
+            }
+         },
+         "place_id" : "ChIJSdL-QBTk3JQRTa4Zsr5CKw0",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba, State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4289541,
+               "lng" : -49.267137
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            }
+         },
+         "place_id" : "ChIJ3bPNUVPj3JQRCejLuqVrL20",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4808762,
+               "lng" : -49.3044253
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            }
+         },
+         "place_id" : "ChIJ8Q8J_PXj3JQRR7crCbCDejw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            },
+            "location" : {
+               "lat" : -25.2520888,
+               "lng" : -52.0215415
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            }
+         },
+         "place_id" : "ChIJnWK4MJQL25QRYfDOY1D9k-g",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,229 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJuX_f1G3h3JQR0ECnuW618R4",
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJVbLwfN_j3JQRgdJfUWgsYoI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.4098134,
+               "lng" : -49.3053106
+            },
+            "southwest" : {
+               "lat" : -25.4237871,
+               "lng" : -49.3193886
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.6 km",
+                  "value" : 3625
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 448
+               },
+               "end_address" : "Av. Cândido Hartmann, 2297 - Bigorrilho, Curitiba - PR, 80710-410, Brazil",
+               "end_location" : {
+                  "lat" : -25.4236698,
+                  "lng" : -49.306454
+               },
+               "start_address" : "Ângelo Domingos Durigan, 519 - Cascatinha - Cascatinha, Curitiba - PR, 82025-100, Brazil",
+               "start_location" : {
+                  "lat" : -25.4098134,
+                  "lng" : -49.3120632
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 527
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 62
+                     },
+                     "end_location" : {
+                        "lat" : -25.4139794,
+                        "lng" : -49.310632
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eR. Ângelo Domingos Durigan\u003c/b\u003e toward \u003cb\u003eRua Leocádio Júlio de Assumpção\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "hzazCjg~kH^Q^MVIXCZBZF\\JVNFBTLVN@@ND@?N@PC\\I`@KRIHCj@STOVSTQTSBCVUhCuBHILMVMFCHAh@A"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4098134,
+                        "lng" : -49.3120632
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 516
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 54
+                     },
+                     "end_location" : {
+                        "lat" : -25.4130854,
+                        "lng" : -49.3156567
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAv. Manoel Ribas\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "jtbzCl~}kHGf@Gd@SfBCZCLq@pFAFGj@Y|BOnAKt@EVEXKbA?d@?J?RBf@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4139794,
+                        "lng" : -49.310632
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 628
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 75
+                     },
+                     "end_location" : {
+                        "lat" : -25.4169915,
+                        "lng" : -49.3193886
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Ângelo Trevisan\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "xnbzCz}~kHN@r@Bf@DD@^DhAPb@HZF\\F\\FdARB@RFFBFDFD@BDHZz@FRFNL`@L\\^fALb@l@dBN`@f@`AT^?@f@~@Zl@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4130854,
+                        "lng" : -49.3156567
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1118
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 121
+                     },
+                     "end_location" : {
+                        "lat" : -25.4226617,
+                        "lng" : -49.31159599999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Nicolau José Gravina\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "dgczCdu_lHT_@JOJM\\URMNKFGBGDMBK@M?c@Do@NkA@KFq@H_@@EV{@Nk@BGx@gC^oAt@sCFUBIPk@L_@FOFO@CJUHQFIHGBADCF?JAL@JFJHRNJHRDL?B?TAFA@AZG`@GFA^I@?HCf@Kb@W`@g@T_@PSR]DEDGNS@ANMTULM@APUVa@Rc@BIDOH[J_@FOBEBEBAJE"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4169915,
+                        "lng" : -49.3193886
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 657
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 73
+                     },
+                     "end_location" : {
+                        "lat" : -25.4229378,
+                        "lng" : -49.3053106
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eAv. Cândido Hartmann\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eGo through 1 roundabout\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "rjdzCnd~kHDcB?w@?WAwB?e@?A@g@?KDSZsAPu@Ls@@INq@?ADIBM@EBU@?@?@?@?@?@A@?@A@??A@?@A@A?A@??A@A?A@A?A?A?A?A?A?A?A?A?A?AAA?A?AAA?AA??AAAAAA?AACe@Ee@AQEc@ImAESIy@Eq@MsBA_@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4226617,
+                        "lng" : -49.31159599999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 102
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : -25.4237871,
+                        "lng" : -49.30570119999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eRua Doutor Aluízio França\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "jldzCd}|kHbAZ^N^P@?b@N"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4229378,
+                        "lng" : -49.3053106
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "77 m",
+                        "value" : 77
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 43
+                     },
+                     "end_location" : {
+                        "lat" : -25.4236698,
+                        "lng" : -49.306454
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "tqdzCr_}kHWtC"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4237871,
+                        "lng" : -49.30570119999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "hzazCjg~kH~@_@VIXCv@Jt@Zv@b@PD`@A|Ac@`Ac@l@e@zDcDVW^Qr@COlAmAbKs@`Gc@jD?p@Bz@pBLhDh@dCd@ZJNJj@|AbAvCz@hCN`@f@`AT`@bAlB`@o@h@c@j@a@HUDYDsAPwAPqAXaAlBkGrA_F^cATg@PQHERAXH^X^NP?z@MjASp@Ob@W`@g@f@s@Xc@f@k@v@{@j@eAHYT{@JUFGJEDcB?oAA}C@i@D_@|@gEXkAD[@?B?LEHM?OEMEEM_BOqBOmASeDA_@bAZ~@`@d@NWtC"
+         },
+         "summary" : "R. Nicolau José Gravina",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

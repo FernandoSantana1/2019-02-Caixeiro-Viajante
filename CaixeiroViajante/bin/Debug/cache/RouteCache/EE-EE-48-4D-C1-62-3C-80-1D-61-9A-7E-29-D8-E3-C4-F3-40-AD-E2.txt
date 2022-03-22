@@ -1,0 +1,321 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJOdStSh7k3JQRL8pFykxe0PY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJFXhUuv_k3JQRn6On857C31E",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.4089048,
+               "lng" : -49.2452445
+            },
+            "southwest" : {
+               "lat" : -25.4431559,
+               "lng" : -49.2681639
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "5.4 km",
+                  "value" : 5382
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 891
+               },
+               "end_address" : "Av. Prefeito Omar Sabbag, 1200 - Jardim Botânico, Curitiba - PR, 80210-000, Brazil",
+               "end_location" : {
+                  "lat" : -25.4431559,
+                  "lng" : -49.2452445
+               },
+               "start_address" : "R. Mal. Hermes, 999 - Centro Cívico, Curitiba - PR, 80530-230, Brazil",
+               "start_location" : {
+                  "lat" : -25.4094687,
+                  "lng" : -49.2676162
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "21 m",
+                        "value" : 21
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : -25.4096522,
+                        "lng" : -49.2676671
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e toward \u003cb\u003eR. Manoel Eufrásio\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "dxazCrqukHb@H"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4094687,
+                        "lng" : -49.2676162
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 125
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : -25.4089048,
+                        "lng" : -49.2680263
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eR. Manoel Eufrásio\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "hyazC|qukH@B?@?DCTGb@CPADEBE?}AS[E"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4096522,
+                        "lng" : -49.2676671
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 183
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 59
+                     },
+                     "end_location" : {
+                        "lat" : -25.4090287,
+                        "lng" : -49.2662127
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. Manoel Eufrásio\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "rtazCdtukHXkJ"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4089048,
+                        "lng" : -49.2680263
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 391
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 68
+                     },
+                     "end_location" : {
+                        "lat" : -25.4124971,
+                        "lng" : -49.2658671
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. Mal. Hermes\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "luazCxhukHp@GNAbAG~@Gn@EJAr@EfAKz@E`F]JFLJ"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4090287,
+                        "lng" : -49.2662127
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 714
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 126
+                     },
+                     "end_location" : {
+                        "lat" : -25.4145005,
+                        "lng" : -49.2600627
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e3rd\u003c/b\u003e exit onto \u003cb\u003eR. Dep. Mário de Barros\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "bkbzCtfukH?@?B?@?B?@@B?@@@@B@BB@@@@@@@@@@?B@@?@?B?@?@?B?@AB?@A@A@?@A@A@A@C@A@A?A@C?C?A?A?C?A?C?A?CAA?CAAAA?CAAAAAAC?AAAAA?AAC?IOAAEGLmBJmBFcABs@Fg@TwADYl@qDLs@Fa@DMBIFULUr@eAp@eAl@_ADIp@}@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4124971,
+                        "lng" : -49.2658671
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 323
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 53
+                     },
+                     "end_location" : {
+                        "lat" : -25.4169064,
+                        "lng" : -49.2586464
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eRua Alberto Bolliger\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "rwbzCjbtkHN^XCPC`Am@JIPIROPMp@c@VOrA}@pAw@n@g@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4145005,
+                        "lng" : -49.2600627
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 356
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 70
+                     },
+                     "end_location" : {
+                        "lat" : -25.4198764,
+                        "lng" : -49.2599657
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. Barão de Guaraúna\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "tfczCpyskH`@LPDh@TND^JdBr@bBn@tBl@pA^TFZP"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4169064,
+                        "lng" : -49.2586464
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 207
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : -25.4212339,
+                        "lng" : -49.2613765
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eR. Amâncio Môro\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "fyczCxatkH`@b@HHb@f@r@r@VVX^d@b@DFj@j@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4198764,
+                        "lng" : -49.2599657
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.8 km",
+                        "value" : 1763
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 225
+                     },
+                     "end_location" : {
+                        "lat" : -25.4356171,
+                        "lng" : -49.2542489
+                     },
+                     "html_instructions" : "\u003cb\u003eR. Amâncio Môro\u003c/b\u003e turns \u003cb\u003eleft\u003c/b\u003e and becomes \u003cb\u003eR. Ubaldino do Amaral\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "tadzCrjtkHrBs@XIpAe@rAe@|By@bCw@dBm@\\MfC{@`A[`@Ob@Od@On@Qh@Ml@QnA[pAYb@M`Ck@h@M`@K~@U|D}@RGNIJGdAw@v@c@fAm@d@YNEFEFC\\SBA@ADADCBAFEzA{@lBgARMTM@ADCFEDALG`Ai@NK~CuANGj@WLIRO^Y^a@RU"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4212339,
+                        "lng" : -49.2613765
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 886
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 157
+                     },
+                     "end_location" : {
+                        "lat" : -25.441405,
+                        "lng" : -49.2487167
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eAv. Prefeito Omar Sabbag\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "r{fzC`~rkHDGHIDG@ADEh@s@d@q@FId@}@j@eANUPYHOT[d@i@h@e@JKh@e@`A}@x@u@x@u@x@s@v@u@|@s@z@s@bAq@BAb@YFEJEFCB?D?B?BBTLB@FBF@HAD?JEd@YPKTOJIHKDK@M@I?M@G?E@I"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4356171,
+                        "lng" : -49.2542489
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 413
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : -25.4431559,
+                        "lng" : -49.2452445
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eAv. Prefeito Omar Sabbag\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "v_hzCn{qkHDGFGHGHG@?XQHGPKp@c@DEFIHQJ_@Nu@ZoAZkAtAeGH[FW"
+                     },
+                     "start_location" : {
+                        "lat" : -25.441405,
+                        "lng" : -49.2487167
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "dxazCrqukHb@H@B?FQpAKByBYXkJp@GrAInDUbCQ`F]JFLL?D@JHJFFT@PKFUCWOOCAMOGIX{EJwB\\_ChAaHHWTk@xCuEp@}@N^j@GrBqAnD_CpAw@n@g@r@R~DzAbBn@tBl@fBf@ZP`@b@l@p@jAjA~@bAp@r@lC}@dDkA`GqBlIsCzCaAjNiD|FsAb@QpA_A~BqAdAi@h@YfGmD`@SpAu@nD}Ax@a@r@i@bAiAv@cAl@{@pAcC`A{Ad@i@h@e@t@q@nF}EtBiBz@s@bAq@f@[RKTCd@VP?PExA_ANWBWBe@LOROv@e@v@i@P[rAqFfByH"
+         },
+         "summary" : "R. Ubaldino do Amaral",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

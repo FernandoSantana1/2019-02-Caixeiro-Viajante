@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJZ9ebO9Lm3JQRIgZfA0lVtRU",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJZ9ebO9Lm3JQRIgZfA0lVtRU",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.3830021,
+               "lng" : -49.2800291
+            },
+            "southwest" : {
+               "lat" : -25.3830021,
+               "lng" : -49.2800291
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "R. Eugênio Flôr, 275 - Abranches, Curitiba - PR, 82130-290, Brazil",
+               "end_location" : {
+                  "lat" : -25.3830021,
+                  "lng" : -49.2800291
+               },
+               "start_address" : "R. Eugênio Flôr, 275 - Abranches, Curitiba - PR, 82130-290, Brazil",
+               "start_location" : {
+                  "lat" : -25.3830021,
+                  "lng" : -49.2800291
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : -25.3830021,
+                        "lng" : -49.2800291
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eR. Eugênio Flôr\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "vr|yCd_xkH"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3830021,
+                        "lng" : -49.2800291
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "vr|yCd_xkH"
+         },
+         "summary" : "R. Eugênio Flôr",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

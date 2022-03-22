@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJPV8gyr3m3JQRstJN3i_-U3E",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJPV8gyr3m3JQRstJN3i_-U3E",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.3957899,
+               "lng" : -49.2660376
+            },
+            "southwest" : {
+               "lat" : -25.3957899,
+               "lng" : -49.2660376
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "R. Casimiro Jose M De Abreu, 555 - São Lourenço, Curitiba - PR, 82200-130, Brazil",
+               "end_location" : {
+                  "lat" : -25.3957899,
+                  "lng" : -49.2660376
+               },
+               "start_address" : "R. Casimiro Jose M De Abreu, 555 - São Lourenço, Curitiba - PR, 82200-130, Brazil",
+               "start_location" : {
+                  "lat" : -25.3957899,
+                  "lng" : -49.2660376
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : -25.3957899,
+                        "lng" : -49.2660376
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eRua Casimiro José Marquês de Abreu\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "tb_zCvgukH"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3957899,
+                        "lng" : -49.2660376
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "tb_zCvgukH"
+         },
+         "summary" : "Rua Casimiro José Marquês de Abreu",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,277 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJY-Hi7lrh3JQRrEGwhs8HdD4",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJVbLwfN_j3JQRgdJfUWgsYoI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.4112408,
+               "lng" : -49.2927049
+            },
+            "southwest" : {
+               "lat" : -25.4237871,
+               "lng" : -49.306454
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.8 km",
+                  "value" : 2839
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 456
+               },
+               "end_address" : "Av. Cândido Hartmann, 2297 - Bigorrilho, Curitiba - PR, 80710-410, Brazil",
+               "end_location" : {
+                  "lat" : -25.4236698,
+                  "lng" : -49.306454
+               },
+               "start_address" : "Rua Victório Viezzer, 930 - Vista Alegre, Curitiba - PR, 80810-340, Brazil",
+               "start_location" : {
+                  "lat" : -25.4112408,
+                  "lng" : -49.2961609
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 181
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : -25.4117329,
+                        "lng" : -49.29446129999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eRua Victório Viezzer\u003c/b\u003e toward \u003cb\u003eRua Júlio Graf\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "fcbzC~c{kH@CTy@Jm@Hi@Bc@B]De@Hc@@ALUJY"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4112408,
+                        "lng" : -49.2961609
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 729
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 102
+                     },
+                     "end_location" : {
+                        "lat" : -25.4179473,
+                        "lng" : -49.2938204
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit and stay on \u003cb\u003eRua Victório Viezzer\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "hfbzCjyzkH@?@A@??A?A@?VUFK?AZOVING\\GVCX@\\D`@FF@TF^HHD\\NLFHBTLTHPFH@DBVBT@P?NAFA`@K@?d@O^OZOt@[v@a@REZEr@CpACnACPAP?fAAZ?x@?"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4117329,
+                        "lng" : -49.29446129999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 300
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 58
+                     },
+                     "end_location" : {
+                        "lat" : -25.420339,
+                        "lng" : -49.2927049
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eAv. Manoel Ribas\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "dmczCjuzkHLTd@]d@WjAk@n@Wr@YJENEdA_@bA_@VITK"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4179473,
+                        "lng" : -49.2938204
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 455
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 70
+                     },
+                     "end_location" : {
+                        "lat" : -25.4193866,
+                        "lng" : -49.2971088
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. Alcídes Munhoz\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "b|czCjnzkHIr@Ip@WhBWhBCPIj@U~AKx@WhBYzBWxB"
+                     },
+                     "start_location" : {
+                        "lat" : -25.420339,
+                        "lng" : -49.2927049
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "77 m",
+                        "value" : 77
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : -25.4200437,
+                        "lng" : -49.2968665
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Santo Fabri\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "dvczC|i{kH~@W`AW"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4193866,
+                        "lng" : -49.2971088
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 828
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 108
+                     },
+                     "end_location" : {
+                        "lat" : -25.4229852,
+                        "lng" : -49.3044257
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. Romanó Bertagnoli\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "fzczClh{kHn@hB\\fA`@nALb@DNLb@ZfALd@XbALh@V`AZhAJ`@?@Ld@XdATt@Pn@@DJ`@XhAZhABL`@xAZhADNZrAPn@DHXb@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4200437,
+                        "lng" : -49.2968665
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "90 m",
+                        "value" : 90
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : -25.4229378,
+                        "lng" : -49.3053106
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAv. Cândido Hartmann\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "tldzCtw|kHERAJCP?N?@?V?V@z@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4229852,
+                        "lng" : -49.3044257
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 102
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : -25.4237871,
+                        "lng" : -49.30570119999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eRua Doutor Aluízio França\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "jldzCd}|kHbAZ^N^P@?b@N"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4229378,
+                        "lng" : -49.3053106
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "77 m",
+                        "value" : 77
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 43
+                     },
+                     "end_location" : {
+                        "lat" : -25.4236698,
+                        "lng" : -49.306454
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "tqdzCr_}kHWtC"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4237871,
+                        "lng" : -49.30570119999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "fcbzC~c{kHV}@TwAFaANiAZq@@?@A@A@AVUFKZQf@Qt@K`BPt@Pf@TbAb@x@Pf@@VCb@KdA_@pAk@jAg@nAI`DGfCCx@?LTjAu@zDcBpDoATKIr@a@zC{@fGuAxK`Co@lApDbAfDpCjKnApEbAzDfA`El@bC^l@G^C`@@lBbBj@`@Pb@NWtC"
+         },
+         "summary" : "Rua Victório Viezzer and R. Romanó Bertagnoli",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

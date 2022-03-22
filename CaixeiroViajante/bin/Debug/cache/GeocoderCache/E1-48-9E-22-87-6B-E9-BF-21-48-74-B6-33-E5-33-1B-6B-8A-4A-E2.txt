@@ -1,0 +1,313 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "MM6P+P5 Almirante Tamandaré - Cachoeira, Almirante Tamandaré - PR, Brazil",
+      "global_code" : "586GMM6P+P5"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jardim Santa Maria",
+               "short_name" : "Jardim Santa Maria",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Almirante Tamandaré",
+               "short_name" : "Alm. Tamandaré",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road - Jardim Santa Maria, Alm. Tamandaré - PR, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3371987,
+                  "lng" : -49.3128788
+               },
+               "southwest" : {
+                  "lat" : -25.3376999,
+                  "lng" : -49.3130573
+               }
+            },
+            "location" : {
+               "lat" : -25.3374449,
+               "lng" : -49.3129466
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3361003197085,
+                  "lng" : -49.31161906970851
+               },
+               "southwest" : {
+                  "lat" : -25.33879828029151,
+                  "lng" : -49.31431703029151
+               }
+            }
+         },
+         "place_id" : "ChIJq2gLOiXe3JQRDGAdvqr_C5k",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jardim Santa Maria",
+               "short_name" : "Jardim Santa Maria",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Almirante Tamandaré",
+               "short_name" : "Alm. Tamandaré",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jardim Santa Maria, Alm. Tamandaré - PR, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3249109,
+                  "lng" : -49.28744450000001
+               },
+               "southwest" : {
+                  "lat" : -25.3404315,
+                  "lng" : -49.3309618
+               }
+            },
+            "location" : {
+               "lat" : -25.3307475,
+               "lng" : -49.3018896
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3249109,
+                  "lng" : -49.28744450000001
+               },
+               "southwest" : {
+                  "lat" : -25.3404315,
+                  "lng" : -49.3309618
+               }
+            }
+         },
+         "place_id" : "ChIJC9uOeTze3JQRntN7bkTQKDs",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Almirante Tamandaré",
+               "short_name" : "Alm. Tamandaré",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cachoeira",
+               "short_name" : "Cachoeira",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Almirante Tamandaré",
+               "short_name" : "Alm. Tamandaré",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Alm. Tamandaré - Cachoeira, Alm. Tamandaré - PR, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.227517,
+                  "lng" : -49.234016
+               },
+               "southwest" : {
+                  "lat" : -25.3823802,
+                  "lng" : -49.3453987
+               }
+            },
+            "location" : {
+               "lat" : -25.3193102,
+               "lng" : -49.3042082
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.227517,
+                  "lng" : -49.234016
+               },
+               "southwest" : {
+                  "lat" : -25.3823802,
+                  "lng" : -49.3453987
+               }
+            }
+         },
+         "place_id" : "ChIJtSss-nve3JQRafydorzTdRY",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Almirante Tamandaré",
+               "short_name" : "Almirante Tamandaré",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Almirante Tamandaré - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.224454,
+                  "lng" : -49.2293971
+               },
+               "southwest" : {
+                  "lat" : -25.3842659,
+                  "lng" : -49.4521953
+               }
+            },
+            "location" : {
+               "lat" : -25.3193922,
+               "lng" : -49.3041525
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.224454,
+                  "lng" : -49.2293971
+               },
+               "southwest" : {
+                  "lat" : -25.3842659,
+                  "lng" : -49.4521953
+               }
+            }
+         },
+         "place_id" : "ChIJG89I0uPe3JQRpz4UanbhSJo",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            },
+            "location" : {
+               "lat" : -25.2520888,
+               "lng" : -52.0215415
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            }
+         },
+         "place_id" : "ChIJnWK4MJQL25QRYfDOY1D9k-g",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

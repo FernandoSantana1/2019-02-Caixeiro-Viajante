@@ -1,0 +1,306 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJOdStSh7k3JQRL8pFykxe0PY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJIS_2wEfk3JQRO35Gzk1XmGk",
+         "types" : [
+            "establishment",
+            "furniture_store",
+            "home_goods_store",
+            "point_of_interest",
+            "store"
+         ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.4089048,
+               "lng" : -49.2539897
+            },
+            "southwest" : {
+               "lat" : -25.4265209,
+               "lng" : -49.2681639
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.3 km",
+                  "value" : 3311
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 570
+               },
+               "end_address" : "Rua XV de Novembro, 2023 - Alto da XV, Curitiba - PR, 80045-125, Brazil",
+               "end_location" : {
+                  "lat" : -25.4265209,
+                  "lng" : -49.25508929999999
+               },
+               "start_address" : "R. Mal. Hermes, 999 - Centro Cívico, Curitiba - PR, 80530-230, Brazil",
+               "start_location" : {
+                  "lat" : -25.4094687,
+                  "lng" : -49.2676162
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "21 m",
+                        "value" : 21
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : -25.4096522,
+                        "lng" : -49.2676671
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e toward \u003cb\u003eR. Manoel Eufrásio\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "dxazCrqukHb@H"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4094687,
+                        "lng" : -49.2676162
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 125
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : -25.4089048,
+                        "lng" : -49.2680263
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eR. Manoel Eufrásio\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "hyazC|qukH@B?@?DCTGb@CPADEBE?}AS[E"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4096522,
+                        "lng" : -49.2676671
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 183
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 59
+                     },
+                     "end_location" : {
+                        "lat" : -25.4090287,
+                        "lng" : -49.2662127
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. Manoel Eufrásio\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "rtazCdtukHXkJ"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4089048,
+                        "lng" : -49.2680263
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 391
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 68
+                     },
+                     "end_location" : {
+                        "lat" : -25.4124971,
+                        "lng" : -49.2658671
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. Mal. Hermes\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "luazCxhukHp@GNAbAG~@Gn@EJAr@EfAKz@E`F]JFLJ"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4090287,
+                        "lng" : -49.2662127
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 714
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 126
+                     },
+                     "end_location" : {
+                        "lat" : -25.4145005,
+                        "lng" : -49.2600627
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e3rd\u003c/b\u003e exit onto \u003cb\u003eR. Dep. Mário de Barros\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "bkbzCtfukH?@?B?@?B?@@B?@@@@B@BB@@@@@@@@@@?B@@?@?B?@?@?B?@AB?@A@A@?@A@A@A@C@A@A?A@C?C?A?A?C?A?C?A?CAA?CAAAA?CAAAAAAC?AAAAA?AAC?IOAAEGLmBJmBFcABs@Fg@TwADYl@qDLs@Fa@DMBIFULUr@eAp@eAl@_ADIp@}@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4124971,
+                        "lng" : -49.2658671
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 237
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 40
+                     },
+                     "end_location" : {
+                        "lat" : -25.4162566,
+                        "lng" : -49.2591251
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eRua Alberto Bolliger\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "rwbzCjbtkHN^XCPC`Am@JIPIROPMp@c@VOrA}@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4145005,
+                        "lng" : -49.2600627
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "72 m",
+                        "value" : 72
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : -25.4161498,
+                        "lng" : -49.2584224
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Machado de Assis\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "rbczCp|skHUmC"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4162566,
+                        "lng" : -49.2591251
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 191
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : -25.417152,
+                        "lng" : -49.2569546
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit onto \u003cb\u003eR. Cambará\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "|aczCbxskH@?@A@??A@??A@ABG?C?C?A?A?CACCEfAyARYbBgC"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4161498,
+                        "lng" : -49.2584224
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 301
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 40
+                     },
+                     "end_location" : {
+                        "lat" : -25.4168983,
+                        "lng" : -49.2539897
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Augusto Stresser\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "dhczC|nskHg@_HEu@CSAEEIDcB?s@@}@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.417152,
+                        "lng" : -49.2569546
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1076
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 137
+                     },
+                     "end_location" : {
+                        "lat" : -25.4265209,
+                        "lng" : -49.25508929999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. Alm. Tamandaré\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "rfczCl|rkH|BL|BNbCJdCL|BN|BP~CP|CPV@vBLzBLX@lIb@lBL`BJ"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4168983,
+                        "lng" : -49.2539897
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "dxazCrqukHb@H@B?FQpAKByBYXkJp@GrAInDUbCQ`F]JFLL?D@JHJFFT@PKFUCWOOCAMOGIX{EJwB\\_ChAaHHWTk@xCuEp@}@N^j@GrBqAnD_CSmCBCFK?KAGCEfAyAvBaDm@uIEYEIDcB@qBzF\\hGXzF`@lMr@pQ`A`BJ"
+         },
+         "summary" : "R. Alm. Tamandaré",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

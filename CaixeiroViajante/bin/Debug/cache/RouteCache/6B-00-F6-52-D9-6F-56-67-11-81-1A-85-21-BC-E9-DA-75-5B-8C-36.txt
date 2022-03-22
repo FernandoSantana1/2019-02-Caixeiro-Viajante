@@ -1,0 +1,109 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ6bNJy7nm3JQRxwbj9TmVx_8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJpdhnObrm3JQRF9gZ6rDlzT0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.3946878,
+               "lng" : -49.2725806
+            },
+            "southwest" : {
+               "lat" : -25.3977976,
+               "lng" : -49.2735348
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.5 km",
+                  "value" : 452
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 49
+               },
+               "end_address" : "R. Lívio Moreira, 108 - São Lourenço, Curitiba - PR, 82200-070, Brazil",
+               "end_location" : {
+                  "lat" : -25.3976914,
+                  "lng" : -49.2725806
+               },
+               "start_address" : "R. Nilo Peçanha, 2959 - São Francisco, Curitiba - PR, 82120-440, Brazil",
+               "start_location" : {
+                  "lat" : -25.3946878,
+                  "lng" : -49.2728697
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 355
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : -25.3977976,
+                        "lng" : -49.2735348
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eR. Nilo Peçanha\u003c/b\u003e toward \u003cb\u003eTv. Pio XII\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "x{~yClrvkHN@l@NrCt@NFXF^J`@Jj@F`CDx@BfA@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3946878,
+                        "lng" : -49.2728697
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 97
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 19
+                     },
+                     "end_location" : {
+                        "lat" : -25.3976914,
+                        "lng" : -49.2725806
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Lívio Moreira\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "fo_zCpvvkHIqAAQAUGcA"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3977976,
+                        "lng" : -49.2735348
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "x{~yClrvkHN@l@NbD|@x@R`@Jj@FzDHfA@IqACg@GcA"
+         },
+         "summary" : "R. Nilo Peçanha",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

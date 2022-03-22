@@ -1,0 +1,139 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJIS_2wEfk3JQRO35Gzk1XmGk",
+         "types" : [
+            "establishment",
+            "furniture_store",
+            "home_goods_store",
+            "point_of_interest",
+            "store"
+         ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJmaXy2j_k3JQRaTdeY5Fv8r8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.4259521,
+               "lng" : -49.25503639999999
+            },
+            "southwest" : {
+               "lat" : -25.4275007,
+               "lng" : -49.2634064
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 km",
+                  "value" : 986
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 189
+               },
+               "end_address" : "R. Conselheiro Araújo, 80 - Centro, Curitiba - PR, 80060-230, Brazil",
+               "end_location" : {
+                  "lat" : -25.4261382,
+                  "lng" : -49.2634064
+               },
+               "start_address" : "Rua XV de Novembro, 2023 - Alto da XV, Curitiba - PR, 80045-125, Brazil",
+               "start_location" : {
+                  "lat" : -25.4265927,
+                  "lng" : -49.25503639999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 746
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 129
+                     },
+                     "end_location" : {
+                        "lat" : -25.4275007,
+                        "lng" : -49.26215209999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eRua XV de Novembro\u003c/b\u003e toward \u003cb\u003eR. Alm. Tamandaré\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "dcezC~bskH?JG~@Ad@AHA`AAXM`C?DKlCSpDEdB?NB\\HZNf@b@tAjBzFT`Aj@fBHX"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4265927,
+                        "lng" : -49.25503639999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 190
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 48
+                     },
+                     "end_location" : {
+                        "lat" : -25.4259521,
+                        "lng" : -49.2629543
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. Dr. Faivre\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "zhezClotkHkDxAcAb@eA`@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4275007,
+                        "lng" : -49.26215209999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "50 m",
+                        "value" : 50
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : -25.4261382,
+                        "lng" : -49.2634064
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 2nd cross street onto \u003cb\u003eR. Conselheiro Araújo\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "d_ezClttkHd@zA"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4259521,
+                        "lng" : -49.2629543
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "dcezC~bskHKzBCzAMfC_@~HEtBLx@r@|BjBzFT`At@`CoF|BeA`@d@zA"
+         },
+         "summary" : "Rua XV de Novembro",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,324 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJZ9ebO9Lm3JQRIgZfA0lVtRU",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ_yLWtkLh3JQRex1t9aBijQs",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.3830021,
+               "lng" : -49.2795893
+            },
+            "southwest" : {
+               "lat" : -25.4119123,
+               "lng" : -49.3035667
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "5.1 km",
+                  "value" : 5114
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 624
+               },
+               "end_address" : "R. José Casagrande, 560 - Vista Alegre, Curitiba - PR, 80820-590, Brazil",
+               "end_location" : {
+                  "lat" : -25.4116071,
+                  "lng" : -49.3035667
+               },
+               "start_address" : "R. Eugênio Flôr, 275 - Abranches, Curitiba - PR, 82130-290, Brazil",
+               "start_location" : {
+                  "lat" : -25.3830021,
+                  "lng" : -49.2800291
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 282
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : -25.385489,
+                        "lng" : -49.2796339
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eR. Eugênio Flôr\u003c/b\u003e toward \u003cb\u003eR. André Andreta\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "vr|yCd_xkHd@?h@E|@Mv@I^GhBYpAQHAh@CF?D@LD"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3830021,
+                        "lng" : -49.2800291
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 253
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : -25.3855906,
+                        "lng" : -49.2821162
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. São Salvador\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "hb}yCt|wkHEPEPCPAPANAR?\\@l@Fj@XbEB\\@j@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.385489,
+                        "lng" : -49.2796339
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.5 km",
+                        "value" : 1526
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 192
+                     },
+                     "end_location" : {
+                        "lat" : -25.3962782,
+                        "lng" : -49.28761799999999
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e3rd\u003c/b\u003e exit onto \u003cb\u003eR. Amauri Lange Silvério\u003c/b\u003e heading to \u003cb\u003eUnilivre\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "|b}yCflxkHA?A??@A?A?A@A@A@A@A@?@?@A??@?@A@?@?@?@?@?@@??@?@?@@@?@@@@@?@@@@@@@@?@@@?@?B@B?@?@A@?@A@A@A@A@C@??A?A@A?A@Al@R`BXt@RfB`@b@L~@N`@F|ATRBRB^JHBHBRJTNPN@BNJFFXVFDFDFBJDJBJ@D@F?H@P?JCJAHANCNINKJKVUPONMHGHGFCDCLCNE\\Ef@IB?h@I`@G^Gd@AZ?Z?VB^HJFJHJFHHHJHHJNRZRXb@l@TXVXDDb@d@f@b@pB`Bl@b@ZPRHdAh@XLLFNLHLFLFRHd@Hf@D`@F^P~@Pt@BHDZ@T"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3855906,
+                        "lng" : -49.2821162
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 270
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : -25.398604,
+                        "lng" : -49.2881645
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eAv. Desembargador Hugo Simas\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ve_zCrnykHd@LHBPD^JPF\\L@?VLp@TDBj@PD@L@d@B`AGbAG"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3962782,
+                        "lng" : -49.28761799999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 358
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : -25.401565,
+                        "lng" : -49.2871083
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eR. Santa Cecília\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "ft_zC~qykHrDKF?fACTALClAa@lAa@\\QLGLI@?HGJKLMLO\\a@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.398604,
+                        "lng" : -49.2881645
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 865
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 85
+                     },
+                     "end_location" : {
+                        "lat" : -25.4075935,
+                        "lng" : -49.2924567
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eRua João Tschannerl\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "vf`zClkykHn@r@p@v@bAdAPNr@r@FF|AvBXZj@x@LRXZr@p@HFNNb@\\pAbAp@h@z@j@pBrAlAx@v@h@z@b@hAl@x@^JD"
+                     },
+                     "start_location" : {
+                        "lat" : -25.401565,
+                        "lng" : -49.2871083
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 423
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : -25.4111436,
+                        "lng" : -49.29322459999999
+                     },
+                     "html_instructions" : "Continue straight to stay on \u003cb\u003eRua João Tschannerl\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "llazCzlzkH\\PVN|BfAx@\\XLfBr@`@Fd@Df@?`@C\\GZIdASbAU"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4075935,
+                        "lng" : -49.2924567
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 133
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : -25.4116652,
+                        "lng" : -49.2943747
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. Carlos Razera\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "rbbzCrqzkHRL?@Rd@P`@@@JZTv@FVALDP"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4111436,
+                        "lng" : -49.29322459999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 234
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : -25.4110508,
+                        "lng" : -49.2965745
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eRua Victório Viezzer\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "|ebzCxxzkHA@?@?@?@?@?@@??@GNG`@?BIb@Ed@C\\Cb@Ih@Kl@Ux@Wr@O`@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4116652,
+                        "lng" : -49.2943747
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 716
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 91
+                     },
+                     "end_location" : {
+                        "lat" : -25.4119123,
+                        "lng" : -49.30315179999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eR. Batista Pessine\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "`bbzCpf{kHU\\SZYl@U~@]|AGXCJCPCR?N?J@NF\\H\\Lj@?@Nz@J^PXNTTZ^r@HTFNJ^DXBR@PDh@XxBRjATpA`@rB@DH\\"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4110508,
+                        "lng" : -49.2965745
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "54 m",
+                        "value" : 54
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : -25.4116071,
+                        "lng" : -49.3035667
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. José Casagrande\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "lgbzCto|kHS\\GJGJGHGHGH"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4119123,
+                        "lng" : -49.30315179999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "vr|yCd_xkHnAEtBWdFu@p@CRFKb@Eb@Cb@@jA`@nFDhAC@E@IJAJBJDHJDH@DCHI@E@Cl@R`BX|Ct@bB\\fDd@h@N\\Nx@n@p@j@j@Nh@Bp@K^Ub@a@t@m@j@QrBY`AO`AAr@Bj@Pj@f@|@nAx@fA\\^jAhA~CdCnCrA\\TPZPx@NhAn@~CFp@n@P`Bf@pAf@p@Rr@DdCOzDK|AEzAe@jBs@ZQd@a@j@q@`BjBpCpCpD`FfBdBtB`BlBtA~DlCrBlAlDdBtCvArAj@fBr@`@FlAD~@K`B]bAURLRf@Rb@`@rAFVALBR?B?@@B?@Op@If@WpCa@fBg@tAi@x@Yl@U~@e@vBG\\Cb@@Z^hBZzA`@n@t@nAPd@Px@Dd@^bDh@|Cb@xBH\\S\\OVORGH"
+         },
+         "summary" : "R. Amauri Lange Silvério and Rua João Tschannerl",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

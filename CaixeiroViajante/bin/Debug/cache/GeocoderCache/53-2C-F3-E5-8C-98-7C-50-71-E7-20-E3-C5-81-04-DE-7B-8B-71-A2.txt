@@ -1,0 +1,612 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "HM7Q+66 Curitiba, State of Paraná, Brazil",
+      "global_code" : "586GHM7Q+66"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "365",
+               "short_name" : "365",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Professor Pedro Viriato Parigot de Souza",
+               "short_name" : "R. Prof. Pedro Viriato Parigot de Souza",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mossunguê",
+               "short_name" : "Mossunguê",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80740-050",
+               "short_name" : "80740-050",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Prof. Pedro Viriato Parigot de Souza, 365 - Mossunguê, Curitiba - PR, 80740-050, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.4368363,
+               "lng" : -49.3120884
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4354873197085,
+                  "lng" : -49.3107394197085
+               },
+               "southwest" : {
+                  "lat" : -25.4381852802915,
+                  "lng" : -49.3134373802915
+               }
+            }
+         },
+         "place_id" : "ChIJScE7AMXj3JQRwvBzvbeqp-s",
+         "plus_code" : {
+            "compound_code" : "HM7Q+75 Curitiba, State of Paraná, Brazil",
+            "global_code" : "586GHM7Q+75"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "347",
+               "short_name" : "347",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Professor Pedro Viriato Parigot de Souza",
+               "short_name" : "R. Prof. Pedro Viriato Parigot de Souza",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mossunguê",
+               "short_name" : "Mossunguê",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80740-050",
+               "short_name" : "80740-050",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Prof. Pedro Viriato Parigot de Souza, 347 - Mossunguê, Curitiba - PR, 80740-050, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.4368835,
+               "lng" : -49.3119723
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4355345197085,
+                  "lng" : -49.3106233197085
+               },
+               "southwest" : {
+                  "lat" : -25.4382324802915,
+                  "lng" : -49.3133212802915
+               }
+            }
+         },
+         "place_id" : "EltSLiBQcm9mLiBQZWRybyBWaXJpYXRvIFBhcmlnb3QgZGUgU291emEsIDM0NyAtIE1vc3N1bmd1w6osIEN1cml0aWJhIC0gUFIsIDgwNzQwLTA1MCwgQnJhemlsIhsSGQoUChIJo0goVsTj3JQRu3WLpLUcLKoQ2wI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "274-370",
+               "short_name" : "274-370",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Professor Pedro Viriato Parigot de Souza",
+               "short_name" : "R. Prof. Pedro Viriato Parigot de Souza",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mossunguê",
+               "short_name" : "Mossunguê",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80740-050",
+               "short_name" : "80740-050",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Prof. Pedro Viriato Parigot de Souza, 274-370 - Mossunguê, Curitiba - PR, 80740-050, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.4364696,
+                  "lng" : -49.3109757
+               },
+               "southwest" : {
+                  "lat" : -25.43698,
+                  "lng" : -49.3122987
+               }
+            },
+            "location" : {
+               "lat" : -25.4367721,
+               "lng" : -49.3116143
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4353758197085,
+                  "lng" : -49.3102882197085
+               },
+               "southwest" : {
+                  "lat" : -25.4380737802915,
+                  "lng" : -49.3129861802915
+               }
+            }
+         },
+         "place_id" : "ChIJo0goVsTj3JQRunWLpLUcLKo",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "81280-330",
+               "short_name" : "81280-330",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Cidade Industrial",
+               "short_name" : "Cidade Industrial",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cidade Industrial, Curitiba - State of Paraná, 81280-330, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.4351117,
+                  "lng" : -49.3091647
+               },
+               "southwest" : {
+                  "lat" : -25.4372993,
+                  "lng" : -49.33215819999999
+               }
+            },
+            "location" : {
+               "lat" : -25.436486,
+               "lng" : -49.318532
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4348565197085,
+                  "lng" : -49.3091647
+               },
+               "southwest" : {
+                  "lat" : -25.4375544802915,
+                  "lng" : -49.33215819999999
+               }
+            }
+         },
+         "place_id" : "ChIJd9EO9xzi3JQR-XrwU_hAdDs",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Campina do Siqueira",
+               "short_name" : "Campina do Siqueira",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Campina do Siqueira, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.4320084,
+                  "lng" : -49.2979563
+               },
+               "southwest" : {
+                  "lat" : -25.4454664,
+                  "lng" : -49.3181157
+               }
+            },
+            "location" : {
+               "lat" : -25.438672,
+               "lng" : -49.3073614
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4320084,
+                  "lng" : -49.2979563
+               },
+               "southwest" : {
+                  "lat" : -25.4454664,
+                  "lng" : -49.3181157
+               }
+            }
+         },
+         "place_id" : "ChIJIUVB8sDj3JQRgFq3R0AzcKg",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "80740",
+               "short_name" : "80740",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Santa Felicidade",
+               "short_name" : "Santa Felicidade",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Felicidade, Curitiba - State of Paraná, 80740, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.4293898,
+                  "lng" : -49.3062637
+               },
+               "southwest" : {
+                  "lat" : -25.4500923,
+                  "lng" : -49.3207371
+               }
+            },
+            "location" : {
+               "lat" : -25.441814,
+               "lng" : -49.31203300000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4293898,
+                  "lng" : -49.3062637
+               },
+               "southwest" : {
+                  "lat" : -25.4500923,
+                  "lng" : -49.3207371
+               }
+            }
+         },
+         "place_id" : "ChIJn1Sl4cXj3JQRE5mx47H2_CA",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Felicidade",
+               "short_name" : "Santa Felicidade",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Felicidade, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3574986,
+                  "lng" : -49.28389989999999
+               },
+               "southwest" : {
+                  "lat" : -25.478325,
+                  "lng" : -49.38983289999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4040074,
+               "lng" : -49.3286941
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3574986,
+                  "lng" : -49.28389989999999
+               },
+               "southwest" : {
+                  "lat" : -25.478325,
+                  "lng" : -49.38983289999999
+               }
+            }
+         },
+         "place_id" : "ChIJVyZ-IkHh3JQRDh40dyt3LqI",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba, State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4289541,
+               "lng" : -49.267137
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            }
+         },
+         "place_id" : "ChIJ3bPNUVPj3JQRCejLuqVrL20",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4808762,
+               "lng" : -49.3044253
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            }
+         },
+         "place_id" : "ChIJ8Q8J_PXj3JQRR7crCbCDejw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            },
+            "location" : {
+               "lat" : -25.2520888,
+               "lng" : -52.0215415
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            }
+         },
+         "place_id" : "ChIJnWK4MJQL25QRYfDOY1D9k-g",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

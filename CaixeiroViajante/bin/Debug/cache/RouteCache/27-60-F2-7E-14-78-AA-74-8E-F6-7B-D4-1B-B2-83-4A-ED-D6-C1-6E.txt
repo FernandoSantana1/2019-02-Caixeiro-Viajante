@@ -1,0 +1,203 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJt9Cz3srm3JQRXgABOivCMC8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJEfXiXtTm3JQR6Nu_ZM-iC2I",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.3795681,
+               "lng" : -49.2821154
+            },
+            "southwest" : {
+               "lat" : -25.3935039,
+               "lng" : -49.2859022
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.2 km",
+                  "value" : 2151
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 291
+               },
+               "end_address" : "Rua Lory Lunardon - Taboão, Curitiba - PR, 82130, Brazil",
+               "end_location" : {
+                  "lat" : -25.3796041,
+                  "lng" : -49.28246590000001
+               },
+               "start_address" : "R. P Min Brochado Rocha, 29 - Pilarzinho, Curitiba - PR, 82120-100, Brazil",
+               "start_location" : {
+                  "lat" : -25.3935039,
+                  "lng" : -49.28330949999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "52 m",
+                        "value" : 52
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : -25.3930525,
+                        "lng" : -49.28341349999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eRua Primeiro Ministro Brochado da Rocha\u003c/b\u003e toward \u003cb\u003eR. Amauri Lange Silvério\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "jt~yCtsxkHC?c@@G@G@QFOD"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3935039,
+                        "lng" : -49.28330949999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 882
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 109
+                     },
+                     "end_location" : {
+                        "lat" : -25.3857357,
+                        "lng" : -49.2822854
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. Amauri Lange Silvério\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "pq~yChtxkHKOIIIKIIKGKIKG_@IWC[?[?e@@_@Fa@Fi@HC?g@H]DODMBEBGBIFIFOLQNWTKJOJOHOBI@K@KBQ?IAG?EAKAKCKEGCGEGEYWGGOKACQOUOSKICIC_@KSCSC}AUa@G_AOc@MgBa@u@SaBYm@S"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3930525,
+                        "lng" : -49.28341349999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 264
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : -25.3858079,
+                        "lng" : -49.2842642
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e3rd\u003c/b\u003e exit onto \u003cb\u003eR. São Salvador\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "zc}yChmxkH?A?A?A?A?AAA?A?A?AA??A?AA??AA??A?AA?AAA??AA?AAA?A?A?A?A?A?A?A??@A?A?A@A@A@A@A@?@?@A??@?@A@?@?@?@?@?@@??@?@?@@@?@@@@@?@@@@@@@@?@@@?@?B@B?Lv@HfA@LP~BFj@?@?N?FAD?@AB?BA@ABGF"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3857357,
+                        "lng" : -49.2822854
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 249
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : -25.3842742,
+                        "lng" : -49.2859022
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eRua Domingos Antônio Moro\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "hd}yCryxkHe@X_Bx@m@ZMFGDIFIFEFIHILGJGNCNI`@G\\Ul@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3858079,
+                        "lng" : -49.2842642
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 184
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : -25.3829829,
+                        "lng" : -49.28479799999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eRua Dr. Bemben\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "tz|yCzcykHs@u@k@m@a@c@_@_@g@[KGUIMEG?"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3842742,
+                        "lng" : -49.2859022
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 520
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 79
+                     },
+                     "end_location" : {
+                        "lat" : -25.3796041,
+                        "lng" : -49.28246590000001
+                     },
+                     "html_instructions" : "\u003cb\u003eRua Dr. Bemben\u003c/b\u003e turns slightly \u003cb\u003eleft\u003c/b\u003e and becomes \u003cb\u003eRua Frei Bernardino Tomat\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "rr|yC~|xkHKAS?Y?e@?KAQASAGAGCCCCCCCACCGAICQCc@?AAGAC?AAA?AA?AAAACACAEAW?O?_@@uAHSAI?a@GKCe@SIEm@c@KIWOw@w@Ma@EMCIGWKc@AS?C?GBS@K?A?C"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3829829,
+                        "lng" : -49.28479799999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "jt~yCtsxkHg@@OBa@LUYk@g@k@Qs@CaA@aANsBXk@Pu@l@c@`@_@Tq@Ji@Ck@Oq@k@y@o@]Oi@OgDe@cB]}Cu@aBYm@S?C?EACEIGGKAKBGJCH@JFJHDH@Lv@HfARlCFl@?VCNCDm@`@cDbBc@`@QXK^Q~@Ul@s@u@mAqA_@_@g@[a@QUE_BAy@GKGGGEKE[Gq@CEKG]Ao@@iBFk@Gq@Ww@i@c@Yw@w@Ma@IWS{@AWB[@Q"
+         },
+         "summary" : "R. Amauri Lange Silvério",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,421 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EktBdi4gUHJlZmVpdG8gTWF1csOtY2lvIEZydWV0LCAyNDYgLSBKYXJkaW0gQm90w6JuaWNvLCBDdXJpdGliYSAtIFBSLCBCcmF6aWwiGxIZChQKEgkRbbEDB-XclBGoVWgO2J2PrBD2AQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJbfW59HTk3JQRI8PiLXsO-48",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.4330413,
+               "lng" : -49.23732889999999
+            },
+            "southwest" : {
+               "lat" : -25.4410995,
+               "lng" : -49.2805938
+            }
+         },
+         "copyrights" : "Map data ©2019 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "5.4 km",
+                  "value" : 5422
+               },
+               "duration" : {
+                  "text" : "15 mins",
+                  "value" : 910
+               },
+               "end_address" : "R. Brg. Franco, 1693 - Centro, Curitiba - PR, 80420-200, Brazil",
+               "end_location" : {
+                  "lat" : -25.4359549,
+                  "lng" : -49.2805938
+               },
+               "start_address" : "Av. Prefeito Maurício Fruet, 246 - Jardim Botânico, Curitiba - PR, 82590-100, Brazil",
+               "start_location" : {
+                  "lat" : -25.4410995,
+                  "lng" : -49.2377926
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 253
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 48
+                     },
+                     "end_location" : {
+                        "lat" : -25.4397031,
+                        "lng" : -49.23848779999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "z}gzCdwokH[[Wm@ACACAAAAYGI@C?C@MBQFoAx@]TMFCBEDCF?@EFCFCFAFAD?F?F@HBRBR@D"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4410995,
+                        "lng" : -49.2377926
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "24 m",
+                        "value" : 24
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : -25.4395276,
+                        "lng" : -49.2386249
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eAv. Prefeito Maurício Fruet\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "bugzCp{okHGFOHIF"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4397031,
+                        "lng" : -49.23848779999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "70 m",
+                        "value" : 70
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : -25.4395701,
+                        "lng" : -49.2379529
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAv. Prefeito Maurício Fruet\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "`tgzCj|okHACESAUAc@FSJ_@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4395276,
+                        "lng" : -49.2386249
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "43 m",
+                        "value" : 43
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : -25.4393932,
+                        "lng" : -49.2375756
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. João Dranka\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "htgzCdxokHKSCKAAGQIU"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4395701,
+                        "lng" : -49.2379529
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.2 km",
+                        "value" : 2175
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 296
+                     },
+                     "end_location" : {
+                        "lat" : -25.4355853,
+                        "lng" : -49.2579702
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eAv. Presidente Affonso Camargo\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "dsgzCzuokHy@j@KJMFa@PuAbASLUTWROPKNA@S\\Wh@?@Uj@Md@Kf@E`@CXC^?TAh@AlAChA?DAj@AXCl@i@tFEZK|@Gh@Cd@ARADEf@SpBIt@Gd@G^GZe@xBCLm@zCENCNOp@s@xCMr@Mr@I~AK|AC|B?NAvA@b@BtF@fCAr@?@?P@J?XAx@Av@?T@L?F?\\@d@?X?`@?z@@|A@xBBxB?J@xA@~A"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4393932,
+                        "lng" : -49.2375756
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 302
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 68
+                     },
+                     "end_location" : {
+                        "lat" : -25.4331453,
+                        "lng" : -49.2592864
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. Dr. Faivre\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "l{fzChuskHg@TeAb@KFuAj@QFe@PyAl@_Ad@eAj@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4355853,
+                        "lng" : -49.2579702
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "62 m",
+                        "value" : 62
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : -25.4332175,
+                        "lng" : -49.2597911
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eAv. Visc. de Guarapuava\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "dlfzCp}skHKBIDV~@FRBD"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4331453,
+                        "lng" : -49.2592864
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 196
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : -25.4339218,
+                        "lng" : -49.2615753
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eAv. Visc. de Guarapuava\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "rlfzCt`tkH`@tAd@~AT~@FRFPFRRn@@D"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4332175,
+                        "lng" : -49.2597911
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 238
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 40
+                     },
+                     "end_location" : {
+                        "lat" : -25.4347792,
+                        "lng" : -49.2637495
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eAv. Visc. de Guarapuava\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "~pfzCzktkHZjA\\`APl@@BJb@ZbALf@`@pADN"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4339218,
+                        "lng" : -49.2615753
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 530
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 90
+                     },
+                     "end_location" : {
+                        "lat" : -25.4367644,
+                        "lng" : -49.26846829999999
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eAv. Visc. de Guarapuava\u003c/b\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "jvfzClytkH\\F`@|An@rBl@rBRr@Nj@FNh@nBx@lCv@lCd@dB"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4347792,
+                        "lng" : -49.2637495
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 380
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 57
+                     },
+                     "end_location" : {
+                        "lat" : -25.4381271,
+                        "lng" : -49.2719372
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eAv. Visc. de Guarapuava\u003c/b\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "vbgzC|vukH@Bl@lB@DBFn@~BbAfDbAvDL\\@FRn@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4367644,
+                        "lng" : -49.26846829999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 366
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 48
+                     },
+                     "end_location" : {
+                        "lat" : -25.4394522,
+                        "lng" : -49.2752728
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eAv. Visc. de Guarapuava\u003c/b\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "hkgzCrlvkHt@bCBFd@bBFV\\jAh@bBf@dBf@fBBFBJ"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4381271,
+                        "lng" : -49.2719372
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 109
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : -25.4398496,
+                        "lng" : -49.276263
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eAv. Visc. de Guarapuava\u003c/b\u003e",
+                     "maneuver" : "keep-left",
+                     "polyline" : {
+                        "points" : "psgzClawkHb@~AVx@Rj@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4394522,
+                        "lng" : -49.2752728
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "93 m",
+                        "value" : 93
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : -25.4400415,
+                        "lng" : -49.277125
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eAv. Visc. de Guarapuava\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "`vgzCrgwkHIh@n@`C"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4398496,
+                        "lng" : -49.276263
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 581
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 121
+                     },
+                     "end_location" : {
+                        "lat" : -25.4359549,
+                        "lng" : -49.2805938
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eR. Brg. Franco\u003c/b\u003e (signs for \u003cb\u003eMercês\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eVista Alegre\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eCascatinha\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eSanta Felicidade\u003c/b\u003e)\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "fwgzC~lwkH_FhBgA`@QLEDED[V[ZWVOT_AdA}@dAaAfAaAfAiCpC"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4400415,
+                        "lng" : -49.277125
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "z}gzCdwokH[[Wm@CGCCc@Eg@L_CzAOVK\\Dl@DXWPIFACGi@Ac@FSJ_@KSEMQg@eAv@o@XwCzBq@`AWj@c@pAQhAGx@GvEGxBo@pGSfBMfB]fDOdA_B~HmAjF[fBU|DChGBrL?tEHlOBdEoElBw@XyCrAqAn@IDV~@JXfAtDd@dBx@tC|@vCpAlE\\F`@|A|AfFtA~ExCdKzF`SjFlQrAzEj@dBIh@n@`CgHjCWRuApAoEhFkExE"
+         },
+         "summary" : "Av. Presidente Affonso Camargo and Av. Visc. de Guarapuava",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

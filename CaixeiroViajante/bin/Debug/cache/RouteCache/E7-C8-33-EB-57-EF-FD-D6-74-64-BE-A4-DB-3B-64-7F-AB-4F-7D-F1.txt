@@ -1,0 +1,157 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJZ9ebO9Lm3JQRIgZfA0lVtRU",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ_1f4AdDm3JQRl3HhR89rCQw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.3807934,
+               "lng" : -49.27426
+            },
+            "southwest" : {
+               "lat" : -25.3830021,
+               "lng" : -49.2800291
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.9 km",
+                  "value" : 875
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 135
+               },
+               "end_address" : "Rua Benedito Correia de Freitas, 138 - Abranches, Curitiba - PR, 82130-240, Brazil",
+               "end_location" : {
+                  "lat" : -25.3827215,
+                  "lng" : -49.2742835
+               },
+               "start_address" : "R. Eugênio Flôr, 275 - Abranches, Curitiba - PR, 82130-290, Brazil",
+               "start_location" : {
+                  "lat" : -25.3830021,
+                  "lng" : -49.2800291
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 173
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : -25.3815472,
+                        "lng" : -49.2795625
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eR. Eugênio Flôr\u003c/b\u003e toward \u003cb\u003eRua Theodoro Bruno Breithaupt\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "vr|yCd_xkHA?UAYCA?YIOIWMYQSKSIQEUGWCQ?WB"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3830021,
+                        "lng" : -49.2800291
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 290
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 54
+                     },
+                     "end_location" : {
+                        "lat" : -25.3812594,
+                        "lng" : -49.27674690000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eRua Theodoro Bruno Breithaupt\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ti|yCf|wkHAKIyAEg@S}CEWGg@COEQCKEOESAAAI?I?I?I@IBOFOH_@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3815472,
+                        "lng" : -49.2795625
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "93 m",
+                        "value" : 93
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : -25.3807934,
+                        "lng" : -49.2760715
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 2nd cross street onto \u003cb\u003eR. Bráulio Faria Prado\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "zg|yCtjwkHHSSQc@i@SY[]"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3812594,
+                        "lng" : -49.27674690000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 319
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : -25.3827215,
+                        "lng" : -49.2742835
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eRua Benedito Correia de Freitas\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "|d|yClfwkHj@iCF[BS@GBU@E@CBGFELI^URSLKHGNKPKPIVIZEpBB"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3807934,
+                        "lng" : -49.2760715
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "vr|yCd_xkHs@Ei@Sq@_@g@Ug@Mi@CWBAKOaCYuDUuAOo@?S@S^sAgBsBx@aED[DKTO^URSVS`@Wh@SZEpBB"
+         },
+         "summary" : "Rua Theodoro Bruno Breithaupt and Rua Benedito Correia de Freitas",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

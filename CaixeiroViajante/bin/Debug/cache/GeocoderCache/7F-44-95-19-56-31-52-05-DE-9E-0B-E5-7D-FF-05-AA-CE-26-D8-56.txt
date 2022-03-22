@@ -1,0 +1,681 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "HMQM+CW Curitiba, State of Paraná, Brazil",
+      "global_code" : "586GHMQM+CW"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "179",
+               "short_name" : "179",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Rosa Ceronato Durigan",
+               "short_name" : "R. Rosa Ceronato Durigan",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cascatinha",
+               "short_name" : "Cascatinha",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82025-210",
+               "short_name" : "82025-210",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Rosa Ceronato Durigan, 179 - Cascatinha, Curitiba - PR, 82025-210, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.411394,
+               "lng" : -49.315269
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.41004501970849,
+                  "lng" : -49.3139200197085
+               },
+               "southwest" : {
+                  "lat" : -25.4127429802915,
+                  "lng" : -49.3166179802915
+               }
+            }
+         },
+         "place_id" : "ChIJTVu08HHh3JQRxGYty_m1eTg",
+         "plus_code" : {
+            "compound_code" : "HMQM+CV Curitiba, State of Paraná, Brazil",
+            "global_code" : "586GHMQM+CV"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "250",
+               "short_name" : "250",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Rosa Ceronato Durigan",
+               "short_name" : "R. Rosa Ceronato Durigan",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cascatinha",
+               "short_name" : "Cascatinha",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82025-210",
+               "short_name" : "82025-210",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Rosa Ceronato Durigan, 250 - Cascatinha, Curitiba - PR, 82025-210, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.4109115,
+                  "lng" : -49.3149543
+               },
+               "southwest" : {
+                  "lat" : -25.4111427,
+                  "lng" : -49.3151746
+               }
+            },
+            "location" : {
+               "lat" : -25.4110653,
+               "lng" : -49.3150645
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4096781197085,
+                  "lng" : -49.3137154697085
+               },
+               "southwest" : {
+                  "lat" : -25.4123760802915,
+                  "lng" : -49.3164134302915
+               }
+            }
+         },
+         "place_id" : "ChIJM2di-HHh3JQRuqUso-repbI",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "188",
+               "short_name" : "188",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Rosa Ceronato Durigan",
+               "short_name" : "R. Rosa Ceronato Durigan",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cascatinha",
+               "short_name" : "Cascatinha",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82025-210",
+               "short_name" : "82025-210",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Rosa Ceronato Durigan, 188 - Cascatinha, Curitiba - PR, 82025-210, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.4114272,
+               "lng" : -49.3154329
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4100782197085,
+                  "lng" : -49.31408391970849
+               },
+               "southwest" : {
+                  "lat" : -25.4127761802915,
+                  "lng" : -49.31678188029149
+               }
+            }
+         },
+         "place_id" : "EkxSLiBSb3NhIENlcm9uYXRvIER1cmlnYW4sIDE4OCAtIENhc2NhdGluaGEsIEN1cml0aWJhIC0gUFIsIDgyMDI1LTIxMCwgQnJhemlsIhsSGQoUChIJSxiM7nHh3JQR2KZ0sE5nAb8QvAE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2-278",
+               "short_name" : "2-278",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Rosa Ceronato Durigan",
+               "short_name" : "R. Rosa Ceronato Durigan",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cascatinha",
+               "short_name" : "Cascatinha",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82025-210",
+               "short_name" : "82025-210",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Rosa Ceronato Durigan, 2-278 - Cascatinha, Curitiba - PR, 82025-210, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.4107016,
+                  "lng" : -49.315132
+               },
+               "southwest" : {
+                  "lat" : -25.4130854,
+                  "lng" : -49.3157429
+               }
+            },
+            "location" : {
+               "lat" : -25.4118642,
+               "lng" : -49.3156141
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4105445197085,
+                  "lng" : -49.3140884697085
+               },
+               "southwest" : {
+                  "lat" : -25.4132424802915,
+                  "lng" : -49.3167864302915
+               }
+            }
+         },
+         "place_id" : "ChIJSxiM7nHh3JQR2KZ0sE5nAb8",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "82025-210",
+               "short_name" : "82025-210",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Cascatinha",
+               "short_name" : "Cascatinha",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cascatinha, Curitiba - State of Paraná, 82025-210, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.4100218,
+                  "lng" : -49.3146207
+               },
+               "southwest" : {
+                  "lat" : -25.4130123,
+                  "lng" : -49.3158153
+               }
+            },
+            "location" : {
+               "lat" : -25.4115659,
+               "lng" : -49.3153617
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4100218,
+                  "lng" : -49.3138690197085
+               },
+               "southwest" : {
+                  "lat" : -25.4130123,
+                  "lng" : -49.3165669802915
+               }
+            }
+         },
+         "place_id" : "ChIJtSno7nHh3JQRN5iKuY9towY",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cascatinha",
+               "short_name" : "Cascatinha",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cascatinha, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.4018129,
+                  "lng" : -49.3029847
+               },
+               "southwest" : {
+                  "lat" : -25.4231892,
+                  "lng" : -49.3205682
+               }
+            },
+            "location" : {
+               "lat" : -25.4139715,
+               "lng" : -49.3106832
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4018129,
+                  "lng" : -49.3029847
+               },
+               "southwest" : {
+                  "lat" : -25.4231892,
+                  "lng" : -49.3205682
+               }
+            }
+         },
+         "place_id" : "ChIJZTMuVW7h3JQRLMnUWmwlLnk",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "82025",
+               "short_name" : "82025",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Santa Felicidade",
+               "short_name" : "Santa Felicidade",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Felicidade, Curitiba - State of Paraná, 82025, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3976956,
+                  "lng" : -49.2984522
+               },
+               "southwest" : {
+                  "lat" : -25.4215965,
+                  "lng" : -49.3205833
+               }
+            },
+            "location" : {
+               "lat" : -25.4091527,
+               "lng" : -49.309497
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3976956,
+                  "lng" : -49.2984522
+               },
+               "southwest" : {
+                  "lat" : -25.4215965,
+                  "lng" : -49.3205833
+               }
+            }
+         },
+         "place_id" : "ChIJX4EurW7h3JQRmRgxtG8lecU",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Felicidade",
+               "short_name" : "Santa Felicidade",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Felicidade, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3574986,
+                  "lng" : -49.28389989999999
+               },
+               "southwest" : {
+                  "lat" : -25.478325,
+                  "lng" : -49.38983289999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4040074,
+               "lng" : -49.3286941
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3574986,
+                  "lng" : -49.28389989999999
+               },
+               "southwest" : {
+                  "lat" : -25.478325,
+                  "lng" : -49.38983289999999
+               }
+            }
+         },
+         "place_id" : "ChIJVyZ-IkHh3JQRDh40dyt3LqI",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba, State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4289541,
+               "lng" : -49.267137
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            }
+         },
+         "place_id" : "ChIJ3bPNUVPj3JQRCejLuqVrL20",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4808762,
+               "lng" : -49.3044253
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            }
+         },
+         "place_id" : "ChIJ8Q8J_PXj3JQRR7crCbCDejw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            },
+            "location" : {
+               "lat" : -25.2520888,
+               "lng" : -52.0215415
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            }
+         },
+         "place_id" : "ChIJnWK4MJQL25QRYfDOY1D9k-g",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

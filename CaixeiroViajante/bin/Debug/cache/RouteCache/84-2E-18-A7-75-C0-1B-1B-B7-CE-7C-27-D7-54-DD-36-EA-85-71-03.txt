@@ -1,0 +1,205 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJGUxxU87m3JQRRxmlRh38eoM",
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJPV8gyr3m3JQRstJN3i_-U3E",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.3842223,
+               "lng" : -49.2660302
+            },
+            "southwest" : {
+               "lat" : -25.3957899,
+               "lng" : -49.2761627
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.2 km",
+                  "value" : 2153
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 326
+               },
+               "end_address" : "R. Casimiro Jose M De Abreu, 555 - São Lourenço, Curitiba - PR, 82200-130, Brazil",
+               "end_location" : {
+                  "lat" : -25.3957899,
+                  "lng" : -49.2660376
+               },
+               "start_address" : "R. João Gava, 970 - Abranches, Curitiba - PR, 82130-010, Brazil",
+               "start_location" : {
+                  "lat" : -25.3842466,
+                  "lng" : -49.2761627
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 202
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : -25.3854713,
+                        "lng" : -49.2755847
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "pz|yC~fwkHC?AMBOBO?Q?I?E?YBGDCFAF@PBL?FDFFJDH?DAFILGLANAHBLBL?N?NCPA"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3842466,
+                        "lng" : -49.2761627
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "46 m",
+                        "value" : 46
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 18
+                     },
+                     "end_location" : {
+                        "lat" : -25.3855771,
+                        "lng" : -49.2752008
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eR. João Gava\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "db}yCjcwkHAGAGAM@KBMBKBADCFA"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3854713,
+                        "lng" : -49.2755847
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 837
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 110
+                     },
+                     "end_location" : {
+                        "lat" : -25.3876911,
+                        "lng" : -49.2675797
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. João Gava\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "zb}yC~`wkH@U@W@G@Qj@sDBQHg@BMHg@F]DWF_@F[FWHUHOHMFKFGDGFIBCBEHIHIJMFKHIFIJKHMHKJKHMLSFODIBIHUFWF[BQD[B]?UAe@E]QeAO}@ASCS?OAQ@Q?WB]DMBSDQRm@Xq@?CL]Rc@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3855771,
+                        "lng" : -49.2752008
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 510
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 78
+                     },
+                     "end_location" : {
+                        "lat" : -25.3918475,
+                        "lng" : -49.2681846
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. Mateus Leme\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "`p}yCjqukHbAAnACpCI~EMjBCfACFAD@RFH@HBBBD@B@@BFBBBBBDFDDBDBBBDBDBB@D@D@B@F?B@JDf@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3876911,
+                        "lng" : -49.2675797
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 387
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : -25.3942526,
+                        "lng" : -49.2660302
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eRua José Kormann\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "`j~yCbuukHRMNI`@_@d@a@DCTOHEHCNAJ@P?@@F?b@@Z@D?T@T?JEHENOXu@n@qBPm@BKR_A"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3918475,
+                        "lng" : -49.2681846
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 171
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : -25.3957899,
+                        "lng" : -49.2660376
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eRua Casimiro José Marquês de Abreu\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "`y~yCtgukHlA?r@?v@?fA?p@@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3942526,
+                        "lng" : -49.2660302
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "pz|yC~fwkHC?AMF_@?{@HKN?^BNLTDDATQ\\CVF\\?`@ECO?YFYHEFA@UB_@l@eEZoB\\qBPm@R]\\e@Z]pA_Bd@{@\\sAHm@Bs@GcAa@cCGiA@i@Hk@He@l@_BLa@Rc@bAA`FMjIQnAEXH\\JPLb@j@FV@NDf@RMp@i@j@e@^UXEf@BzAD`@EXUhAgDTy@R_AlA?jB?xB@"
+         },
+         "summary" : "R. João Gava",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

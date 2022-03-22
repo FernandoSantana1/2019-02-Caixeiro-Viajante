@@ -1,0 +1,59 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Centro",
+               "short_name" : "Centro",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Centro, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.422564,
+                  "lng" : -49.2557553
+               },
+               "southwest" : {
+                  "lat" : -25.4417927,
+                  "lng" : -49.28602679999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4351674,
+               "lng" : -49.2754909
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.422564,
+                  "lng" : -49.2557553
+               },
+               "southwest" : {
+                  "lat" : -25.4417927,
+                  "lng" : -49.28602679999999
+               }
+            }
+         },
+         "place_id" : "ChIJG2tsRGzk3JQRexQH3bDlDQ0",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      }
+   ],
+   "status" : "OK"
+}

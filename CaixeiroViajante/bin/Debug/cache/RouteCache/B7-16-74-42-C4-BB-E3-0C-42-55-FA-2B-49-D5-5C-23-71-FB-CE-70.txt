@@ -1,0 +1,163 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJA-0bq0Dk3JQR_s19y1A2mIA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJIS_2wEfk3JQRO35Gzk1XmGk",
+         "types" : [
+            "establishment",
+            "furniture_store",
+            "home_goods_store",
+            "point_of_interest",
+            "store"
+         ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.4265927,
+               "lng" : -49.2536279
+            },
+            "southwest" : {
+               "lat" : -25.4273545,
+               "lng" : -49.2589754
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.8 km",
+                  "value" : 765
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 156
+               },
+               "end_address" : "Rua XV de Novembro, 2023 - Alto da XV, Curitiba - PR, 80045-125, Brazil",
+               "end_location" : {
+                  "lat" : -25.4265927,
+                  "lng" : -49.25503639999999
+               },
+               "start_address" : "R. Ubaldino do Amaral, 661 - Alto da Glória, Curitiba - PR, 80045-150, Brazil",
+               "start_location" : {
+                  "lat" : -25.4267194,
+                  "lng" : -49.2589754
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "27 m",
+                        "value" : 27
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : -25.4269496,
+                        "lng" : -49.2588895
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eR. Ubaldino do Amaral\u003c/b\u003e toward \u003cb\u003eR. Mal. Deodoro\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "~cezCr{skHl@Q"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4267194,
+                        "lng" : -49.2589754
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 525
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 89
+                     },
+                     "end_location" : {
+                        "lat" : -25.4273545,
+                        "lng" : -49.2536899
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eR. Mal. Deodoro\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "leezC`{skHCICK@Q?QLgDZ}HFwA@KDcBLsCLsC"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4269496,
+                        "lng" : -49.2588895
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "71 m",
+                        "value" : 71
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : -25.4267213,
+                        "lng" : -49.2536279
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. José de Alencar\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "|gezCpzrkH}@E_AE"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4273545,
+                        "lng" : -49.2536899
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 142
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : -25.4265927,
+                        "lng" : -49.25503639999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eRua XV de Novembro\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "~cezCdzrkHYxG"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4267213,
+                        "lng" : -49.2536279
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "~cezCr{skHl@QCIA]p@oQFoBZgH}BKYxG"
+         },
+         "summary" : "R. Mal. Deodoro",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

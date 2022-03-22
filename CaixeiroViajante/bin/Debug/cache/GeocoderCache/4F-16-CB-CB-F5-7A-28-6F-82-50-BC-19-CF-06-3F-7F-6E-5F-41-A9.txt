@@ -1,0 +1,612 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "HMPV+CX Curitiba, State of Paraná, Brazil",
+      "global_code" : "586GHMPV+CX"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "339",
+               "short_name" : "339",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Deputado Rivadavia Vargas",
+               "short_name" : "Rua Deputado Rivadavia Vargas",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cascatinha",
+               "short_name" : "Cascatinha",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80820-630",
+               "short_name" : "80820-630",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Deputado Rivadavia Vargas, 339 - Cascatinha, Curitiba - PR, 80820-630, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.414091,
+               "lng" : -49.304984
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4127420197085,
+                  "lng" : -49.3036350197085
+               },
+               "southwest" : {
+                  "lat" : -25.4154399802915,
+                  "lng" : -49.3063329802915
+               }
+            }
+         },
+         "place_id" : "ChIJv14Ljmfh3JQRxaEEhtBAt2M",
+         "plus_code" : {
+            "compound_code" : "HMPW+92 Curitiba, State of Paraná, Brazil",
+            "global_code" : "586GHMPW+92"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "48",
+               "short_name" : "48",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Deputado Rivadavia Vargas",
+               "short_name" : "Rua Deputado Rivadavia Vargas",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vista Alegre",
+               "short_name" : "Vista Alegre",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82025",
+               "short_name" : "82025",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Rua Deputado Rivadavia Vargas, 48 - Vista Alegre, Curitiba - PR, 82025, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.4141264,
+               "lng" : -49.30522980000001
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4127774197085,
+                  "lng" : -49.30388081970851
+               },
+               "southwest" : {
+                  "lat" : -25.4154753802915,
+                  "lng" : -49.30657878029151
+               }
+            }
+         },
+         "place_id" : "EkdSdWEgRGVwdXRhZG8gUml2YWRhdmlhIFZhcmdhcywgNDggLSBWaXN0YSBBbGVncmUsIEN1cml0aWJhIC0gUFIsIEJyYXppbCIaEhgKFAoSCQ_NJttn4dyUEdo543ntaA4YEDA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "46-302",
+               "short_name" : "46-302",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Deputado Rivadavia Vargas",
+               "short_name" : "Rua Deputado Rivadavia Vargas",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vista Alegre",
+               "short_name" : "Vista Alegre",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82025",
+               "short_name" : "82025",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Rua Deputado Rivadavia Vargas, 46-302 - Vista Alegre, Curitiba - PR, 82025, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.4127639,
+                  "lng" : -49.3051999
+               },
+               "southwest" : {
+                  "lat" : -25.4141481,
+                  "lng" : -49.30717809999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4134668,
+               "lng" : -49.30621319999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4121070197085,
+                  "lng" : -49.30484001970849
+               },
+               "southwest" : {
+                  "lat" : -25.4148049802915,
+                  "lng" : -49.30753798029149
+               }
+            }
+         },
+         "place_id" : "ChIJD80m22fh3JQR2jnjee1oDhg",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "80820-630",
+               "short_name" : "80820-630",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Mercês",
+               "short_name" : "Mercês",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mercês, Curitiba - State of Paraná, 80820-630, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.4126958,
+                  "lng" : -49.3047877
+               },
+               "southwest" : {
+                  "lat" : -25.4144863,
+                  "lng" : -49.30722919999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4137029,
+               "lng" : -49.3061686
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4122420697085,
+                  "lng" : -49.3046594697085
+               },
+               "southwest" : {
+                  "lat" : -25.4149400302915,
+                  "lng" : -49.3073574302915
+               }
+            }
+         },
+         "place_id" : "ChIJlcbt2Wfh3JQR5V-niTAlsxg",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "82025",
+               "short_name" : "82025",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Santa Felicidade",
+               "short_name" : "Santa Felicidade",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Felicidade, Curitiba - State of Paraná, 82025, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3976956,
+                  "lng" : -49.2984522
+               },
+               "southwest" : {
+                  "lat" : -25.4215965,
+                  "lng" : -49.3205833
+               }
+            },
+            "location" : {
+               "lat" : -25.4091527,
+               "lng" : -49.309497
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3976956,
+                  "lng" : -49.2984522
+               },
+               "southwest" : {
+                  "lat" : -25.4215965,
+                  "lng" : -49.3205833
+               }
+            }
+         },
+         "place_id" : "ChIJX4EurW7h3JQRmRgxtG8lecU",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vista Alegre",
+               "short_name" : "Vista Alegre",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vista Alegre, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3955158,
+                  "lng" : -49.28218260000001
+               },
+               "southwest" : {
+                  "lat" : -25.4180266,
+                  "lng" : -49.3082755
+               }
+            },
+            "location" : {
+               "lat" : -25.4105803,
+               "lng" : -49.2919987
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3955158,
+                  "lng" : -49.28218260000001
+               },
+               "southwest" : {
+                  "lat" : -25.4180266,
+                  "lng" : -49.3082755
+               }
+            }
+         },
+         "place_id" : "ChIJY6ukCkXh3JQR9Z_FEZ_VXa4",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Felicidade",
+               "short_name" : "Santa Felicidade",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Felicidade, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3574986,
+                  "lng" : -49.28389989999999
+               },
+               "southwest" : {
+                  "lat" : -25.478325,
+                  "lng" : -49.38983289999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4040074,
+               "lng" : -49.3286941
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3574986,
+                  "lng" : -49.28389989999999
+               },
+               "southwest" : {
+                  "lat" : -25.478325,
+                  "lng" : -49.38983289999999
+               }
+            }
+         },
+         "place_id" : "ChIJVyZ-IkHh3JQRDh40dyt3LqI",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba, State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4289541,
+               "lng" : -49.267137
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            }
+         },
+         "place_id" : "ChIJ3bPNUVPj3JQRCejLuqVrL20",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4808762,
+               "lng" : -49.3044253
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            }
+         },
+         "place_id" : "ChIJ8Q8J_PXj3JQRR7crCbCDejw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            },
+            "location" : {
+               "lat" : -25.2520888,
+               "lng" : -52.0215415
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            }
+         },
+         "place_id" : "ChIJnWK4MJQL25QRYfDOY1D9k-g",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

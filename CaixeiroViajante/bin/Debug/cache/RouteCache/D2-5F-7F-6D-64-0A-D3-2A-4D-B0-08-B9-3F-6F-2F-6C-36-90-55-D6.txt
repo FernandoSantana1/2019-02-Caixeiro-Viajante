@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ_1f4AdDm3JQRl3HhR89rCQw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ_1f4AdDm3JQRl3HhR89rCQw",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.3827215,
+               "lng" : -49.2742835
+            },
+            "southwest" : {
+               "lat" : -25.3827215,
+               "lng" : -49.2742835
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Rua Benedito Correia de Freitas, 138 - Abranches, Curitiba - PR, 82130-240, Brazil",
+               "end_location" : {
+                  "lat" : -25.3827215,
+                  "lng" : -49.2742835
+               },
+               "start_address" : "Rua Benedito Correia de Freitas, 138 - Abranches, Curitiba - PR, 82130-240, Brazil",
+               "start_location" : {
+                  "lat" : -25.3827215,
+                  "lng" : -49.2742835
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : -25.3827215,
+                        "lng" : -49.2742835
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eRua Benedito Correia de Freitas\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "~p|yCf{vkH"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3827215,
+                        "lng" : -49.2742835
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "~p|yCf{vkH"
+         },
+         "summary" : "Rua Benedito Correia de Freitas",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

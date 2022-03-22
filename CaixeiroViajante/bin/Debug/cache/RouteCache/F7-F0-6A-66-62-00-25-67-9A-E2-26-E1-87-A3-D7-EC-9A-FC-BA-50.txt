@@ -1,0 +1,253 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJVbLwfN_j3JQRgdJfUWgsYoI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ_yLWtkLh3JQRex1t9aBijQs",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.4116071,
+               "lng" : -49.292626
+            },
+            "southwest" : {
+               "lat" : -25.4237871,
+               "lng" : -49.306454
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.5 km",
+                  "value" : 3512
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 518
+               },
+               "end_address" : "R. José Casagrande, 560 - Vista Alegre, Curitiba - PR, 80820-590, Brazil",
+               "end_location" : {
+                  "lat" : -25.4116071,
+                  "lng" : -49.3035667
+               },
+               "start_address" : "Av. Cândido Hartmann, 2297 - Bigorrilho, Curitiba - PR, 80710-410, Brazil",
+               "start_location" : {
+                  "lat" : -25.4236698,
+                  "lng" : -49.306454
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "77 m",
+                        "value" : 77
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : -25.4237871,
+                        "lng" : -49.30570119999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e toward \u003cb\u003eRua Doutor Aluízio França\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "|pdzChd}kHVuC"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4236698,
+                        "lng" : -49.306454
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 102
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 67
+                     },
+                     "end_location" : {
+                        "lat" : -25.4229378,
+                        "lng" : -49.3053106
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eRua Doutor Aluízio França\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "tqdzCr_}kHc@OA?_@Q_@OcA["
+                     },
+                     "start_location" : {
+                        "lat" : -25.4237871,
+                        "lng" : -49.30570119999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "90 m",
+                        "value" : 90
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : -25.4229852,
+                        "lng" : -49.3044257
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAv. Cândido Hartmann\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "jldzCd}|kHA{@?W?W?A?OBQ@KDS"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4229378,
+                        "lng" : -49.3053106
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 481
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 59
+                     },
+                     "end_location" : {
+                        "lat" : -25.4213031,
+                        "lng" : -49.3000271
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Romanó Bertagnoli\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "tldzCtw|kHYc@EIQo@[sAEO[iAa@yACM[iAYiAKa@AEQo@Uu@YeAMe@?AKa@[iA"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4229852,
+                        "lng" : -49.3044257
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 276
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : -25.4189225,
+                        "lng" : -49.3006357
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Edmundo Saporski\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "bbdzCd|{kH_@Pa@R[LOFODg@DC@W@I?g@A_@?E?k@@UDC@WDE@s@NQDWF"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4213031,
+                        "lng" : -49.3000271
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 817
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 121
+                     },
+                     "end_location" : {
+                        "lat" : -25.420339,
+                        "lng" : -49.2927049
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. Alcídes Munhoz\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "fsczC~_|kHC_@CSAWCa@?ACg@?i@@SFg@PoA@EFc@NiAZ_C\\_CVyBX{BViBJy@T_BHk@BQViBViBHq@Hs@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4189225,
+                        "lng" : -49.3006357
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.2 km",
+                        "value" : 1160
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 134
+                     },
+                     "end_location" : {
+                        "lat" : -25.4154379,
+                        "lng" : -49.3012652
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eAv. Manoel Ribas\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "b|czCjnzkH@M[J[Jo@RMD{@ZULQFq@Xo@TsBx@QFA@UNEDeBpAWReBhAcAr@OLCBIFGHGHCHGLEJAHCLAJIj@Mx@MfAADEZO~@Gb@Gb@OhAKr@Ih@CPIn@AFGn@?L?v@?DDjAD~ADdA@X?F?N?b@?R?LCLANGh@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.420339,
+                        "lng" : -49.2927049
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 509
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 62
+                     },
+                     "end_location" : {
+                        "lat" : -25.4116071,
+                        "lng" : -49.3035667
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. José Casagrande\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "n}bzC|c|kHQIi@@Y@]?O?Q@G@G?O@U@SBUDSDQDQF_@Rg@`@g@^YTWTQJ}AlA_Ax@QPo@n@S\\GJGJGHGHGH"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4154379,
+                        "lng" : -49.3012652
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "|pdzChd}kHVuCc@Oa@QcBk@AsAB{@F_@_@m@oA}E{A{FiB}G[iA_@P}@`@_@Lk@FiB?q@@YFcB\\WFC_@Ek@GuBH{@RuApAmJtAyKz@gGl@}EuBp@uCjAwDxAyCzBiD|BSP]d@Sp@g@xDmApIWxB?dADpALfE?tAE\\Gh@QIcABm@?q@DsAPc@LgAt@kBvA}CfCaA`Ak@~@OR"
+         },
+         "summary" : "Av. Manoel Ribas",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

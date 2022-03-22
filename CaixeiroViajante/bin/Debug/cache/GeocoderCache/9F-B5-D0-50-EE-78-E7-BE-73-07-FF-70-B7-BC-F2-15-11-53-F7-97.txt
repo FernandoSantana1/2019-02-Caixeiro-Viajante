@@ -1,0 +1,750 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "JQC5+JJ Curitiba, State of Paraná, Brazil",
+      "global_code" : "586GJQC5+JJ"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "50",
+               "short_name" : "50",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua João Mequetti",
+               "short_name" : "Rua João Mequetti",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Santa Cândida",
+               "short_name" : "Santa Cândida",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82640-360",
+               "short_name" : "82640-360",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua João Mequetti, 50 - Santa Cândida, Curitiba - PR, 82640-360, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.3785202,
+               "lng" : -49.240876
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3771712197085,
+                  "lng" : -49.2395270197085
+               },
+               "southwest" : {
+                  "lat" : -25.3798691802915,
+                  "lng" : -49.2422249802915
+               }
+            }
+         },
+         "place_id" : "ChIJM1Rd_F7m3JQRjlWzuMIvO6Q",
+         "plus_code" : {
+            "compound_code" : "JQC5+HJ Curitiba, State of Paraná, Brazil",
+            "global_code" : "586GJQC5+HJ"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "64",
+               "short_name" : "64",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua João Mequetti",
+               "short_name" : "Rua João Mequetti",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Santa Cândida",
+               "short_name" : "Santa Cândida",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82640-360",
+               "short_name" : "82640-360",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua João Mequetti, 64 - Santa Cândida, Curitiba - PR, 82640-360, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3783864,
+                  "lng" : -49.2406286
+               },
+               "southwest" : {
+                  "lat" : -25.3785306,
+                  "lng" : -49.2407615
+               }
+            },
+            "location" : {
+               "lat" : -25.3784348,
+               "lng" : -49.24067600000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.37710951970849,
+                  "lng" : -49.2393460697085
+               },
+               "southwest" : {
+                  "lat" : -25.3798074802915,
+                  "lng" : -49.2420440302915
+               }
+            }
+         },
+         "place_id" : "ChIJcQGY-17m3JQRs63Qfx_Dtnk",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1159",
+               "short_name" : "1159",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Fernando de Noronha",
+               "short_name" : "R. Fernando de Noronha",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Santa Cândida",
+               "short_name" : "Santa Cândida",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82640-350",
+               "short_name" : "82640-350",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Fernando de Noronha, 1159 - Santa Cândida, Curitiba - PR, 82640-350, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.3786999,
+               "lng" : -49.2412542
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.37735091970849,
+                  "lng" : -49.2399052197085
+               },
+               "southwest" : {
+                  "lat" : -25.3800488802915,
+                  "lng" : -49.2426031802915
+               }
+            }
+         },
+         "place_id" : "ChIJsbjqA1_m3JQR64djT08F4b4",
+         "plus_code" : {
+            "compound_code" : "JQC5+GF Santa Candida - Boa Vista, Curitiba - State of Paraná, Brazil",
+            "global_code" : "586GJQC5+GF"
+         },
+         "types" : [
+            "car_repair",
+            "car_wash",
+            "establishment",
+            "point_of_interest",
+            "store"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "35",
+               "short_name" : "35",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua João Mequetti",
+               "short_name" : "Rua João Mequetti",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Santa Cândida",
+               "short_name" : "Santa Cândida",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82640-360",
+               "short_name" : "82640-360",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua João Mequetti, 35 - Santa Cândida, Curitiba - PR, 82640-360, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.3783623,
+               "lng" : -49.2409548
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3770133197085,
+                  "lng" : -49.2396058197085
+               },
+               "southwest" : {
+                  "lat" : -25.3797112802915,
+                  "lng" : -49.2423037802915
+               }
+            }
+         },
+         "place_id" : "EklSdWEgSm_Do28gTWVxdWV0dGksIDM1IC0gU2FudGEgQ8OibmRpZGEsIEN1cml0aWJhIC0gUFIsIDgyNjQwLTM2MCwgQnJhemlsIhoSGAoUChIJYTsw_V7m3JQRe7DbDkK4tcMQIw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2-118",
+               "short_name" : "2-118",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua João Mequetti",
+               "short_name" : "Rua João Mequetti",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Santa Cândida",
+               "short_name" : "Santa Cândida",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82640-360",
+               "short_name" : "82640-360",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua João Mequetti, 2-118 - Santa Cândida, Curitiba - PR, 82640-360, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3781002,
+                  "lng" : -49.2404
+               },
+               "southwest" : {
+                  "lat" : -25.3786469,
+                  "lng" : -49.2414612
+               }
+            },
+            "location" : {
+               "lat" : -25.3783554,
+               "lng" : -49.240942
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3770245697085,
+                  "lng" : -49.2395816197085
+               },
+               "southwest" : {
+                  "lat" : -25.3797225302915,
+                  "lng" : -49.2422795802915
+               }
+            }
+         },
+         "place_id" : "ChIJYTsw_V7m3JQRerDbDkK4tcM",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "82640-360",
+               "short_name" : "82640-360",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Santa Candida",
+               "short_name" : "Santa Candida",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Candida, Curitiba - State of Paraná, 82640-360, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3738587,
+                  "lng" : -49.2348478
+               },
+               "southwest" : {
+                  "lat" : -25.3786672,
+                  "lng" : -49.2413122
+               }
+            },
+            "location" : {
+               "lat" : -25.3762993,
+               "lng" : -49.2375841
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3738587,
+                  "lng" : -49.2348478
+               },
+               "southwest" : {
+                  "lat" : -25.3786672,
+                  "lng" : -49.2413122
+               }
+            }
+         },
+         "place_id" : "ChIJWewKg1zm3JQRljlM2uzwCkA",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "82640",
+               "short_name" : "82640",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Santa Candida",
+               "short_name" : "Santa Candida",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Candida, Curitiba - State of Paraná, 82640, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3684211,
+                  "lng" : -49.2268458
+               },
+               "southwest" : {
+                  "lat" : -25.3886696,
+                  "lng" : -49.2413898
+               }
+            },
+            "location" : {
+               "lat" : -25.3772995,
+               "lng" : -49.2360011
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3684211,
+                  "lng" : -49.2268458
+               },
+               "southwest" : {
+                  "lat" : -25.3886696,
+                  "lng" : -49.2413898
+               }
+            }
+         },
+         "place_id" : "ChIJPRqmWl3m3JQRa5OexerinZU",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Candida",
+               "short_name" : "Santa Candida",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Candida, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3491363,
+                  "lng" : -49.2068498
+               },
+               "southwest" : {
+                  "lat" : -25.3847118,
+                  "lng" : -49.2522482
+               }
+            },
+            "location" : {
+               "lat" : -25.3690362,
+               "lng" : -49.2364955
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3491363,
+                  "lng" : -49.2068498
+               },
+               "southwest" : {
+                  "lat" : -25.3847118,
+                  "lng" : -49.2522482
+               }
+            }
+         },
+         "place_id" : "ChIJebPqSU_m3JQRr3t9VBfBrFA",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boa Vista",
+               "short_name" : "Boa Vista",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Boa Vista, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1914303
+               },
+               "southwest" : {
+                  "lat" : -25.4313697,
+                  "lng" : -49.2815916
+               }
+            },
+            "location" : {
+               "lat" : -25.3886823,
+               "lng" : -49.2334685
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1914303
+               },
+               "southwest" : {
+                  "lat" : -25.4313697,
+                  "lng" : -49.2815916
+               }
+            }
+         },
+         "place_id" : "ChIJ4yXhiYjm3JQRib7FMdA38u0",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba, State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4289541,
+               "lng" : -49.267137
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            }
+         },
+         "place_id" : "ChIJ3bPNUVPj3JQRCejLuqVrL20",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4808762,
+               "lng" : -49.3044253
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            }
+         },
+         "place_id" : "ChIJ8Q8J_PXj3JQRR7crCbCDejw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            },
+            "location" : {
+               "lat" : -25.2520888,
+               "lng" : -52.0215415
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            }
+         },
+         "place_id" : "ChIJnWK4MJQL25QRYfDOY1D9k-g",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

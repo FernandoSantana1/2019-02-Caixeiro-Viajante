@@ -1,0 +1,251 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJuX_f1G3h3JQR0ECnuW618R4",
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ1YxHtyzh3JQRvn9tehSu52w",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.3826916,
+               "lng" : -49.2847924
+            },
+            "southwest" : {
+               "lat" : -25.4098134,
+               "lng" : -49.3136886
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "6.5 km",
+                  "value" : 6459
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 609
+               },
+               "end_address" : "Rua Frei Bernardino Tomat, 110 - Pilarzinho, Curitiba - PR, 82115-460, Brazil",
+               "end_location" : {
+                  "lat" : -25.3826916,
+                  "lng" : -49.2847936
+               },
+               "start_address" : "Ângelo Domingos Durigan, 519 - Cascatinha - Cascatinha, Curitiba - PR, 82025-100, Brazil",
+               "start_location" : {
+                  "lat" : -25.4098134,
+                  "lng" : -49.3120632
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 1001
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 93
+                     },
+                     "end_location" : {
+                        "lat" : -25.4018294,
+                        "lng" : -49.3115284
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eR. Ângelo Domingos Durigan\u003c/b\u003e toward \u003cb\u003eR. Bologna\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "hzazCjg~kHKFm@X}@Z_AZ_AXg@Lm@Ra@PWRYRm@Xk@Z}@LuANg@DkCNo@DK@g@@m@@c@?]AAAY?YCUCSEQGQEGCA?IEUKOGy@k@IG_Ao@q@g@a@i@Wa@o@aAeAwA"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4098134,
+                        "lng" : -49.3120632
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 905
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 89
+                     },
+                     "end_location" : {
+                        "lat" : -25.4043632,
+                        "lng" : -49.3049585
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eRua José Valle\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "lh`zC`d~kH@A@A?A@??A?A@??A?A?A?AA??A?A?AA??AA??AA??AA?x@_B@AP]h@aAZi@Vc@Ve@p@eA`@q@V]HOXc@`@g@JM^o@@AJ[Je@Fi@Bg@Fg@Fg@?ERiANi@NWDINUBATYBCXSVMLENCJAHCVGPGJEBCDEAEAGCGGIIKIIIIMKOKUIAAQEQGSGGCEAQEWIUC"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4018294,
+                        "lng" : -49.3115284
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 871
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 74
+                     },
+                     "end_location" : {
+                        "lat" : -25.3975525,
+                        "lng" : -49.3061243
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eR. Dr. Mbá de Ferrante\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "fx`zC~z|kHg@E]D_@Ja@Jm@TUHIDWHQFWJYLq@V_@NA@o@Jc@Hu@JA?s@Ao@G_@GIAa@MMEiCg@UE_@KQEOEa@QWKk@W]Ma@Og@OMCMAE?I?I@C@KBIDIDCBEBIJKNMXADM\\Mn@K\\?@I\\CFQ\\"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4043632,
+                        "lng" : -49.3049585
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.4 km",
+                        "value" : 1361
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 120
+                     },
+                     "end_location" : {
+                        "lat" : -25.3872911,
+                        "lng" : -49.304146
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eRua Melchiades Silveira do Valle\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "tm_zCfb}kHSRUNIFMFIBQBa@BO?w@@gAASA_@COAOE]S[Qk@a@QOa@[UGSAAA]@SFOFIDQNSPQPKJMPO`@IZMXKROROHQDS@OAG?ECQGe@Wk@Y[MWOOGOGICK?M?[J[JYH[FO@I@M?oACg@AYAYA_@?]?UASA]Gc@Oc@ScA[a@KYGm@UeAi@KMMQKQKQGQEUMs@@OCMEYESCEEGOIECIC[MKUCEACOO"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3975525,
+                        "lng" : -49.3061243
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.9 km",
+                        "value" : 1865
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 178
+                     },
+                     "end_location" : {
+                        "lat" : -25.3830078,
+                        "lng" : -49.2877673
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAv. Fredolin Wolf\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "pm}yC|u|kH?[AIAy@AEE_@CsBEwAAQ?W?}@CeAAa@G]EWI]Ma@QYGIk@s@WYQQCCUSiA{@?AgAq@ACOKIGGIOQCEACGMIMAEEMIWGa@Ga@Im@Km@GWI_@Mk@s@qCESCOAKAKAK?K?G@m@DqB?UAGAGCKEQEGEMGIGICECECCSU_@_@cAoA[_@EGACEIIOCIAAEOIWAEC]N{AP{BH_ANyABW@IDa@BQDa@Hg@H_@DSJ_@J[JYN[HSBIBI@G@G?G?K?K?OAMEQESIQIOKMCEKQW[EGc@e@GG][KMGGCEEGEICGAGAE?G?I@M"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3872911,
+                        "lng" : -49.304146
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 240
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : -25.3842742,
+                        "lng" : -49.2859022
+                     },
+                     "html_instructions" : "Merge onto \u003cb\u003eRua Domingos Antônio Moro\u003c/b\u003e",
+                     "maneuver" : "merge",
+                     "polyline" : {
+                        "points" : "xr|yCpoykH@Q@E@E@E@EX_AJYJWFMHOJOFKHKJK\\YTQ`@_@FEHIDIHKDGDM"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3830078,
+                        "lng" : -49.2877673
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 184
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : -25.3829829,
+                        "lng" : -49.28479799999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eRua Dr. Bemben\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "tz|yCzcykHs@u@k@m@a@c@_@_@g@[KGUIMEG?"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3842742,
+                        "lng" : -49.2859022
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "32 m",
+                        "value" : 32
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : -25.3826916,
+                        "lng" : -49.2847936
+                     },
+                     "html_instructions" : "\u003cb\u003eRua Dr. Bemben\u003c/b\u003e turns slightly \u003cb\u003eleft\u003c/b\u003e and becomes \u003cb\u003eRua Frei Bernardino Tomat\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "rr|yC~|xkHKAS?Y?"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3829829,
+                        "lng" : -49.28479799999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "hzazCjg~kHy@`@}Bv@gBf@oAd@q@f@yAt@sC\\sDTqCJ}ACo@Ge@Me@Oe@ScAs@qBwAy@kAuByC@ABC?C?IEGAAlA_CtBuDtBeDfBiCL]RoAJoAFm@b@sBTa@l@u@p@a@\\Il@M\\MHICMKQk@k@e@USGs@Ui@O}@I]D_@JoA`@iA`@cC`AkCb@u@AoAOk@OwCm@wA]eBu@_A]u@Sg@?c@P_@b@O^[lAYdAQ\\SR_@VWJs@FgA@{ACo@Em@YgAs@s@k@i@I_@?c@N[T_A`AY|@Yl@OROHe@FWAWKeCoA_@OUCi@Ju@Tk@HW@kDIgBCaAWgBo@{@Sm@UeAi@Y_@Wc@Mg@Ms@@OIg@IYUQOG[MKUEIOO?[CcAGe@IkEEmDI_AOu@Ma@QYs@}@cAcAiA}@iAu@YSW[We@GSQy@e@uCqAqFIs@FsDGq@Yq@SYsCeDWe@Us@Ec@`@wE^{DX}Bf@oBh@sAFa@Au@Ke@Sa@s@aAoAqA]c@M_@Bq@FWx@_Cf@w@`BwA`@e@JU_BcBaAcAs@c@c@OSAm@?"
+         },
+         "summary" : "Av. Fredolin Wolf",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

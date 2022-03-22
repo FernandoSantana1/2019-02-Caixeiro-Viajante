@@ -1,0 +1,518 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "JPM6+8C Colonia Santa Gabriela, Almirante Tamandaré - PR, Brazil",
+      "global_code" : "586GJPM6+8C"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "286",
+               "short_name" : "286",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua das Laranjeiras",
+               "short_name" : "R. das Laranjeiras",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Colonia Santa Gabriela",
+               "short_name" : "Colonia Santa Gabriela",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Almirante Tamandaré",
+               "short_name" : "Alm. Tamandaré",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83508-702",
+               "short_name" : "83508-702",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. das Laranjeiras, 286 - Colonia Santa Gabriela, Alm. Tamandaré - PR, 83508-702, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.367173,
+               "lng" : -49.289215
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.36582401970849,
+                  "lng" : -49.2878660197085
+               },
+               "southwest" : {
+                  "lat" : -25.3685219802915,
+                  "lng" : -49.2905639802915
+               }
+            }
+         },
+         "place_id" : "ChIJcRgICs7g3JQR16AqonNzQLY",
+         "plus_code" : {
+            "compound_code" : "JPM6+48 Colonia Santa Gabriela, Almirante Tamandaré - PR, Brazil",
+            "global_code" : "586GJPM6+48"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "335",
+               "short_name" : "335",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua das Laranjeiras",
+               "short_name" : "R. das Laranjeiras",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Colonia Santa Gabriela",
+               "short_name" : "Colonia Santa Gabriela",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Almirante Tamandaré",
+               "short_name" : "Alm. Tamandaré",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83508-702",
+               "short_name" : "83508-702",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. das Laranjeiras, 335 - Colonia Santa Gabriela, Alm. Tamandaré - PR, 83508-702, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.367388,
+               "lng" : -49.2884186
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3660390197085,
+                  "lng" : -49.2870696197085
+               },
+               "southwest" : {
+                  "lat" : -25.3687369802915,
+                  "lng" : -49.2897675802915
+               }
+            }
+         },
+         "place_id" : "ChIJ36-s8c3g3JQR2dwjcU7Q7I0",
+         "plus_code" : {
+            "compound_code" : "JPM6+2J Colonia Santa Gabriela, Almirante Tamandaré - PR, Brazil",
+            "global_code" : "586GJPM6+2J"
+         },
+         "types" : [ "establishment", "home_goods_store", "point_of_interest", "store" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "519",
+               "short_name" : "519",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua das Laranjeiras",
+               "short_name" : "R. das Laranjeiras",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Colonia Santa Gabriela",
+               "short_name" : "Colonia Santa Gabriela",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Almirante Tamandaré",
+               "short_name" : "Alm. Tamandaré",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83508-702",
+               "short_name" : "83508-702",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. das Laranjeiras, 519 - Colonia Santa Gabriela, Alm. Tamandaré - PR, 83508-702, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3670343,
+                  "lng" : -49.2904864
+               },
+               "southwest" : {
+                  "lat" : -25.3671637,
+                  "lng" : -49.2905975
+               }
+            },
+            "location" : {
+               "lat" : -25.3671028,
+               "lng" : -49.2905399
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3657500197085,
+                  "lng" : -49.28919296970849
+               },
+               "southwest" : {
+                  "lat" : -25.3684479802915,
+                  "lng" : -49.29189093029149
+               }
+            }
+         },
+         "place_id" : "ChIJaRjsQc7g3JQRTBgW7zWj6AA",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "412",
+               "short_name" : "412",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua das Laranjeiras",
+               "short_name" : "R. das Laranjeiras",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Colonia Santa Gabriela",
+               "short_name" : "Colonia Santa Gabriela",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Almirante Tamandaré",
+               "short_name" : "Alm. Tamandaré",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83508-702",
+               "short_name" : "83508-702",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. das Laranjeiras, 412 - Colonia Santa Gabriela, Alm. Tamandaré - PR, 83508-702, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.3673359,
+               "lng" : -49.289126
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3659869197085,
+                  "lng" : -49.2877770197085
+               },
+               "southwest" : {
+                  "lat" : -25.3686848802915,
+                  "lng" : -49.2904749802915
+               }
+            }
+         },
+         "place_id" : "Ek5SLiBkYXMgTGFyYW5qZWlyYXMsIDQxMiAtIENvbG9uaWEgU2FudGEgR2FicmllbGEsIEFsbS4gVGFtYW5kYXLDqSAtIFBSLCBCcmF6aWwiGxIZChQKEgkDRoIMzuDclBFGwBjhUgEZSRCcAw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "340-612",
+               "short_name" : "340-612",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua das Laranjeiras",
+               "short_name" : "R. das Laranjeiras",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Colonia Santa Gabriela",
+               "short_name" : "Colonia Santa Gabriela",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Almirante Tamandaré",
+               "short_name" : "Alm. Tamandaré",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83508-702",
+               "short_name" : "83508-702",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. das Laranjeiras, 340-612 - Colonia Santa Gabriela, Alm. Tamandaré - PR, 83508-702, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3668948,
+                  "lng" : -49.28855739999999
+               },
+               "southwest" : {
+                  "lat" : -25.3674505,
+                  "lng" : -49.2906217
+               }
+            },
+            "location" : {
+               "lat" : -25.3672297,
+               "lng" : -49.2896209
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3658236697085,
+                  "lng" : -49.2882405697085
+               },
+               "southwest" : {
+                  "lat" : -25.3685216302915,
+                  "lng" : -49.2909385302915
+               }
+            }
+         },
+         "place_id" : "ChIJA0aCDM7g3JQRRsAY4VIBGUk",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Colonia Santa Gabriela",
+               "short_name" : "Colonia Santa Gabriela",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Almirante Tamandaré",
+               "short_name" : "Alm. Tamandaré",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Colonia Santa Gabriela, Alm. Tamandaré - PR, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3654113,
+                  "lng" : -49.2856663
+               },
+               "southwest" : {
+                  "lat" : -25.3719026,
+                  "lng" : -49.3076835
+               }
+            },
+            "location" : {
+               "lat" : -25.3674173,
+               "lng" : -49.29808629999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3654113,
+                  "lng" : -49.2856663
+               },
+               "southwest" : {
+                  "lat" : -25.3719026,
+                  "lng" : -49.3076835
+               }
+            }
+         },
+         "place_id" : "ChIJ39uRSerg3JQRNp-XN_ts_04",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Almirante Tamandaré",
+               "short_name" : "Almirante Tamandaré",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Almirante Tamandaré - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.224454,
+                  "lng" : -49.2293971
+               },
+               "southwest" : {
+                  "lat" : -25.3842659,
+                  "lng" : -49.4521953
+               }
+            },
+            "location" : {
+               "lat" : -25.3193922,
+               "lng" : -49.3041525
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.224454,
+                  "lng" : -49.2293971
+               },
+               "southwest" : {
+                  "lat" : -25.3842659,
+                  "lng" : -49.4521953
+               }
+            }
+         },
+         "place_id" : "ChIJG89I0uPe3JQRpz4UanbhSJo",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            },
+            "location" : {
+               "lat" : -25.2520888,
+               "lng" : -52.0215415
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            }
+         },
+         "place_id" : "ChIJnWK4MJQL25QRYfDOY1D9k-g",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

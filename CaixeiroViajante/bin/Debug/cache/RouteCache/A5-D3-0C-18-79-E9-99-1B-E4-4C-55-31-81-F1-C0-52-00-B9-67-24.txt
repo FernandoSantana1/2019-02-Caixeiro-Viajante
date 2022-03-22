@@ -1,0 +1,181 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJZ9ebO9Lm3JQRIgZfA0lVtRU",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJGUxxU87m3JQRRxmlRh38eoM",
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.3830021,
+               "lng" : -49.2752008
+            },
+            "southwest" : {
+               "lat" : -25.3858102,
+               "lng" : -49.2800291
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 km",
+                  "value" : 985
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 173
+               },
+               "end_address" : "R. João Gava, 970 - Abranches, Curitiba - PR, 82130-010, Brazil",
+               "end_location" : {
+                  "lat" : -25.3842466,
+                  "lng" : -49.2761627
+               },
+               "start_address" : "R. Eugênio Flôr, 275 - Abranches, Curitiba - PR, 82130-290, Brazil",
+               "start_location" : {
+                  "lat" : -25.3830021,
+                  "lng" : -49.2800291
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 282
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : -25.385489,
+                        "lng" : -49.2796339
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eR. Eugênio Flôr\u003c/b\u003e toward \u003cb\u003eR. André Andreta\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "vr|yCd_xkHd@?h@E|@Mv@I^GhBYpAQHAh@CF?D@LD"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3830021,
+                        "lng" : -49.2800291
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "65 m",
+                        "value" : 65
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : -25.3857625,
+                        "lng" : -49.2790627
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Nilo Peçanha\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "hb}yCt|wkHl@qAF_@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.385489,
+                        "lng" : -49.2796339
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 390
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 51
+                     },
+                     "end_location" : {
+                        "lat" : -25.3855771,
+                        "lng" : -49.2752008
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eR. João Gava\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "~c}yCbywkHBSBY@Y?MAOGmBOaDEsAIaBC_AAc@?S?gA@W"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3857625,
+                        "lng" : -49.2790627
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "46 m",
+                        "value" : 46
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 16
+                     },
+                     "end_location" : {
+                        "lat" : -25.3854713,
+                        "lng" : -49.2755847
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "zb}yC~`wkHG@EBC@CJCLAJ@L@F@F"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3855771,
+                        "lng" : -49.2752008
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 202
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 61
+                     },
+                     "end_location" : {
+                        "lat" : -25.3842466,
+                        "lng" : -49.2761627
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "db}yCjcwkHQ@OBO?M?MCICO@M@MFGHE@I?KEGGGEM?QCGAG@EBCF?X?D?H?PCNCN@LB?"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3854713,
+                        "lng" : -49.2755847
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "vr|yCd_xkHnAEtBWdFu@p@CRFl@qAF_@Fm@@g@I}Bc@wK?wCMDGLEXBT@FQ@_@B[CICO@[HGHO@SMo@KMDCF?X?NC`@A\\B?"
+         },
+         "summary" : "R. Eugênio Flôr and R. João Gava",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,377 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJGUxxU87m3JQRRxmlRh38eoM",
+         "types" : [ "establishment", "point_of_interest", "tourist_attraction" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJIS_2wEfk3JQRO35Gzk1XmGk",
+         "types" : [
+            "establishment",
+            "furniture_store",
+            "home_goods_store",
+            "point_of_interest",
+            "store"
+         ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.3842223,
+               "lng" : -49.2539897
+            },
+            "southwest" : {
+               "lat" : -25.4265209,
+               "lng" : -49.276293
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "7.0 km",
+                  "value" : 6958
+               },
+               "duration" : {
+                  "text" : "16 mins",
+                  "value" : 960
+               },
+               "end_address" : "Rua XV de Novembro, 2023 - Alto da XV, Curitiba - PR, 80045-125, Brazil",
+               "end_location" : {
+                  "lat" : -25.4265209,
+                  "lng" : -49.25508929999999
+               },
+               "start_address" : "R. João Gava, 970 - Abranches, Curitiba - PR, 82130-010, Brazil",
+               "start_location" : {
+                  "lat" : -25.3842466,
+                  "lng" : -49.2761627
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 202
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : -25.3854713,
+                        "lng" : -49.2755847
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "pz|yC~fwkHC?AMBOBO?Q?I?E?YBGDCFAF@PBL?FDFFJDH?DAFILGLANAHBLBL?N?NCPA"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3842466,
+                        "lng" : -49.2761627
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "46 m",
+                        "value" : 46
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 18
+                     },
+                     "end_location" : {
+                        "lat" : -25.3855771,
+                        "lng" : -49.2752008
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eR. João Gava\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "db}yCjcwkHAGAGAM@KBMBKBADCFA"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3854713,
+                        "lng" : -49.2755847
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 460
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 56
+                     },
+                     "end_location" : {
+                        "lat" : -25.3872785,
+                        "lng" : -49.2711522
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. João Gava\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "zb}yC~`wkH@U@W@G@Qj@sDBQHg@BMHg@F]DWF_@F[FWHUHOHMFKFGDGFIBCBEHIHIJMFKHIFIJKHMHKJKHMLSFODIBIHU"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3855771,
+                        "lng" : -49.2752008
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 191
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : -25.388664,
+                        "lng" : -49.2722668
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. João Enéas de Sá\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "nm}yCtgvkHRPLL`@ZFDTPf@X@@h@ZNJPLLLl@j@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3872785,
+                        "lng" : -49.2711522
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.5 km",
+                        "value" : 2520
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 280
+                     },
+                     "end_location" : {
+                        "lat" : -25.4104442,
+                        "lng" : -49.27541429999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Nilo Peçanha\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "bv}yCtnvkHLIDENGFAD?NCL?F?L@L@`AJjBNPBzBP~@JzCXH@xALh@FfAHl@BjAFlBBbA?f@FN@l@NrCt@NFXF^J`@Jj@F`CDx@BfA@X@Z@x@DL@H@J@D@T@h@Jf@Nx@`@z@`@l@Vl@Xx@f@x@f@ZVXX`@X^PH@`CJZ@Z@x@UPEJCHAF?HAF?PBTHv@T`@L~Af@~Ab@jBBhB@`@@fAP`@HlARXBf@HbARPBh@DR@n@@t@Al@Gt@MvA[~@[`@Kr@]\\QHEv@]"
+                     },
+                     "start_location" : {
+                        "lat" : -25.388664,
+                        "lng" : -49.2722668
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 391
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 71
+                     },
+                     "end_location" : {
+                        "lat" : -25.4115509,
+                        "lng" : -49.271818
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Carlos Pioli\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "f~azChbwkHXuA@GFs@BMFi@Ju@Fq@RuBV}BBMBODIDIFIBELKLKJKTUFQBGBQ"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4104442,
+                        "lng" : -49.27541429999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 594
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 74
+                     },
+                     "end_location" : {
+                        "lat" : -25.412708,
+                        "lng" : -49.26607869999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eR. Dep. Mário de Barros\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "debzCzkvkHFcBBc@Da@@SD_@LmADc@?IF]JeAHs@Fc@De@^}CLiAFg@b@uDJ_AJSHMPW"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4115509,
+                        "lng" : -49.271818
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 677
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 120
+                     },
+                     "end_location" : {
+                        "lat" : -25.4145005,
+                        "lng" : -49.2600627
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit and stay on \u003cb\u003eR. Dep. Mário de Barros\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "llbzC~gukH@AB?@A@A@?@A@A@A@C@A@A?A@C?C?A?A?C?A?C?A?CAA?CAAAA?CAAAAAAC?AAAAA?AAC?IOAAEGLmBJmBFcABs@Fg@TwADYl@qDLs@Fa@DMBIFULUr@eAp@eAl@_ADIp@}@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.412708,
+                        "lng" : -49.26607869999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 237
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 40
+                     },
+                     "end_location" : {
+                        "lat" : -25.4162566,
+                        "lng" : -49.2591251
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eRua Alberto Bolliger\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "rwbzCjbtkHN^XCPC`Am@JIPIROPMp@c@VOrA}@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4145005,
+                        "lng" : -49.2600627
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "72 m",
+                        "value" : 72
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : -25.4161498,
+                        "lng" : -49.2584224
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Machado de Assis\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "rbczCp|skHUmC"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4162566,
+                        "lng" : -49.2591251
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 191
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 30
+                     },
+                     "end_location" : {
+                        "lat" : -25.417152,
+                        "lng" : -49.2569546
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e2nd\u003c/b\u003e exit onto \u003cb\u003eR. Cambará\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "|aczCbxskH@?@A@??A@??A@ABG?C?C?A?A?CACCEfAyARYbBgC"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4161498,
+                        "lng" : -49.2584224
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 301
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 40
+                     },
+                     "end_location" : {
+                        "lat" : -25.4168983,
+                        "lng" : -49.2539897
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Augusto Stresser\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "dhczC|nskHg@_HEu@CSAEEIDcB?s@@}@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.417152,
+                        "lng" : -49.2569546
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1076
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 137
+                     },
+                     "end_location" : {
+                        "lat" : -25.4265209,
+                        "lng" : -49.25508929999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. Alm. Tamandaré\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "rfczCl|rkH|BL|BNbCJdCL|BN|BP~CP|CPV@vBLzBLX@lIb@lBL`BJ"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4168983,
+                        "lng" : -49.2539897
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "pz|yC~fwkHC?AMF_@?{@HKN?^BNLTDDATQ\\CVF\\?`@ECO?YFYHEFA@UB_@l@eEZoB\\qBPm@R]\\e@Z]pA_Bd@{@L_@`@^fBlAlAv@z@x@ROVITCp@BzHp@~Ht@pBPxBJpDBv@HjFtA`AVj@F`CD`CDt@B|AJZBpAZpEtBrBnAt@p@`@X^PjCLv@BjA[f@GXBlA^`Ct@~Ab@jBBjCBhBZfBVjB\\z@HbABt@Al@GlCi@`Bg@pAo@`Ac@Z}A^aDv@sHHYLSj@i@TUFQFYJgCFu@X{C`BqNn@uFTa@RYDAFEFI@WGUSIKQEGLmBRqDJ{AvAwIXoA`A{A~AeCv@gAN^XCPC`Am@\\SnBqArA}@UmCBABADUEOzAsBbBgCg@_HIiAGODwC@}@|BL`GZbG\\rMv@zQ`AnEX"
+         },
+         "summary" : "R. Nilo Peçanha",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

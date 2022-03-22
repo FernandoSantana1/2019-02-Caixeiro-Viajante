@@ -1,0 +1,162 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJIS_2wEfk3JQRO35Gzk1XmGk",
+         "types" : [
+            "establishment",
+            "furniture_store",
+            "home_goods_store",
+            "point_of_interest",
+            "store"
+         ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJFXhUuv_k3JQRn6On857C31E",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.4262527,
+               "lng" : -49.2452445
+            },
+            "southwest" : {
+               "lat" : -25.4431559,
+               "lng" : -49.2591396
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.9 km",
+                  "value" : 2873
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 385
+               },
+               "end_address" : "Av. Prefeito Omar Sabbag, 1200 - Jardim Botânico, Curitiba - PR, 80210-000, Brazil",
+               "end_location" : {
+                  "lat" : -25.4431559,
+                  "lng" : -49.2452445
+               },
+               "start_address" : "Rua XV de Novembro, 2023 - Alto da XV, Curitiba - PR, 80045-125, Brazil",
+               "start_location" : {
+                  "lat" : -25.4265927,
+                  "lng" : -49.25503639999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 414
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 62
+                     },
+                     "end_location" : {
+                        "lat" : -25.4262701,
+                        "lng" : -49.2591396
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eRua XV de Novembro\u003c/b\u003e toward \u003cb\u003eR. Alm. Tamandaré\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "dcezC~bskH?JG~@Ad@AHA`AAXM`C?DKlCSpDEdB?NB\\"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4265927,
+                        "lng" : -49.25503639999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.2 km",
+                        "value" : 1160
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 129
+                     },
+                     "end_location" : {
+                        "lat" : -25.4356171,
+                        "lng" : -49.2542489
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Ubaldino do Amaral\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "daezCr|skHn@Qh@Ml@QnA[pAYb@M`Ck@h@M`@K~@U|D}@RGNIJGdAw@v@c@fAm@d@YNEFEFC\\SBA@ADADCBAFEzA{@lBgARMTM@ADCFEDALG`Ai@NK~CuANGj@WLIRO^Y^a@RU"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4262701,
+                        "lng" : -49.2591396
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 886
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 157
+                     },
+                     "end_location" : {
+                        "lat" : -25.441405,
+                        "lng" : -49.2487167
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eAv. Prefeito Omar Sabbag\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "r{fzC`~rkHDGHIDG@ADEh@s@d@q@FId@}@j@eANUPYHOT[d@i@h@e@JKh@e@`A}@x@u@x@u@x@s@v@u@|@s@z@s@bAq@BAb@YFEJEFCB?D?B?BBTLB@FBF@HAD?JEd@YPKTOJIHKDK@M@I?M@G?E@I"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4356171,
+                        "lng" : -49.2542489
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 413
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : -25.4431559,
+                        "lng" : -49.2452445
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eAv. Prefeito Omar Sabbag\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "v_hzCn{qkHDGFGHGHG@?XQHGPKp@c@DEFIHQJ_@Nu@ZoAZkAtAeGH[FW"
+                     },
+                     "start_location" : {
+                        "lat" : -25.441405,
+                        "lng" : -49.2487167
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "dcezC~bskHKzBCzAMfC_@~HEtBB\\n@QvA_@fIoBhImBb@QpA_AtDqBbAi@jGqDdB_AhF_Cr@i@r@w@V[|AuBrBsD^k@d@i@h@e@t@q@zBsBhFsEz@s@bAq@f@[^OH?XPJDP?PEv@e@`@YNWDm@@OLOn@a@rA}@P[ZuAv@{C~AaHFW"
+         },
+         "summary" : "R. Ubaldino do Amaral and Av. Prefeito Omar Sabbag",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

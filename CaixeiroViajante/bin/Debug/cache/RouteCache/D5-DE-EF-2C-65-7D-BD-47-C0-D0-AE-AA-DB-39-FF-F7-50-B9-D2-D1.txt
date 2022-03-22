@@ -1,0 +1,181 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJbfW59HTk3JQRI8PiLXsO-48",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJVbLwfN_j3JQRgdJfUWgsYoI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.422928,
+               "lng" : -49.2805938
+            },
+            "southwest" : {
+               "lat" : -25.4359549,
+               "lng" : -49.306454
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.7 km",
+                  "value" : 3685
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 583
+               },
+               "end_address" : "Av. Cândido Hartmann, 2297 - Bigorrilho, Curitiba - PR, 80710-410, Brazil",
+               "end_location" : {
+                  "lat" : -25.4236698,
+                  "lng" : -49.306454
+               },
+               "start_address" : "R. Brg. Franco, 1693 - Centro, Curitiba - PR, 80420-200, Brazil",
+               "start_location" : {
+                  "lat" : -25.4359549,
+                  "lng" : -49.2805938
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1.2 km",
+                        "value" : 1216
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 204
+                     },
+                     "end_location" : {
+                        "lat" : -25.426149,
+                        "lng" : -49.2857615
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eR. Brg. Franco\u003c/b\u003e toward \u003cb\u003eAv. Vicente Machado\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "t}fzCtbxkHQT{CdDwBz@wBz@mAb@e@Pc@P[Ls@VwBv@wBx@s@Vq@V]J_@NgA`@iCv@a@PaBp@uBx@cBl@]LeA`@{Bx@}Bx@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4359549,
+                        "lng" : -49.2805938
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 914
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 126
+                     },
+                     "end_location" : {
+                        "lat" : -25.4294126,
+                        "lng" : -49.2941164
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Padre Agostinho\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "l`ezC~bykH\\nAV|@v@jCdApDH^X`At@hCZfANb@DPp@|Bj@lB?@j@lBh@lBj@jBh@lBr@bCDLFZ"
+                     },
+                     "start_location" : {
+                        "lat" : -25.426149,
+                        "lng" : -49.2857615
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.4 km",
+                        "value" : 1376
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 182
+                     },
+                     "end_location" : {
+                        "lat" : -25.4229378,
+                        "lng" : -49.3053106
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAv. Cândido Hartmann\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "xtezCfwzkHi@XMXOr@KXQb@IROb@Uf@w@bBkBvDINCDOZM\\GTKZK`@AL]x@c@jASd@ADINMRSXSV?@w@t@a@\\a@\\a@h@IJQTe@n@y@lASXY^IJWPMHMDOJKHIJGLEJCNCLEJEHEDEBGDKDWJIDGFGJIVy@fDGNIPEJMNW^KRKTGTMl@Kh@EXANERAJCP?N?@?V?V@z@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4294126,
+                        "lng" : -49.2941164
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 102
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : -25.4237871,
+                        "lng" : -49.30570119999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eRua Doutor Aluízio França\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "jldzCd}|kHbAZ^N^P@?b@N"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4229378,
+                        "lng" : -49.3053106
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "77 m",
+                        "value" : 77
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 43
+                     },
+                     "end_location" : {
+                        "lat" : -25.4236698,
+                        "lng" : -49.306454
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "tqdzCr_}kHWtC"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4237871,
+                        "lng" : -49.30570119999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "t}fzCtbxkHmDzDoFvBsDtAoOvFiCv@a@PwEjBcIvC}Bx@\\nAnAhE~C|KdFfQnCjJFZi@XMXOr@]|@Yv@mAjCuBfES`@Ur@W|@AL]x@w@pBKTu@fAyArAa@\\a@h@IJw@dAqBrCcAl@UTMXG\\KTKHSJa@PORcA~DQ`@SZc@r@Sj@YvAOhACz@@rAbBj@`@Pb@NWtC"
+         },
+         "summary" : "R. Brg. Franco and Av. Cândido Hartmann",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

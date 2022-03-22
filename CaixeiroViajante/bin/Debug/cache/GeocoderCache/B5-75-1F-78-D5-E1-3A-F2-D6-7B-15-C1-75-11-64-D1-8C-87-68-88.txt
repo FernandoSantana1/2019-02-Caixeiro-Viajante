@@ -1,0 +1,627 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "JP74+VF Curitiba, State of Paraná, Brazil",
+      "global_code" : "586GJP74+VF"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "529",
+               "short_name" : "529",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Wilkys Amazonas Correia",
+               "short_name" : "Rua Wilkys Amazonas Correia",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pilarzinho",
+               "short_name" : "Pilarzinho",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82115-050",
+               "short_name" : "82115-050",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Wilkys Amazonas Correia, 529 - Pilarzinho, Curitiba - PR, 82115-050, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.38486,
+               "lng" : -49.293275
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3835110197085,
+                  "lng" : -49.29192601970851
+               },
+               "southwest" : {
+                  "lat" : -25.38620898029151,
+                  "lng" : -49.2946239802915
+               }
+            }
+         },
+         "place_id" : "ChIJB6VsRi_h3JQRrkwR-YkpXMo",
+         "plus_code" : {
+            "compound_code" : "JP84+3M Curitiba, State of Paraná, Brazil",
+            "global_code" : "586GJP84+3M"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "517",
+               "short_name" : "517",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Wilkys Amazonas Correia",
+               "short_name" : "Rua Wilkys Amazonas Correia",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pilarzinho",
+               "short_name" : "Pilarzinho",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82115-040",
+               "short_name" : "82115-040",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Wilkys Amazonas Correia, 517 - Pilarzinho, Curitiba - PR, 82115-040, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3849926,
+                  "lng" : -49.2930402
+               },
+               "southwest" : {
+                  "lat" : -25.3851212,
+                  "lng" : -49.2931514
+               }
+            },
+            "location" : {
+               "lat" : -25.385039,
+               "lng" : -49.2930751
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3837079197085,
+                  "lng" : -49.2917468197085
+               },
+               "southwest" : {
+                  "lat" : -25.38640588029151,
+                  "lng" : -49.2944447802915
+               }
+            }
+         },
+         "place_id" : "ChIJQynIQC_h3JQRh7YjEtC_-yw",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "91",
+               "short_name" : "91",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Wilkys Amazonas Correia",
+               "short_name" : "Rua Wilkys Amazonas Correia",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pilarzinho",
+               "short_name" : "Pilarzinho",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82115-050",
+               "short_name" : "82115-050",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Wilkys Amazonas Correia, 91 - Pilarzinho, Curitiba - PR, 82115-050, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.384785,
+               "lng" : -49.2933564
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.38343601970849,
+                  "lng" : -49.2920074197085
+               },
+               "southwest" : {
+                  "lat" : -25.3861339802915,
+                  "lng" : -49.2947053802915
+               }
+            }
+         },
+         "place_id" : "Ek5SdWEgV2lsa3lzIEFtYXpvbmFzIENvcnJlaWEsIDkxIC0gUGlsYXJ6aW5obywgQ3VyaXRpYmEgLSBQUiwgODIxMTUtMDUwLCBCcmF6aWwiGhIYChQKEgl9zh1GL-HclBExDIFaDn6lDxBb",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "402-410",
+               "short_name" : "402-410",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Wilkys Amazonas Correia",
+               "short_name" : "Rua Wilkys Amazonas Correia",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pilarzinho",
+               "short_name" : "Pilarzinho",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82115-050",
+               "short_name" : "82115-050",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Wilkys Amazonas Correia, 402-410 - Pilarzinho, Curitiba - PR, 82115-050, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3847839,
+                  "lng" : -49.2931012
+               },
+               "southwest" : {
+                  "lat" : -25.384896,
+                  "lng" : -49.293359
+               }
+            },
+            "location" : {
+               "lat" : -25.3848394,
+               "lng" : -49.29322980000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.38349096970849,
+                  "lng" : -49.2918811197085
+               },
+               "southwest" : {
+                  "lat" : -25.3861889302915,
+                  "lng" : -49.2945790802915
+               }
+            }
+         },
+         "place_id" : "ChIJfc4dRi_h3JQRMAyBWg5-pQ8",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "82115-050",
+               "short_name" : "82115-050",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Pilarzinho",
+               "short_name" : "Pilarzinho",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pilarzinho, Curitiba - State of Paraná, 82115-050, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3846827,
+                  "lng" : -49.2914567
+               },
+               "southwest" : {
+                  "lat" : -25.3856233,
+                  "lng" : -49.2945422
+               }
+            },
+            "location" : {
+               "lat" : -25.3851003,
+               "lng" : -49.2928572
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3838040197085,
+                  "lng" : -49.2914567
+               },
+               "southwest" : {
+                  "lat" : -25.3865019802915,
+                  "lng" : -49.2945422
+               }
+            }
+         },
+         "place_id" : "ChIJd_0XRi_h3JQRYfCHc7_jX2g",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "82110",
+               "short_name" : "82110",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Pilarzinho",
+               "short_name" : "Pilarzinho",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Almirante Tamandaré",
+               "short_name" : "Almirante Tamandaré",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pilarzinho, Almirante Tamandaré - State of Paraná, 82110, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3817895,
+                  "lng" : -49.2873896
+               },
+               "southwest" : {
+                  "lat" : -25.3996833,
+                  "lng" : -49.30695619999999
+               }
+            },
+            "location" : {
+               "lat" : -25.3877968,
+               "lng" : -49.29681859999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3817895,
+                  "lng" : -49.2873896
+               },
+               "southwest" : {
+                  "lat" : -25.3996833,
+                  "lng" : -49.30695619999999
+               }
+            }
+         },
+         "place_id" : "ChIJxYS3Ljvh3JQRst2CibhVDbs",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pilarzinho",
+               "short_name" : "Pilarzinho",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pilarzinho, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3750081,
+                  "lng" : -49.2711122
+               },
+               "southwest" : {
+                  "lat" : -25.4041924,
+                  "lng" : -49.3052765
+               }
+            },
+            "location" : {
+               "lat" : -25.39629,
+               "lng" : -49.2875992
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3750081,
+                  "lng" : -49.2711122
+               },
+               "southwest" : {
+                  "lat" : -25.4041924,
+                  "lng" : -49.3052765
+               }
+            }
+         },
+         "place_id" : "ChIJWQuM6zPh3JQR1_AE4OwV5jU",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba, State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4289541,
+               "lng" : -49.267137
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            }
+         },
+         "place_id" : "ChIJ3bPNUVPj3JQRCejLuqVrL20",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4808762,
+               "lng" : -49.3044253
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            }
+         },
+         "place_id" : "ChIJ8Q8J_PXj3JQRR7crCbCDejw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            },
+            "location" : {
+               "lat" : -25.2520888,
+               "lng" : -52.0215415
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            }
+         },
+         "place_id" : "ChIJnWK4MJQL25QRYfDOY1D9k-g",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

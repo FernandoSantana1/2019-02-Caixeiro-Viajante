@@ -1,0 +1,674 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "JQ96+JG Curitiba, State of Paraná, Brazil",
+      "global_code" : "586GJQ96+JG"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2455",
+               "short_name" : "2455",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Nossa Senhora de Nazaré",
+               "short_name" : "Rua N. Senhora de Nazaré",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Boa Vista",
+               "short_name" : "Boa Vista",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82540-130",
+               "short_name" : "82540-130",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Nossa Sra. de Nazaré, 2455 - Boa Vista, Curitiba - PR, 82540-130, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.3813027,
+               "lng" : -49.2382139
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3799537197085,
+                  "lng" : -49.2368649197085
+               },
+               "southwest" : {
+                  "lat" : -25.3826516802915,
+                  "lng" : -49.23956288029149
+               }
+            }
+         },
+         "place_id" : "ChIJGe-dTmfm3JQRFdY1gt0MzdA",
+         "plus_code" : {
+            "compound_code" : "JQ96+FP Curitiba, State of Paraná, Brazil",
+            "global_code" : "586GJQ96+FP"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2401",
+               "short_name" : "2401",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua N. Senhora de Nazaré",
+               "short_name" : "Rua N. Senhora de Nazaré",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Boa Vista",
+               "short_name" : "Boa Vista",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82560-000",
+               "short_name" : "82560-000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. N. Sra. de Nazaré, 2401 - Boa Vista, Curitiba - PR, 82560-000, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.3815215,
+               "lng" : -49.2384345
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.38017251970849,
+                  "lng" : -49.2370855197085
+               },
+               "southwest" : {
+                  "lat" : -25.3828704802915,
+                  "lng" : -49.23978348029149
+               }
+            }
+         },
+         "place_id" : "ChIJbytvS2fm3JQRUzzC2Df2AME",
+         "plus_code" : {
+            "compound_code" : "JQ96+9J Boa Vista, Curitiba - State of Paraná, Brazil",
+            "global_code" : "586GJQ96+9J"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nossa Senhora de Nazaré, 2233 - Boa Vista",
+               "short_name" : "Nossa Senhora de Nazaré, 2233 - Boa Vista",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Boa Vista",
+               "short_name" : "Boa Vista",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82560-000",
+               "short_name" : "82560-000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Nossa Senhora de Nazaré, 2233 - Boa Vista - Boa Vista, Curitiba - PR, 82560-000, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.3819739,
+               "lng" : -49.23871579999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3806249197085,
+                  "lng" : -49.2373668197085
+               },
+               "southwest" : {
+                  "lat" : -25.3833228802915,
+                  "lng" : -49.24006478029149
+               }
+            }
+         },
+         "place_id" : "ChIJ3etbymDm3JQRr0_hWoMs9lA",
+         "plus_code" : {
+            "compound_code" : "JQ96+6G Curitiba, State of Paraná, Brazil",
+            "global_code" : "586GJQ96+6G"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2455",
+               "short_name" : "2455",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Nossa Senhora de Nazaré",
+               "short_name" : "Rua N. Senhora de Nazaré",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Boa Vista",
+               "short_name" : "Boa Vista",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82540-130",
+               "short_name" : "82540-130",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Nossa Sra. de Nazaré, 2455 - Boa Vista, Curitiba - PR, 82540-130, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.3813775,
+               "lng" : -49.23810839999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3800285197085,
+                  "lng" : -49.2367594197085
+               },
+               "southwest" : {
+                  "lat" : -25.3827264802915,
+                  "lng" : -49.23945738029149
+               }
+            }
+         },
+         "place_id" : "EkxSLiBOb3NzYSBTcmEuIGRlIE5hemFyw6ksIDI0NTUgLSBCb2EgVmlzdGEsIEN1cml0aWJhIC0gUFIsIDgyNTQwLTEzMCwgQnJhemlsIhsSGQoUChIJCU5sT2fm3JQRN7J3veq8-N4QlxM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2400-2572",
+               "short_name" : "2400-2572",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Nossa Senhora de Nazaré",
+               "short_name" : "Rua N. Senhora de Nazaré",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Boa Vista",
+               "short_name" : "Boa Vista",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82540-130",
+               "short_name" : "82540-130",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Nossa Sra. de Nazaré, 2400-2572 - Boa Vista, Curitiba - PR, 82540-130, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3806879,
+                  "lng" : -49.2375091
+               },
+               "southwest" : {
+                  "lat" : -25.3819993,
+                  "lng" : -49.2386488
+               }
+            },
+            "location" : {
+               "lat" : -25.3813436,
+               "lng" : -49.2380789
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3799946197085,
+                  "lng" : -49.23672996970851
+               },
+               "southwest" : {
+                  "lat" : -25.38269258029151,
+                  "lng" : -49.23942793029151
+               }
+            }
+         },
+         "place_id" : "ChIJCU5sT2fm3JQRNrJ3veq8-N4",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "82640",
+               "short_name" : "82640",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Santa Candida",
+               "short_name" : "Santa Candida",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Candida, Curitiba - State of Paraná, 82640, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3684211,
+                  "lng" : -49.2268458
+               },
+               "southwest" : {
+                  "lat" : -25.3886696,
+                  "lng" : -49.2413898
+               }
+            },
+            "location" : {
+               "lat" : -25.3772995,
+               "lng" : -49.2360011
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3684211,
+                  "lng" : -49.2268458
+               },
+               "southwest" : {
+                  "lat" : -25.3886696,
+                  "lng" : -49.2413898
+               }
+            }
+         },
+         "place_id" : "ChIJPRqmWl3m3JQRa5OexerinZU",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boa Vista",
+               "short_name" : "Boa Vista",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Boa Vista, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3716464,
+                  "lng" : -49.2323934
+               },
+               "southwest" : {
+                  "lat" : -25.4010466,
+                  "lng" : -49.2616416
+               }
+            },
+            "location" : {
+               "lat" : -25.388446,
+               "lng" : -49.2436556
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3716464,
+                  "lng" : -49.2323934
+               },
+               "southwest" : {
+                  "lat" : -25.4010466,
+                  "lng" : -49.2616416
+               }
+            }
+         },
+         "place_id" : "ChIJxxscpYvm3JQRx9mRflxCxZw",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boa Vista",
+               "short_name" : "Boa Vista",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Boa Vista, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1914303
+               },
+               "southwest" : {
+                  "lat" : -25.4313697,
+                  "lng" : -49.2815916
+               }
+            },
+            "location" : {
+               "lat" : -25.3886823,
+               "lng" : -49.2334685
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1914303
+               },
+               "southwest" : {
+                  "lat" : -25.4313697,
+                  "lng" : -49.2815916
+               }
+            }
+         },
+         "place_id" : "ChIJ4yXhiYjm3JQRib7FMdA38u0",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba, State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4289541,
+               "lng" : -49.267137
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            }
+         },
+         "place_id" : "ChIJ3bPNUVPj3JQRCejLuqVrL20",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4808762,
+               "lng" : -49.3044253
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            }
+         },
+         "place_id" : "ChIJ8Q8J_PXj3JQRR7crCbCDejw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            },
+            "location" : {
+               "lat" : -25.2520888,
+               "lng" : -52.0215415
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            }
+         },
+         "place_id" : "ChIJnWK4MJQL25QRYfDOY1D9k-g",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

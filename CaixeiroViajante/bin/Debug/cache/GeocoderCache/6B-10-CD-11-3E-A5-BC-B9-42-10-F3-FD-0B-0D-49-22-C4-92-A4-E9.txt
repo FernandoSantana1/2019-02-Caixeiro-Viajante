@@ -1,0 +1,73 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bosque Alemão",
+               "short_name" : "Bosque Alemão",
+               "types" : [ "establishment", "park", "point_of_interest" ]
+            },
+            {
+               "long_name" : "s/n",
+               "short_name" : "s/n",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Nicolo Paganini",
+               "short_name" : "R. Nicolo Paganini",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pilarzinho",
+               "short_name" : "Pilarzinho",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "81720-300",
+               "short_name" : "81720-300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bosque Alemão - R. Nicolo Paganini, s/n - Pilarzinho, Curitiba - PR, 81720-300, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.4044672,
+               "lng" : -49.288116
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4031182197085,
+                  "lng" : -49.28676701970849
+               },
+               "southwest" : {
+                  "lat" : -25.4058161802915,
+                  "lng" : -49.28946498029149
+               }
+            }
+         },
+         "place_id" : "ChIJxYnV2Qf73JQR0ASXvKNB7mA",
+         "plus_code" : {
+            "compound_code" : "HPW6+6Q Pilarzinho, Curitiba - State of Paraná, Brazil",
+            "global_code" : "586GHPW6+6Q"
+         },
+         "types" : [ "establishment", "park", "point_of_interest" ]
+      }
+   ],
+   "status" : "OK"
+}

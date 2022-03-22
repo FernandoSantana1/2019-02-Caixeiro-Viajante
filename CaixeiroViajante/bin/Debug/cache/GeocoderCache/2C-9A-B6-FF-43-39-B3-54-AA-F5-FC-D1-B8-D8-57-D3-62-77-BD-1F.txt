@@ -1,0 +1,637 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "JPG2+WG Almirante Tamandaré - Cachoeira, Almirante Tamandaré - PR, Brazil",
+      "global_code" : "586GJPG2+WG"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "350",
+               "short_name" : "350",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Machado de Assis",
+               "short_name" : "R. Machado de Assis",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vila Marta",
+               "short_name" : "Vila Marta",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Almirante Tamandaré",
+               "short_name" : "Alm. Tamandaré",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83508-360",
+               "short_name" : "83508-360",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Machado de Assis, 350 - Vila Marta, Alm. Tamandaré - PR, 83508-360, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3727019,
+                  "lng" : -49.29879039999999
+               },
+               "southwest" : {
+                  "lat" : -25.3727591,
+                  "lng" : -49.2989634
+               }
+            },
+            "location" : {
+               "lat" : -25.3727351,
+               "lng" : -49.2988687
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3713815197085,
+                  "lng" : -49.2975279197085
+               },
+               "southwest" : {
+                  "lat" : -25.3740794802915,
+                  "lng" : -49.3002258802915
+               }
+            }
+         },
+         "place_id" : "ChIJhVBVZtvg3JQRIXLAJQOCW7M",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "326",
+               "short_name" : "326",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Machado de Assis",
+               "short_name" : "R. Machado de Assis",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tangua",
+               "short_name" : "Tangua",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Almirante Tamandaré",
+               "short_name" : "Alm. Tamandaré",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83508-310",
+               "short_name" : "83508-310",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Machado de Assis, 326 - Tangua, Alm. Tamandaré - PR, 83508-310, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.372806,
+               "lng" : -49.298877
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.37145701970849,
+                  "lng" : -49.2975280197085
+               },
+               "southwest" : {
+                  "lat" : -25.3741549802915,
+                  "lng" : -49.3002259802915
+               }
+            }
+         },
+         "place_id" : "ChIJJQRgZtvg3JQRyWNTQR6wKyw",
+         "plus_code" : {
+            "compound_code" : "JPG2+VC Almirante Tamandaré - Cachoeira, Almirante Tamandaré - PR, Brazil",
+            "global_code" : "586GJPG2+VC"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "22",
+               "short_name" : "22",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Cecília Meireles",
+               "short_name" : "R. Cecília Meireles",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jardim Vitoria",
+               "short_name" : "Jardim Vitoria",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Almirante Tamandaré",
+               "short_name" : "Alm. Tamandaré",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83508-380",
+               "short_name" : "83508-380",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Cecília Meireles, 22 - Jardim Vitoria, Alm. Tamandaré - PR, 83508-380, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.3727326,
+               "lng" : -49.2985021
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3713836197085,
+                  "lng" : -49.2971531197085
+               },
+               "southwest" : {
+                  "lat" : -25.3740815802915,
+                  "lng" : -49.2998510802915
+               }
+            }
+         },
+         "place_id" : "ElJSLiBDZWPDrWxpYSBNZWlyZWxlcywgMjIgLSBKYXJkaW0gVml0b3JpYSwgQWxtLiBUYW1hbmRhcsOpIC0gUFIsIDgzNTA4LTM4MCwgQnJhemlsIhoSGAoUChIJp91TV8Pg3JQReuwawzy-vUgQFg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "22-90",
+               "short_name" : "22-90",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Cecília Meireles",
+               "short_name" : "R. Cecília Meireles",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Jardim Vitoria",
+               "short_name" : "Jardim Vitoria",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Almirante Tamandaré",
+               "short_name" : "Alm. Tamandaré",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83508-380",
+               "short_name" : "83508-380",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Cecília Meireles, 22-90 - Jardim Vitoria, Alm. Tamandaré - PR, 83508-380, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3727305,
+                  "lng" : -49.29849489999999
+               },
+               "southwest" : {
+                  "lat" : -25.372945,
+                  "lng" : -49.29850219999999
+               }
+            },
+            "location" : {
+               "lat" : -25.3728377,
+               "lng" : -49.2984967
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3714887697085,
+                  "lng" : -49.29714956970849
+               },
+               "southwest" : {
+                  "lat" : -25.3741867302915,
+                  "lng" : -49.29984753029149
+               }
+            }
+         },
+         "place_id" : "ChIJp91TV8Pg3JQReuwawzy-vUg",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "83508-310",
+               "short_name" : "83508-310",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Rua Machado de Assis",
+               "short_name" : "R. Machado de Assis",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tanguá",
+               "short_name" : "Tanguá",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Almirante Tamandaré",
+               "short_name" : "Alm. Tamandaré",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "R. Machado de Assis - Tanguá, Alm. Tamandaré - PR, 83508-310, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3721867,
+                  "lng" : -49.2982429
+               },
+               "southwest" : {
+                  "lat" : -25.3760462,
+                  "lng" : -49.2992272
+               }
+            },
+            "location" : {
+               "lat" : -25.3739525,
+               "lng" : -49.2988787
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3721867,
+                  "lng" : -49.29738606970849
+               },
+               "southwest" : {
+                  "lat" : -25.3760462,
+                  "lng" : -49.30008403029149
+               }
+            }
+         },
+         "place_id" : "ChIJV0FvhNvg3JQRVWInkpA9p6Y",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jardim Vitoria",
+               "short_name" : "Jardim Vitoria",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Almirante Tamandaré",
+               "short_name" : "Alm. Tamandaré",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "83508",
+               "short_name" : "83508",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            }
+         ],
+         "formatted_address" : "Jardim Vitoria, Alm. Tamandaré - PR, 83508, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3698318,
+                  "lng" : -49.2979753
+               },
+               "southwest" : {
+                  "lat" : -25.3756012,
+                  "lng" : -49.3085843
+               }
+            },
+            "location" : {
+               "lat" : -25.3723762,
+               "lng" : -49.30379139999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3698318,
+                  "lng" : -49.2979753
+               },
+               "southwest" : {
+                  "lat" : -25.3756012,
+                  "lng" : -49.3085843
+               }
+            }
+         },
+         "place_id" : "ChIJbWwatcLg3JQRTRn2XNYdNLY",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "83508",
+               "short_name" : "83508",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Almirante Tamandaré",
+               "short_name" : "Almirante Tamandaré",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Almirante Tamandaré - State of Paraná, 83508, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3636732,
+                  "lng" : -49.2973857
+               },
+               "southwest" : {
+                  "lat" : -25.3843991,
+                  "lng" : -49.3148505
+               }
+            },
+            "location" : {
+               "lat" : -25.371596,
+               "lng" : -49.3069611
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3636732,
+                  "lng" : -49.2973857
+               },
+               "southwest" : {
+                  "lat" : -25.3843991,
+                  "lng" : -49.3148505
+               }
+            }
+         },
+         "place_id" : "ChIJaaFl2efg3JQRUWpwPWwbwTM",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Almirante Tamandaré",
+               "short_name" : "Alm. Tamandaré",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cachoeira",
+               "short_name" : "Cachoeira",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Almirante Tamandaré",
+               "short_name" : "Alm. Tamandaré",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Alm. Tamandaré - Cachoeira, Alm. Tamandaré - PR, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.227517,
+                  "lng" : -49.234016
+               },
+               "southwest" : {
+                  "lat" : -25.3823802,
+                  "lng" : -49.3453987
+               }
+            },
+            "location" : {
+               "lat" : -25.3193102,
+               "lng" : -49.3042082
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.227517,
+                  "lng" : -49.234016
+               },
+               "southwest" : {
+                  "lat" : -25.3823802,
+                  "lng" : -49.3453987
+               }
+            }
+         },
+         "place_id" : "ChIJtSss-nve3JQRafydorzTdRY",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Almirante Tamandaré",
+               "short_name" : "Almirante Tamandaré",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Almirante Tamandaré - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.224454,
+                  "lng" : -49.2293971
+               },
+               "southwest" : {
+                  "lat" : -25.3842659,
+                  "lng" : -49.4521953
+               }
+            },
+            "location" : {
+               "lat" : -25.3193922,
+               "lng" : -49.3041525
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.224454,
+                  "lng" : -49.2293971
+               },
+               "southwest" : {
+                  "lat" : -25.3842659,
+                  "lng" : -49.4521953
+               }
+            }
+         },
+         "place_id" : "ChIJG89I0uPe3JQRpz4UanbhSJo",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            },
+            "location" : {
+               "lat" : -25.2520888,
+               "lng" : -52.0215415
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            }
+         },
+         "place_id" : "ChIJnWK4MJQL25QRYfDOY1D9k-g",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

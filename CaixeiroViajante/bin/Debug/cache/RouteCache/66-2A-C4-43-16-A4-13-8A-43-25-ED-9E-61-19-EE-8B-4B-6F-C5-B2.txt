@@ -1,0 +1,108 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJEfXiXtTm3JQR6Nu_ZM-iC2I",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ1YxHtyzh3JQRvn9tehSu52w",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.379567,
+               "lng" : -49.28246590000001
+            },
+            "southwest" : {
+               "lat" : -25.3826916,
+               "lng" : -49.2847936
+            }
+         },
+         "copyrights" : "Map data ©2019 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.5 km",
+                  "value" : 487
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 82
+               },
+               "end_address" : "Rua Frei Bernardino Tomat, 110 - Pilarzinho, Curitiba - PR, 82115-460, Brazil",
+               "end_location" : {
+                  "lat" : -25.3826916,
+                  "lng" : -49.2847936
+               },
+               "start_address" : "Rua Lory Lunardon - Taboão, Curitiba - PR, 82130, Brazil",
+               "start_location" : {
+                  "lat" : -25.3796041,
+                  "lng" : -49.28246590000001
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 100
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 15
+                     },
+                     "end_location" : {
+                        "lat" : -25.3798031,
+                        "lng" : -49.2834091
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e toward \u003cb\u003eRua Frei Bernardino Tomat\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "n}{yClnxkH?B?@AJCR?F?B@RJb@FVBHDLL`@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3796041,
+                        "lng" : -49.28246590000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 387
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 67
+                     },
+                     "end_location" : {
+                        "lat" : -25.3826916,
+                        "lng" : -49.2847936
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eRua Frei Bernardino Tomat\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "v~{yChtxkHv@v@VNJHl@b@HDd@RJB`@FH?R@tAI^AN?V?D@B@B@@@@@@??@@@?@@B@F?@Bb@BP@HBF@BBBBBBBFBF@R@P@J@d@?"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3798031,
+                        "lng" : -49.2834091
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "n}{yClnxkHEd@?JLv@^pAnAfAx@l@n@Xl@J\\@tBKp@BHDLhAJXVLvAD"
+         },
+         "summary" : "Rua Frei Bernardino Tomat",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

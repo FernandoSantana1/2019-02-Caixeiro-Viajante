@@ -1,0 +1,157 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJZ9ebO9Lm3JQRIgZfA0lVtRU",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJEfXiXtTm3JQR6Nu_ZM-iC2I",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.3795681,
+               "lng" : -49.2795352
+            },
+            "southwest" : {
+               "lat" : -25.3830021,
+               "lng" : -49.2841928
+            }
+         },
+         "copyrights" : "Map data ©2019 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.2 km",
+                  "value" : 1170
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 179
+               },
+               "end_address" : "Rua Lory Lunardon - Taboão, Curitiba - PR, 82130, Brazil",
+               "end_location" : {
+                  "lat" : -25.3796041,
+                  "lng" : -49.28246590000001
+               },
+               "start_address" : "R. Eugênio Flôr, 275 - Abranches, Curitiba - PR, 82130-290, Brazil",
+               "start_location" : {
+                  "lat" : -25.3830021,
+                  "lng" : -49.2800291
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 316
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : -25.3803012,
+                        "lng" : -49.2799291
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eR. Eugênio Flôr\u003c/b\u003e toward \u003cb\u003eRua Theodoro Bruno Breithaupt\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "vr|yCd_xkHA?UAYCA?YIOIWMYQSKSIQEUGWCQ?WBy@Nw@PsAXs@L"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3830021,
+                        "lng" : -49.2800291
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "55 m",
+                        "value" : 55
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : -25.3807282,
+                        "lng" : -49.28019579999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Des. José Carlos Ribeiro Ribas\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "za|yCp~wkHLLHFLHNFJBRH"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3803012,
+                        "lng" : -49.2799291
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 481
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 65
+                     },
+                     "end_location" : {
+                        "lat" : -25.3815445,
+                        "lng" : -49.2841512
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eRua Pedro Romildo Dall Stella\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "pd|yCf`xkHUb@S`@A@O\\Wf@?jA?@@jA?jA?hA@t@@F?@@@FDFDDD@?FDJHNJf@\\r@b@p@b@PNFDBDBD@F?D?@@H?LAR?b@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3807282,
+                        "lng" : -49.28019579999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 318
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 56
+                     },
+                     "end_location" : {
+                        "lat" : -25.3796041,
+                        "lng" : -49.28246590000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eRua Frei Bernardino Tomat\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ri|yC|xxkHuAHSAI?a@GKCe@SIEm@c@KIWOw@w@Ma@EMCIGWKc@AS?C?GBS@K?A?C"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3815445,
+                        "lng" : -49.2841512
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "vr|yCd_xkHs@Ei@Sq@_@g@Ug@Mi@CqARkCj@s@LLLVPZJRHUb@Ub@g@dA?lABvGBJz@l@~CtBJJDL@^Av@iBFk@Gq@W{AcAw@w@Ma@IWS{@AWDi@?C"
+         },
+         "summary" : "R. Eugênio Flôr and Rua Pedro Romildo Dall Stella",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

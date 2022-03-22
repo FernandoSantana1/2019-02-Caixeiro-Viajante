@@ -1,0 +1,297 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ94k5N4jj3JQR2rm0CIIOC9c",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJVbLwfN_j3JQRgdJfUWgsYoI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.4229299,
+               "lng" : -49.28481799999999
+            },
+            "southwest" : {
+               "lat" : -25.4431643,
+               "lng" : -49.306454
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.4 km",
+                  "value" : 3441
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 592
+               },
+               "end_address" : "Av. Cândido Hartmann, 2297 - Bigorrilho, Curitiba - PR, 80710-410, Brazil",
+               "end_location" : {
+                  "lat" : -25.4236698,
+                  "lng" : -49.306454
+               },
+               "start_address" : "Av. Visc. de Guarapuava, 4610 - Batel, Curitiba - PR, 80240-010, Brazil",
+               "start_location" : {
+                  "lat" : -25.4430855,
+                  "lng" : -49.28481799999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "22 m",
+                        "value" : 22
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 3
+                     },
+                     "end_location" : {
+                        "lat" : -25.4431643,
+                        "lng" : -49.2850237
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eAv. Visc. de Guarapuava\u003c/b\u003e toward \u003cb\u003eR. Bento Viana\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "hjhzCb}xkHLf@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4430855,
+                        "lng" : -49.28481799999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 180
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : -25.4416543,
+                        "lng" : -49.2856616
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eR. Bento Viana\u003c/b\u003e (signs for \u003cb\u003eMercês\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eSanta Felicidade\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eParque Barigui\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eP. São Evangélico\u003c/b\u003e)",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "vjhzCj~xkHaCt@KDIBuC~@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4431643,
+                        "lng" : -49.2850237
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 539
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 88
+                     },
+                     "end_location" : {
+                        "lat" : -25.4381554,
+                        "lng" : -49.2893505
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eR. Teixeira Coelho\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "hahzCjbykHK@EBIFUXONA@q@t@q@t@k@p@u@v@IJaAhA{@|@eBpB{@|@GFeAjAw@x@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4416543,
+                        "lng" : -49.2856616
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 383
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 61
+                     },
+                     "end_location" : {
+                        "lat" : -25.4350177,
+                        "lng" : -49.2909179
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eR. Cap. Souza Franco\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "nkgzClyykHSJi@TKDg@TMDC@E@SHqAb@aFnBoAb@]Ls@`@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4381554,
+                        "lng" : -49.2893505
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "90 m",
+                        "value" : 90
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : -25.4342806,
+                        "lng" : -49.2906103
+                     },
+                     "html_instructions" : "\u003cb\u003eR. Cap. Souza Franco\u003c/b\u003e turns slightly \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003ePraça Alfredo Andersen\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "zwfzCfczkHSBO?GC]OiAm@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4350177,
+                        "lng" : -49.2909179
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "74 m",
+                        "value" : 74
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : -25.4340936,
+                        "lng" : -49.2913225
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003ePraça Alfredo Andersen\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "fsfzChazkHSbAQhA"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4342806,
+                        "lng" : -49.2906103
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 598
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 120
+                     },
+                     "end_location" : {
+                        "lat" : -25.4294126,
+                        "lng" : -49.2941164
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. Cap. Souza Franco\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "`rfzCvezkHgCfAmAb@mAf@q@V[JKDSHa@NOH}@^uAh@wAl@ODA@MDe@PYLA@KHONQTc@r@i@h@YV"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4340936,
+                        "lng" : -49.2913225
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.4 km",
+                        "value" : 1376
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 182
+                     },
+                     "end_location" : {
+                        "lat" : -25.4229378,
+                        "lng" : -49.3053106
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eAv. Cândido Hartmann\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "xtezCfwzkHi@XMXOr@KXQb@IROb@Uf@w@bBkBvDINCDOZM\\GTKZK`@AL]x@c@jASd@ADINMRSXSV?@w@t@a@\\a@\\a@h@IJQTe@n@y@lASXY^IJWPMHMDOJKHIJGLEJCNCLEJEHEDEBGDKDWJIDGFGJIVy@fDGNIPEJMNW^KRKTGTMl@Kh@EXANERAJCP?N?@?V?V@z@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4294126,
+                        "lng" : -49.2941164
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 102
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : -25.4237871,
+                        "lng" : -49.30570119999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eRua Doutor Aluízio França\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "jldzCd}|kHbAZ^N^P@?b@N"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4229378,
+                        "lng" : -49.3053106
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "77 m",
+                        "value" : 77
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 43
+                     },
+                     "end_location" : {
+                        "lat" : -25.4236698,
+                        "lng" : -49.306454
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "tqdzCr_}kHWtC"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4237871,
+                        "lng" : -49.30570119999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "hjhzCb}xkHLf@aCt@UHaD`AOJyA`B}CjD_HvHmArAw@x@SJu@Zu@ZoBp@qHrC]Ls@`@c@Be@SiAm@SbAQhAgCfA{CjAmAb@qAh@{F|BoAf@MJa@d@c@r@i@h@YVi@XMXOr@]|@Yv@mAjCiChFm@pBAL]x@w@pBm@bASXyArAa@\\a@h@IJeClDc@j@e@Z]PUTMXG\\KTKHu@\\ORcA~DQ`@SZc@r@Sj@a@`CG^C`@@lBbBj@`@Pb@NWtC"
+         },
+         "summary" : "R. Cap. Souza Franco and Av. Cândido Hartmann",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

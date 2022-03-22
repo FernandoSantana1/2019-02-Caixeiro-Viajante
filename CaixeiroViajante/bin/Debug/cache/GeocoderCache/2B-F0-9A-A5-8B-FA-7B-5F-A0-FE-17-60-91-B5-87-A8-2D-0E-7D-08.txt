@@ -1,0 +1,812 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "JPCQ+W4 Curitiba, State of Paraná, Brazil",
+      "global_code" : "586GJPCQ+W4"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "69",
+               "short_name" : "69",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua José Carlos Puppi",
+               "short_name" : "Rua José Carlos Puppi",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Barreirinha",
+               "short_name" : "Barreirinha",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82700-060",
+               "short_name" : "82700-060",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua José Carlos Puppi, 69 - Barreirinha, Curitiba - PR, 82700-060, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.377849,
+               "lng" : -49.262286
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3765000197085,
+                  "lng" : -49.26093701970849
+               },
+               "southwest" : {
+                  "lat" : -25.3791979802915,
+                  "lng" : -49.26363498029149
+               }
+            }
+         },
+         "place_id" : "ChIJKwz4w-fm3JQROQn_MVpMXHk",
+         "plus_code" : {
+            "compound_code" : "JPCQ+V3 Curitiba, State of Paraná, Brazil",
+            "global_code" : "586GJPCQ+V3"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Terminal Barreirinha - 205 - Barreirinha",
+               "short_name" : "Terminal Barreirinha - 205 - Barreirinha",
+               "types" : [
+                  "bus_station",
+                  "establishment",
+                  "point_of_interest",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Barreirinha",
+               "short_name" : "Barreirinha",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82220-000",
+               "short_name" : "82220-000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Terminal Barreirinha - 205 - Barreirinha - Barreirinha, Curitiba - PR, 82220-000, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.3776606,
+               "lng" : -49.2623968
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3763116197085,
+                  "lng" : -49.2610478197085
+               },
+               "southwest" : {
+                  "lat" : -25.3790095802915,
+                  "lng" : -49.2637457802915
+               }
+            }
+         },
+         "place_id" : "ChIJi2HlwOfm3JQR8i_1BhGy9ys",
+         "plus_code" : {
+            "compound_code" : "JPCQ+W2 Curitiba, State of Paraná, Brazil",
+            "global_code" : "586GJPCQ+W2"
+         },
+         "types" : [
+            "bus_station",
+            "establishment",
+            "point_of_interest",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "35",
+               "short_name" : "35",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua José Carlos Puppi",
+               "short_name" : "Rua José Carlos Puppi",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Barreirinha",
+               "short_name" : "Barreirinha",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82700-060",
+               "short_name" : "82700-060",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua José Carlos Puppi, 35 - Barreirinha, Curitiba - PR, 82700-060, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.3778011,
+               "lng" : -49.2619603
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3764521197085,
+                  "lng" : -49.2606113197085
+               },
+               "southwest" : {
+                  "lat" : -25.3791500802915,
+                  "lng" : -49.26330928029149
+               }
+            }
+         },
+         "place_id" : "ChIJX8OXw-fm3JQRRdUDiYmYpMg",
+         "plus_code" : {
+            "compound_code" : "JPCQ+V6 Curitiba, State of Paraná, Brazil",
+            "global_code" : "586GJPCQ+V6"
+         },
+         "types" : [ "establishment", "food", "point_of_interest", "store" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "85",
+               "short_name" : "85",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua José Carlos Puppi",
+               "short_name" : "Rua José Carlos Puppi",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Barreirinha",
+               "short_name" : "Barreirinha",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82700-060",
+               "short_name" : "82700-060",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua José Carlos Puppi, 85 - Barreirinha, Curitiba - PR, 82700-060, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3780717,
+                  "lng" : -49.2620546
+               },
+               "southwest" : {
+                  "lat" : -25.378157,
+                  "lng" : -49.2621675
+               }
+            },
+            "location" : {
+               "lat" : -25.3781175,
+               "lng" : -49.262106
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3767653697085,
+                  "lng" : -49.26076206970851
+               },
+               "southwest" : {
+                  "lat" : -25.3794633302915,
+                  "lng" : -49.2634600302915
+               }
+            }
+         },
+         "place_id" : "ChIJQ5Yl2-fm3JQRs2XgNdCXd58",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "51",
+               "short_name" : "51",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua José Carlos Puppi",
+               "short_name" : "Rua José Carlos Puppi",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Barreirinha",
+               "short_name" : "Barreirinha",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82700-060",
+               "short_name" : "82700-060",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua José Carlos Puppi, 51 - Barreirinha, Curitiba - PR, 82700-060, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.3779395,
+               "lng" : -49.2622448
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3765905197085,
+                  "lng" : -49.26089581970849
+               },
+               "southwest" : {
+                  "lat" : -25.3792884802915,
+                  "lng" : -49.26359378029149
+               }
+            }
+         },
+         "place_id" : "EkpSdWEgSm9zw6kgQ2FybG9zIFB1cHBpLCA1MSAtIEJhcnJlaXJpbmhhLCBDdXJpdGliYSAtIFBSLCA4MjcwMC0wNjAsIEJyYXppbCIaEhgKFAoSCWfc8sPn5tyUEfOABoHXeELiEDM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2-52",
+               "short_name" : "2-52",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua José Carlos Puppi",
+               "short_name" : "Rua José Carlos Puppi",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Barreirinha",
+               "short_name" : "Barreirinha",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82700-060",
+               "short_name" : "82700-060",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua José Carlos Puppi, 2-52 - Barreirinha, Curitiba - PR, 82700-060, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3779392,
+                  "lng" : -49.2622411
+               },
+               "southwest" : {
+                  "lat" : -25.3779665,
+                  "lng" : -49.2626103
+               }
+            },
+            "location" : {
+               "lat" : -25.3779529,
+               "lng" : -49.26242569999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3766038697085,
+                  "lng" : -49.2610767197085
+               },
+               "southwest" : {
+                  "lat" : -25.3793018302915,
+                  "lng" : -49.2637746802915
+               }
+            }
+         },
+         "place_id" : "ChIJZ9zyw-fm3JQR8oAGgdd4QuI",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "82700-060",
+               "short_name" : "82700-060",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Barreirinha",
+               "short_name" : "Barreirinha",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barreirinha, Curitiba - State of Paraná, 82700-060, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3772437,
+                  "lng" : -49.2616877
+               },
+               "southwest" : {
+                  "lat" : -25.3785503,
+                  "lng" : -49.2629342
+               }
+            },
+            "location" : {
+               "lat" : -25.3780195,
+               "lng" : -49.2624425
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.37654801970849,
+                  "lng" : -49.2609619697085
+               },
+               "southwest" : {
+                  "lat" : -25.3792459802915,
+                  "lng" : -49.2636599302915
+               }
+            }
+         },
+         "place_id" : "ChIJo9bA0efm3JQRaKDh6CAi2LY",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "82210",
+               "short_name" : "82210",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Boa Vista",
+               "short_name" : "Boa Vista",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Boa Vista, Curitiba - State of Paraná, 82210, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3714926,
+                  "lng" : -49.25648940000001
+               },
+               "southwest" : {
+                  "lat" : -25.389409,
+                  "lng" : -49.2730898
+               }
+            },
+            "location" : {
+               "lat" : -25.3825509,
+               "lng" : -49.2664018
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3714926,
+                  "lng" : -49.25648940000001
+               },
+               "southwest" : {
+                  "lat" : -25.389409,
+                  "lng" : -49.2730898
+               }
+            }
+         },
+         "place_id" : "ChIJVR_7u8Lm3JQRi3LyEA28dNI",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barreirinha",
+               "short_name" : "Barreirinha",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barreirinha, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3598298,
+                  "lng" : -49.24661320000001
+               },
+               "southwest" : {
+                  "lat" : -25.3856732,
+                  "lng" : -49.2688626
+               }
+            },
+            "location" : {
+               "lat" : -25.3703826,
+               "lng" : -49.2609562
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3598298,
+                  "lng" : -49.24661320000001
+               },
+               "southwest" : {
+                  "lat" : -25.3856732,
+                  "lng" : -49.2688626
+               }
+            }
+         },
+         "place_id" : "ChIJBTOlaOTm3JQRL1ukNUsUMOs",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boa Vista",
+               "short_name" : "Boa Vista",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Boa Vista, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1914303
+               },
+               "southwest" : {
+                  "lat" : -25.4313697,
+                  "lng" : -49.2815916
+               }
+            },
+            "location" : {
+               "lat" : -25.3886823,
+               "lng" : -49.2334685
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1914303
+               },
+               "southwest" : {
+                  "lat" : -25.4313697,
+                  "lng" : -49.2815916
+               }
+            }
+         },
+         "place_id" : "ChIJ4yXhiYjm3JQRib7FMdA38u0",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba, State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4289541,
+               "lng" : -49.267137
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            }
+         },
+         "place_id" : "ChIJ3bPNUVPj3JQRCejLuqVrL20",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4808762,
+               "lng" : -49.3044253
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            }
+         },
+         "place_id" : "ChIJ8Q8J_PXj3JQRR7crCbCDejw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            },
+            "location" : {
+               "lat" : -25.2520888,
+               "lng" : -52.0215415
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            }
+         },
+         "place_id" : "ChIJnWK4MJQL25QRYfDOY1D9k-g",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

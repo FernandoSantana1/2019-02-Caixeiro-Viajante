@@ -1,0 +1,324 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJFXhUuv_k3JQRn6On857C31E",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJmaXy2j_k3JQRaTdeY5Fv8r8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.4259521,
+               "lng" : -49.2449763
+            },
+            "southwest" : {
+               "lat" : -25.4444276,
+               "lng" : -49.2634064
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.4 km",
+                  "value" : 3382
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 586
+               },
+               "end_address" : "R. Conselheiro Araújo, 80 - Centro, Curitiba - PR, 80060-230, Brazil",
+               "end_location" : {
+                  "lat" : -25.4261382,
+                  "lng" : -49.2634064
+               },
+               "start_address" : "Av. Prefeito Omar Sabbag, 1200 - Jardim Botânico, Curitiba - PR, 80210-000, Brazil",
+               "start_location" : {
+                  "lat" : -25.4431559,
+                  "lng" : -49.2452445
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "33 m",
+                        "value" : 33
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : -25.4433279,
+                        "lng" : -49.2449763
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eAv. Prefeito Omar Sabbag\u003c/b\u003e toward \u003cb\u003eR. Paschoal Bordignon\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "vjhzCveqkH`@s@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4431559,
+                        "lng" : -49.2452445
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 196
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 31
+                     },
+                     "end_location" : {
+                        "lat" : -25.4444276,
+                        "lng" : -49.2464749
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. Paschoal Bordignon\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "xkhzCbdqkHj@ZHFDHn@dAv@zAv@xA"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4433279,
+                        "lng" : -49.2449763
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 428
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 69
+                     },
+                     "end_location" : {
+                        "lat" : -25.4430414,
+                        "lng" : -49.2504544
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. Maurício Nunes García\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "trhzClmqkHw@hDSx@e@nBgBnH{@vC"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4444276,
+                        "lng" : -49.2464749
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "81 m",
+                        "value" : 81
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : -25.4424138,
+                        "lng" : -49.25087
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAv. Com. Franco\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "~ihzChfrkHKHMFq@`@IDg@X"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4430414,
+                        "lng" : -49.2504544
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.2 km",
+                        "value" : 1170
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 138
+                     },
+                     "end_location" : {
+                        "lat" : -25.4369974,
+                        "lng" : -49.2602692
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eViaduto Colorado\u003c/b\u003e (signs for \u003cb\u003eCentro\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eCentro Civico\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eRodoferroviária\u003c/b\u003e)",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "`fhzC|hrkHO\\S`@K|@Gd@M|@K`@IVINKV[j@Wd@OVO\\GRIZIb@Md@Sp@GT]zAG`@EPCRG\\Gl@Ap@AnAEp@ANEJ?@CHAFAFGRQj@Uf@W^WZg@`@k@`@q@d@GDA@IFw@j@qA`AGFIFSV[\\{@lAOR_@b@aAlAY\\QLMFID[L"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4424138,
+                        "lng" : -49.25087
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 120
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : -25.4359191,
+                        "lng" : -49.2602639
+                     },
+                     "html_instructions" : "\u003cb\u003eViaduto Colorado\u003c/b\u003e turns slightly \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003eR. Mariano Torres\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "fdgzCtctkHyAAq@CkAB"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4369974,
+                        "lng" : -49.2602692
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "41 m",
+                        "value" : 41
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : -25.4355619,
+                        "lng" : -49.2602529
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eR. Mariano Torres\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "n}fzCrctkH]IODY@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4359191,
+                        "lng" : -49.2602639
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 431
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 101
+                     },
+                     "end_location" : {
+                        "lat" : -25.4319497,
+                        "lng" : -49.2617841
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eR. Mariano Torres\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "f{fzCpctkHaANUHsBp@sC`AUJmAb@qC`A{Bp@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4355619,
+                        "lng" : -49.2602529
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 177
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : -25.4312856,
+                        "lng" : -49.2601779
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. Nilo Cairo\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "tdfzCbmtkH[aAc@uAa@sAa@sA"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4319497,
+                        "lng" : -49.2617841
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 655
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 144
+                     },
+                     "end_location" : {
+                        "lat" : -25.4259521,
+                        "lng" : -49.2629543
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 2nd cross street onto \u003cb\u003eR. Dr. Faivre\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "p`fzCbctkHeA`@UJUJQFgBx@aBp@CBeBv@}Al@}Al@_A`@aA`@kDxAcAb@eA`@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4312856,
+                        "lng" : -49.2601779
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "50 m",
+                        "value" : 50
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : -25.4261382,
+                        "lng" : -49.2634064
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Conselheiro Araújo\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "d_ezClttkHd@zA"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4259521,
+                        "lng" : -49.2629543
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "vjhzCveqkH`@s@j@ZNPfB`Dv@xAw@hDy@hDgBnH{@vCYP{@f@g@XO\\S`@K|@UbBUx@iAxB_@t@Qn@WhA[fAo@bDOjAC`CG`AELOl@g@rAo@z@mCnBuCvBaAdAmDrEk@j@WL[LyAAq@CkAB]IOD{APiCz@iDlA_FdB{Bp@[aAeAiDa@sAeA`@k@VyB`AeBt@eBv@}Al@}CnAmFzBiCdAd@zA"
+         },
+         "summary" : "Viaduto Colorado",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

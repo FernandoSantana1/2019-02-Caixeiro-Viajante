@@ -1,0 +1,86 @@
+﻿{
+   "plus_code" : {
+      "global_code" : "586HCV87+53"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Atlantic Ocean",
+               "short_name" : "Atlantic Ocean",
+               "types" : [ "establishment", "natural_feature" ]
+            }
+         ],
+         "formatted_address" : "Atlantic Ocean",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 68.1962901,
+                  "lng" : 19.9970779
+               },
+               "southwest" : {
+                  "lat" : -75.9725902,
+                  "lng" : -82.9931606
+               }
+            },
+            "location" : {
+               "lat" : -14.5994134,
+               "lng" : -28.6731465
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 68.1962901,
+                  "lng" : 19.9970779
+               },
+               "southwest" : {
+                  "lat" : -75.9725902,
+                  "lng" : -82.9931606
+               }
+            }
+         },
+         "place_id" : "ChIJ_7hu48qBWgYRT1MQ81ciNKY",
+         "types" : [ "establishment", "natural_feature" ]
+      }
+   ],
+   "status" : "OK"
+}

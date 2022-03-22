@@ -1,0 +1,323 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ6bNJy7nm3JQRxwbj9TmVx_8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ6YhqyRjh3JQRf7v5tQgPSRE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.3829981,
+               "lng" : -49.2712367
+            },
+            "southwest" : {
+               "lat" : -25.3957689,
+               "lng" : -49.305801
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "5.2 km",
+                  "value" : 5197
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 593
+               },
+               "end_address" : "Rua Melchiades Silveira do Valle, 501 - São João, Curitiba - PR, 82030-600, Brazil",
+               "end_location" : {
+                  "lat" : -25.3886308,
+                  "lng" : -49.3057606
+               },
+               "start_address" : "R. Nilo Peçanha, 2959 - São Francisco, Curitiba - PR, 82120-440, Brazil",
+               "start_location" : {
+                  "lat" : -25.3946878,
+                  "lng" : -49.2728697
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 123
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : -25.3957372,
+                        "lng" : -49.2732336
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eR. Nilo Peçanha\u003c/b\u003e toward \u003cb\u003eTv. Pio XII\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "x{~yClrvkHN@l@NrCt@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3946878,
+                        "lng" : -49.2728697
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 204
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : -25.3955099,
+                        "lng" : -49.2712367
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eTv. Pio XII\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "jb_zCttvkHBI@W?QKmAIgAI}@SeC"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3957372,
+                        "lng" : -49.2732336
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "84 m",
+                        "value" : 84
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : -25.3947621,
+                        "lng" : -49.2713139
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Mateus Leme\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "|`_zCfhvkHu@FA?a@DW@Q?QA"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3955099,
+                        "lng" : -49.2712367
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 156
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : -25.394486,
+                        "lng" : -49.27283449999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Evaldo Wendler\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "f|~yCthvkHGd@Ip@Gp@If@Kz@AJCt@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3947621,
+                        "lng" : -49.2713139
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.5 km",
+                        "value" : 1493
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 159
+                     },
+                     "end_location" : {
+                        "lat" : -25.385489,
+                        "lng" : -49.2796339
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. Nilo Peçanha\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "pz~yCdrvkHcA?mBCkAGm@CgAIi@GyAMIA{CY_AK{BQQCkBOaAKMAMAG?M?OBE?G@OFEDMH_@l@a@pAu@zCY|AKd@Kb@]pAKVOXOXOTCDSVCDSVSTSXQXk@t@KTGNIXGZAJAJCREr@IpAEh@G^]rAMb@IZCJCN_@PG^m@pA"
+                     },
+                     "start_location" : {
+                        "lat" : -25.394486,
+                        "lng" : -49.27283449999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 489
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 64
+                     },
+                     "end_location" : {
+                        "lat" : -25.3858079,
+                        "lng" : -49.2842642
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eR. São Salvador\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eGo through 1 roundabout\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "hb}yCt|wkHEPEPCPAPANAR?\\@l@Fj@XbEB\\@j@A?A??@A?A?A@A@A@A@A@?@?@A??@?@A@?@?@?@?@?@@??@?@?@@@?@@@@@?@@@@@@@@?@@@?@?B@B?Lv@HfA@LP~BFj@?@?N?FAD?@AB?BA@ABGF"
+                     },
+                     "start_location" : {
+                        "lat" : -25.385489,
+                        "lng" : -49.2796339
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 488
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 56
+                     },
+                     "end_location" : {
+                        "lat" : -25.3830078,
+                        "lng" : -49.2877673
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eRua Domingos Antônio Moro\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "hd}yCryxkHe@X_Bx@m@ZMFGDIFIFEFIHILGJGNCNI`@G\\Ul@ELEFIJEHIHGDa@^UP]XKJIJGJKNINGLKVKXY~@ADADADADAP"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3858079,
+                        "lng" : -49.2842642
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.9 km",
+                        "value" : 1917
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 183
+                     },
+                     "end_location" : {
+                        "lat" : -25.3872048,
+                        "lng" : -49.3046678
+                     },
+                     "html_instructions" : "Continue straight onto \u003cb\u003eAv. Fredolin Wolf\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "xr|yCpoykHAL?H?F@D@FBFDHDFBDFFJL\\ZFFb@d@DFVZJPBDJLHNHPDRDP@L?N?J?J?FAFAFCHCHIROZKXKZK^ERI^If@E`@CPE`@AHCVOxAI~@QzBOzAB\\@DHVDN@@BHHNDH@BDFZ^bAnA^^RTBBBDBDFHFHDLDFDPBJ@F@F?TEpBAl@?F?J@J@J@JBNDRr@pCLj@H^FVJl@Hl@F`@F`@HVDL@DHLFL@BBDNPFHHFNJ@BfAp@?@hAz@TRBBPPVXj@r@FHPXL`@H\\DVF\\@`@BdA?|@?V@PDvABrBCf@A`A@f@Ap@?h@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3830078,
+                        "lng" : -49.2877673
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 187
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : -25.3882672,
+                        "lng" : -49.305801
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eRua Melchiades Silveira do Valle\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "~l}yCdy|kHRAZIR@F@JDFBDDDFDHDHDPHJLr@DTFPJPJPLPJL"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3872048,
+                        "lng" : -49.3046678
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "24 m",
+                        "value" : 24
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : -25.3883851,
+                        "lng" : -49.3056013
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ts}yCf`}kHP]DI"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3882672,
+                        "lng" : -49.305801
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "32 m",
+                        "value" : 32
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 23
+                     },
+                     "end_location" : {
+                        "lat" : -25.3886308,
+                        "lng" : -49.3057606
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "lt}yC~~|kHVPVL"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3883851,
+                        "lng" : -49.3056013
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "x{~yClrvkHN@l@NrCt@BI@i@UuC]cEw@Fy@Fc@Ac@pDMfACt@cA?yDKuBMiHq@_LaAk@DULMH_@l@a@pAu@zCY|AWhAi@hBs@nA_AjAe@r@w@jAQh@If@UdDMhAk@vBMf@CN_@PG^m@pAKb@IfA@jA`@nFDhAA?E@IJCJ@HDJJFD@Pv@JtAX|DCRKPaEvBa@\\SVOZMp@G\\Ul@KTOTiA`Ai@d@QVi@dAi@dBGj@B^R^x@x@lAzANRR`@Jd@@\\Af@Sn@[t@Wz@Or@OhAOtAYxCa@vEDb@Nf@Td@fBzBz@~@Xf@Pl@@\\G~CBj@~@`Ej@pCPnAPx@Xn@\\d@bBhAbBtAh@j@r@|@PXL`@Nt@H~@BbCJtFCf@A`A?xA?h@RAZIR@RFLHVl@HJLr@Lf@p@bAVg@n@^"
+         },
+         "summary" : "R. Nilo Peçanha and Av. Fredolin Wolf",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

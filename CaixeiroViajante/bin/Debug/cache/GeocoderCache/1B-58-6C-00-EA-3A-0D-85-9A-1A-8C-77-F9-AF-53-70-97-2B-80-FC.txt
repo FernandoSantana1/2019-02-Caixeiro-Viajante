@@ -1,0 +1,68 @@
+﻿{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "999",
+               "short_name" : "999",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Marechal Hermes",
+               "short_name" : "Rua Marechal Hermes",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Centro Cívico",
+               "short_name" : "Centro Cívico",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80530-230",
+               "short_name" : "80530-230",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Mal. Hermes, 999 - Centro Cívico, Curitiba - PR, 80530-230, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.4101027,
+               "lng" : -49.2671932
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4087537197085,
+                  "lng" : -49.26584421970851
+               },
+               "southwest" : {
+                  "lat" : -25.4114516802915,
+                  "lng" : -49.2685421802915
+               }
+            }
+         },
+         "place_id" : "ChIJFWlvqB_k3JQR7jsyAF9M8vU",
+         "plus_code" : {
+            "compound_code" : "HPQM+X4 Centro Cívico - Matriz, Curitiba - State of Paraná, Brazil",
+            "global_code" : "586GHPQM+X4"
+         },
+         "types" : [ "establishment", "museum", "point_of_interest", "tourist_attraction" ]
+      }
+   ],
+   "status" : "OK"
+}

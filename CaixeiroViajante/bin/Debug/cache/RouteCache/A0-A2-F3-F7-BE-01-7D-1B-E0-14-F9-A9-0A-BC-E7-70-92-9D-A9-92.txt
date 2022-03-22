@@ -1,0 +1,204 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ6YhqyRjh3JQRf7v5tQgPSRE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJuX_f1G3h3JQR0ECnuW618R4",
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.3882672,
+               "lng" : -49.3047979
+            },
+            "southwest" : {
+               "lat" : -25.4098134,
+               "lng" : -49.3136857
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "4.0 km",
+                  "value" : 4000
+               },
+               "duration" : {
+                  "text" : "7 mins",
+                  "value" : 404
+               },
+               "end_address" : "Ângelo Domingos Durigan, 519 - Cascatinha - Cascatinha, Curitiba - PR, 82025-100, Brazil",
+               "end_location" : {
+                  "lat" : -25.4098134,
+                  "lng" : -49.3120632
+               },
+               "start_address" : "Rua Melchiades Silveira do Valle, 501 - São João, Curitiba - PR, 82030-600, Brazil",
+               "start_location" : {
+                  "lat" : -25.3886308,
+                  "lng" : -49.3057606
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "32 m",
+                        "value" : 32
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : -25.3883851,
+                        "lng" : -49.3056013
+                     },
+                     "html_instructions" : "Head \u003cb\u003enortheast\u003c/b\u003e toward \u003cb\u003eRua Melchiades Silveira do Valle\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "|u}yC~_}kHWMWQ"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3886308,
+                        "lng" : -49.3057606
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "24 m",
+                        "value" : 24
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : -25.3882672,
+                        "lng" : -49.305801
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eRua Melchiades Silveira do Valle\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "lt}yC~~|kHEHQ\\"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3883851,
+                        "lng" : -49.3056013
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.2 km",
+                        "value" : 1151
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 105
+                     },
+                     "end_location" : {
+                        "lat" : -25.3975525,
+                        "lng" : -49.3061243
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eRua Melchiades Silveira do Valle\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ts}yCf`}kHdAh@l@TXF`@JbAZb@Rb@N\\FR@T@\\?^?X@X@f@@nABL?HANAZGXIZKZKL?J?HBNFNFVNZLj@Xd@VPFDBF?N@RAPENINSJSLYH[Na@LQJKPQRQPOHENGRG\\A@@R@TF`@ZPNj@`@ZP\\RNDN@^BR@fA@v@AN?`@CPCHCLGHGTORS"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3882672,
+                        "lng" : -49.305801
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 871
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 79
+                     },
+                     "end_location" : {
+                        "lat" : -25.4043632,
+                        "lng" : -49.3049585
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eR. Dr. Mbá de Ferrante\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "tm_zCfb}kHP]BGH]?AJ]Lo@L]@ELYJOHKDCBCHEHEJCBAHAH?D?L@LBf@N`@N\\Lj@VVJ`@PNDPD^JTDhCf@LD`@LH@^Fn@Fr@@@?t@Kb@In@K@A^Op@WXMVKPGVIHETIl@U`@K^K\\Ef@D"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3975525,
+                        "lng" : -49.3061243
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 886
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 101
+                     },
+                     "end_location" : {
+                        "lat" : -25.4018232,
+                        "lng" : -49.3113792
+                     },
+                     "html_instructions" : "Merge onto \u003cb\u003eRua José Valle\u003c/b\u003e",
+                     "maneuver" : "merge",
+                     "polyline" : {
+                        "points" : "fx`zC~z|kHTBVHPDD@FBRFPFPD@@THNJLJHHHHHJFHBF@F@DEDCBKDQFWFIBK@OBMDWLYRCBUXC@OTEHOVOh@ShA?DGf@Gf@Cf@Gh@Kd@KZA@_@n@KLa@f@Yb@INW\\a@p@q@dAWd@Wb@[h@i@`AQ\\A@y@~A"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4043632,
+                        "lng" : -49.3049585
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 1036
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 99
+                     },
+                     "end_location" : {
+                        "lat" : -25.4098134,
+                        "lng" : -49.3120632
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e3rd\u003c/b\u003e exit onto \u003cb\u003eR. Ângelo Domingos Durigan\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "jh`zCbc~kHA??AA?A?A?A??@A?A??@A??@A??@A@?@?@?@?@?@?@?@?@@??@@@@??@@?@@@?@?@?@?@??A@?dAvAn@`AV`@`@h@p@f@~@n@HFx@j@NFTJHD@?FBPDPFRDTBXBX?@@\\@b@?l@Af@AJAn@EjCOf@EtAO|@Mj@[l@YXSVS`@Ql@Sf@M~@Y~@[|@[l@YJG"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4018232,
+                        "lng" : -49.3113792
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "|u}yC~_}kHo@_@Wf@dAh@l@Tz@RfBn@`AVfBBjDHVAj@It@Uh@KTB^NdCnAVJV@d@GNINSXm@X}@~@aAZUb@O^?h@Hr@j@fAr@l@Xn@DzABfAAr@GVK^WRSP]Le@J_@ZmAN_@^c@b@Qf@?t@R~@\\dBt@vA\\vCl@j@NnANt@@jCc@bCaAhAa@nAa@^K\\E|@Hh@Nr@TRFd@Tj@j@JPBLIH]Lm@L]Hq@`@m@t@U`@c@rBGl@KnASnAM\\gBhCuBdDuBtDmA~BCAG@EDAH@FDDF@BAfAvAfAbB`@h@p@f@hAv@hAr@h@Tb@Lh@HrAFdCEzDU|BU|@Mj@[fAm@x@e@tAa@~Bu@jBu@JG"
+         },
+         "summary" : "Rua Melchiades Silveira do Valle and R. Ângelo Domingos Durigan",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

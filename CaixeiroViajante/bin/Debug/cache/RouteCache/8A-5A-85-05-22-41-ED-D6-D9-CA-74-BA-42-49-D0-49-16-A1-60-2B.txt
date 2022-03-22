@@ -1,0 +1,227 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ_yLWtkLh3JQRex1t9aBijQs",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ6YhqyRjh3JQRf7v5tQgPSRE",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.3886308,
+               "lng" : -49.3028445
+            },
+            "southwest" : {
+               "lat" : -25.4116071,
+               "lng" : -49.3069868
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.1 km",
+                  "value" : 3071
+               },
+               "duration" : {
+                  "text" : "5 mins",
+                  "value" : 327
+               },
+               "end_address" : "Rua Melchiades Silveira do Valle, 501 - São João, Curitiba - PR, 82030-600, Brazil",
+               "end_location" : {
+                  "lat" : -25.3886308,
+                  "lng" : -49.3057606
+               },
+               "start_address" : "R. José Casagrande, 560 - Vista Alegre, Curitiba - PR, 80820-590, Brazil",
+               "start_location" : {
+                  "lat" : -25.4116071,
+                  "lng" : -49.3035667
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 835
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 89
+                     },
+                     "end_location" : {
+                        "lat" : -25.4045748,
+                        "lng" : -49.3029986
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eR. José Casagrande\u003c/b\u003e toward \u003cb\u003eRua Elias Carazzai\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "pebzChr|kHMLQHMBI@OBS@u@Dg@@Y?i@IIAOAK@K@a@LWFo@NuATG@s@HK@i@C_@EOEIA[Cs@G[Ac@ESGIGe@e@o@s@a@c@g@e@QKOGMEMCUA]AiAAa@BO@QDUJQDOBS?q@AW?"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4116071,
+                        "lng" : -49.3035667
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 161
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 26
+                     },
+                     "end_location" : {
+                        "lat" : -25.4040588,
+                        "lng" : -49.3044406
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Prof. Dário García\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "py`zCvn|kHIt@Ej@ERCXARANCJGTINGHGHEDGFCHA@MH?@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4045748,
+                        "lng" : -49.3029986
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "65 m",
+                        "value" : 65
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : -25.4043632,
+                        "lng" : -49.3049585
+                     },
+                     "html_instructions" : "\u003cb\u003eR. Prof. Dário García\u003c/b\u003e turns \u003cb\u003eleft\u003c/b\u003e and becomes \u003cb\u003eRua José Valle\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "jv`zCvw|kH?J?F?DFNHLFLHJJHJJ"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4040588,
+                        "lng" : -49.3044406
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 871
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 74
+                     },
+                     "end_location" : {
+                        "lat" : -25.3975525,
+                        "lng" : -49.3061243
+                     },
+                     "html_instructions" : "Sharp \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. Dr. Mbá de Ferrante\u003c/b\u003e",
+                     "maneuver" : "turn-sharp-right",
+                     "polyline" : {
+                        "points" : "fx`zC~z|kHg@E]D_@Ja@Jm@TUHIDWHQFWJYLq@V_@NA@o@Jc@Hu@JA?s@Ao@G_@GIAa@MMEiCg@UE_@KQEOEa@QWKk@W]Ma@Og@OMCMAE?I?I@C@KBIDIDCBEBIJKNMXADM\\Mn@K\\?@I\\CFQ\\"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4043632,
+                        "lng" : -49.3049585
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1064
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 88
+                     },
+                     "end_location" : {
+                        "lat" : -25.3889767,
+                        "lng" : -49.3061614
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eRua Melchiades Silveira do Valle\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "tm_zCfb}kHSRUNIFMFIBQBa@BO?w@@gAASA_@COAOE]S[Qk@a@QOa@[UGSAAA]@SFOFIDQNSPQPKJMPO`@IZMXKROROHQDS@OAG?ECQGe@Wk@Y[MWOOGOGICK?M?[J[JYH[FO@I@M?oACg@AYAYA_@?]?UASA]Gc@Oc@ScA[a@K"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3975525,
+                        "lng" : -49.3061243
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "23 m",
+                        "value" : 23
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : -25.3890647,
+                        "lng" : -49.3059552
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "bx}yCnb}kHDO@C@A?A@A?A@C?A@C?A"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3889767,
+                        "lng" : -49.3061614
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "52 m",
+                        "value" : 52
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : -25.3886308,
+                        "lng" : -49.3057606
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "rx}yCfa}kHCCEAC?EACAICICGAMGSK"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3890647,
+                        "lng" : -49.3059552
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "pebzChr|kHMLQHWDaCLY?i@IYCWBy@TeCd@{@Ju@Ao@KuBOc@ESGo@m@qAwAy@q@]Mc@EgBCq@Dg@Pa@HeAAW?It@K~@El@EZQd@]`@EJMJ?RFTPZTTJJg@E]D_@JoA`@_@N{Aj@qAf@q@LyATu@AoAOk@OmE_AcA]cCaAu@SSAS@OD]RUZO^g@lBMd@Q\\SR_@VWJs@FgA@{ACo@Em@YgAs@s@k@i@I_@?c@N[Te@b@Y\\Y|@Yl@OROHe@FWAiB}@sAm@UCi@Ju@Tk@HoCCqBCi@CaAWgBo@a@KDOBE@CBKCEIA]Ki@U"
+         },
+         "summary" : "R. José Casagrande, R. Dr. Mbá de Ferrante and Rua Melchiades Silveira do Valle",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

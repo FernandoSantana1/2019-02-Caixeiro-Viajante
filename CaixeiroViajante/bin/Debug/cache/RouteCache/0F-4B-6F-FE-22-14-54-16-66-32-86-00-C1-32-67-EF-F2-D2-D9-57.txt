@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJA-0bq0Dk3JQR_s19y1A2mIA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJA-0bq0Dk3JQR_s19y1A2mIA",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.4267194,
+               "lng" : -49.2589754
+            },
+            "southwest" : {
+               "lat" : -25.4267194,
+               "lng" : -49.2589754
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "R. Ubaldino do Amaral, 661 - Alto da Glória, Curitiba - PR, 80045-150, Brazil",
+               "end_location" : {
+                  "lat" : -25.4267194,
+                  "lng" : -49.2589754
+               },
+               "start_address" : "R. Ubaldino do Amaral, 661 - Alto da Glória, Curitiba - PR, 80045-150, Brazil",
+               "start_location" : {
+                  "lat" : -25.4267194,
+                  "lng" : -49.2589754
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : -25.4267194,
+                        "lng" : -49.2589754
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eR. Ubaldino do Amaral\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "~cezCr{skH"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4267194,
+                        "lng" : -49.2589754
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "~cezCr{skH"
+         },
+         "summary" : "R. Ubaldino do Amaral",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

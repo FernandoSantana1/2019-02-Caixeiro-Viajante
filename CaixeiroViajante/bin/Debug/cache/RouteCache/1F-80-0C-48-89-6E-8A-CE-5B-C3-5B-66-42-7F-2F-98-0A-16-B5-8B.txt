@@ -1,0 +1,274 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJPV8gyr3m3JQRstJN3i_-U3E",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJA-0bq0Dk3JQR_s19y1A2mIA",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.3957899,
+               "lng" : -49.2586464
+            },
+            "southwest" : {
+               "lat" : -25.4267194,
+               "lng" : -49.2664395
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "4.3 km",
+                  "value" : 4269
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 691
+               },
+               "end_address" : "R. Ubaldino do Amaral, 661 - Alto da Glória, Curitiba - PR, 80045-150, Brazil",
+               "end_location" : {
+                  "lat" : -25.4267194,
+                  "lng" : -49.2589754
+               },
+               "start_address" : "R. Casimiro Jose M De Abreu, 555 - São Lourenço, Curitiba - PR, 82200-130, Brazil",
+               "start_location" : {
+                  "lat" : -25.3957899,
+                  "lng" : -49.2660376
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 576
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 85
+                     },
+                     "end_location" : {
+                        "lat" : -25.4009657,
+                        "lng" : -49.2661054
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eRua Casimiro José Marquês de Abreu\u003c/b\u003e toward \u003cb\u003eRua Plácido Prevedello\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "tb_zCvgukHH?b@?D?`A@b@@dAAb@?hBAL?|A?b@?fA@bB?B@fB?dBBR?zBD"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3957899,
+                        "lng" : -49.2660376
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 147
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : -25.4011998,
+                        "lng" : -49.2646656
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Brasilino Moura\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "`c`zCdhukH@YBWB]b@oE"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4009657,
+                        "lng" : -49.2661054
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 840
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 112
+                     },
+                     "end_location" : {
+                        "lat" : -25.408548,
+                        "lng" : -49.2664395
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eR. Eurípedes Garcez do Nascimento\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "nd`zCd_ukHpABlC^j@HZDfAPhC`@jC`@jC\\dANdANrB\\\\FD@jCb@~@L~@N~@HNBVLRR"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4011998,
+                        "lng" : -49.2646656
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 450
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 76
+                     },
+                     "end_location" : {
+                        "lat" : -25.4124971,
+                        "lng" : -49.2658671
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Mal. Hermes\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "lrazCfjukHJG`@U^KDAJAp@GNAbAG~@Gn@EJAr@EfAKz@E`F]JFLJ"
+                     },
+                     "start_location" : {
+                        "lat" : -25.408548,
+                        "lng" : -49.2664395
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 714
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 126
+                     },
+                     "end_location" : {
+                        "lat" : -25.4145005,
+                        "lng" : -49.2600627
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e3rd\u003c/b\u003e exit onto \u003cb\u003eR. Dep. Mário de Barros\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "bkbzCtfukH?@?B?@?B?@@B?@@@@B@BB@@@@@@@@@@?B@@?@?B?@?@?B?@AB?@A@A@?@A@A@A@C@A@A?A@C?C?A?A?C?A?C?A?CAA?CAAAA?CAAAAAAC?AAAAA?AAC?IOAAEGLmBJmBFcABs@Fg@TwADYl@qDLs@Fa@DMBIFULUr@eAp@eAl@_ADIp@}@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4124971,
+                        "lng" : -49.2658671
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 323
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 53
+                     },
+                     "end_location" : {
+                        "lat" : -25.4169064,
+                        "lng" : -49.2586464
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eRua Alberto Bolliger\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "rwbzCjbtkHN^XCPC`Am@JIPIROPMp@c@VOrA}@pAw@n@g@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4145005,
+                        "lng" : -49.2600627
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 356
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 70
+                     },
+                     "end_location" : {
+                        "lat" : -25.4198764,
+                        "lng" : -49.2599657
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. Barão de Guaraúna\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "tfczCpyskH`@LPDh@TND^JdBr@bBn@tBl@pA^TFZP"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4169064,
+                        "lng" : -49.2586464
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 207
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : -25.4212339,
+                        "lng" : -49.2613765
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eR. Amâncio Môro\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "fyczCxatkH`@b@HHb@f@r@r@VVX^d@b@DFj@j@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4198764,
+                        "lng" : -49.2599657
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 656
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 110
+                     },
+                     "end_location" : {
+                        "lat" : -25.4267194,
+                        "lng" : -49.2589754
+                     },
+                     "html_instructions" : "\u003cb\u003eR. Amâncio Môro\u003c/b\u003e turns \u003cb\u003eleft\u003c/b\u003e and becomes \u003cb\u003eR. Ubaldino do Amaral\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "tadzCrjtkHrBs@XIpAe@rAe@|By@bCw@dBm@\\MfC{@`A[`@Ob@Od@On@Qh@M"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4212339,
+                        "lng" : -49.2613765
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "tb_zCvgukHtB@lC?xFAvGBxBBzBD@YFu@b@oEpABxDh@bBVtGbApEl@|Ev@jEp@~BXNBVLRRJG`@U^KPCdEYvDY|Gc@XR?JBHHJRFRELS?WKSICEAKQEGLmBRqDJ{AZqBhAuGJ_@`A{A~AeCv@gAN^XCPC`Am@\\Sd@]nFiDn@g@`@Lz@Zn@PhEbBfElATFZPj@l@vAzAp@v@j@j@j@j@rBs@jBo@pE_BhFeBhGuBhA_@xA_@"
+         },
+         "summary" : "R. Eurípedes Garcez do Nascimento",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

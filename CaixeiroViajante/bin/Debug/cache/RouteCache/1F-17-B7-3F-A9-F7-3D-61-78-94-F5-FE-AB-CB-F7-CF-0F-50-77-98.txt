@@ -1,0 +1,181 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ_1f4AdDm3JQRl3HhR89rCQw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJEfXiXtTm3JQR6Nu_ZM-iC2I",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.3794385,
+               "lng" : -49.27426
+            },
+            "southwest" : {
+               "lat" : -25.3827215,
+               "lng" : -49.2841981
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.7 km",
+                  "value" : 1698
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 260
+               },
+               "end_address" : "Rua Lory Lunardon - Taboão, Curitiba - PR, 82130, Brazil",
+               "end_location" : {
+                  "lat" : -25.3796041,
+                  "lng" : -49.28246590000001
+               },
+               "start_address" : "Rua Benedito Correia de Freitas, 138 - Abranches, Curitiba - PR, 82130-240, Brazil",
+               "start_location" : {
+                  "lat" : -25.3827215,
+                  "lng" : -49.2742835
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 525
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 68
+                     },
+                     "end_location" : {
+                        "lat" : -25.3794385,
+                        "lng" : -49.2770411
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eRua Benedito Correia de Freitas\u003c/b\u003e toward \u003cb\u003eR. Aldo Pinheiro\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "~p|yCf{vkHqBC[DWHQHQJOJIFMJSR_@TMHGDCFABADCTAFCRGZk@hCETOt@U|@CFIHKFUDI?yAJg@De@D"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3827215,
+                        "lng" : -49.2742835
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 216
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : -25.3796898,
+                        "lng" : -49.27916889999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Martin Kaiser\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "n|{yCnlwkHNfCPdCHlADlA"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3794385,
+                        "lng" : -49.2770411
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 158
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 25
+                     },
+                     "end_location" : {
+                        "lat" : -25.3807282,
+                        "lng" : -49.28019579999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Des. José Carlos Ribeiro Ribas\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "`~{yCxywkHLHTXPVd@r@\\f@LLHFLHNFJBRH"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3796898,
+                        "lng" : -49.27916889999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 481
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 65
+                     },
+                     "end_location" : {
+                        "lat" : -25.3815445,
+                        "lng" : -49.2841512
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eRua Pedro Romildo Dall Stella\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "pd|yCf`xkHUb@S`@A@O\\Wf@?jA?@@jA?jA?hA@t@@F?@@@FDFDDD@?FDJHNJf@\\r@b@p@b@PNFDBDBD@F?D?@@H?LAR?b@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3807282,
+                        "lng" : -49.28019579999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 318
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 56
+                     },
+                     "end_location" : {
+                        "lat" : -25.3796041,
+                        "lng" : -49.28246590000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eRua Frei Bernardino Tomat\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ri|yC|xxkHuAHSAI?a@GKCe@SIEm@c@KIWOw@w@Ma@EMCIGWKc@AS?C?GBS@K?A?C"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3815445,
+                        "lng" : -49.2841512
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "~p|yCf{vkHqBC[Di@Ry@j@SR_@TUNEJEZy@`EUjAYdAUP_@DaCPe@DNfCZrEDlALHf@p@bAzAVT\\P^Li@dAQ^Wf@?jA@lA?tCB~@PLxDfCXTFJBXA`@?b@uAH]Am@Ko@Yy@m@oAgASo@Ka@Mw@Dk@?E"
+         },
+         "summary" : "Rua Benedito Correia de Freitas and Rua Pedro Romildo Dall Stella",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

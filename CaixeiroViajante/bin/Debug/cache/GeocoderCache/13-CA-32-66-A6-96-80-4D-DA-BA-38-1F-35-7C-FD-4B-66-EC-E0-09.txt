@@ -1,0 +1,744 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "HPG3+PF Curitiba, State of Paraná, Brazil",
+      "global_code" : "586GHPG3+PF"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "552",
+               "short_name" : "552",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Joaquim da Silva Sampaio",
+               "short_name" : "R. Joaquim da Silva Sampaio",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mercês",
+               "short_name" : "Mercês",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80710-630",
+               "short_name" : "80710-630",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Joaquim da Silva Sampaio, 552 - Mercês, Curitiba - PR, 80710-630, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.42314,
+               "lng" : -49.296302
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4217910197085,
+                  "lng" : -49.29495301970849
+               },
+               "southwest" : {
+                  "lat" : -25.4244889802915,
+                  "lng" : -49.29765098029149
+               }
+            }
+         },
+         "place_id" : "ChIJjxjjcuPj3JQRpcZjMbGEY8g",
+         "plus_code" : {
+            "compound_code" : "HPG3+PF Curitiba, State of Paraná, Brazil",
+            "global_code" : "586GHPG3+PF"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "4445",
+               "short_name" : "4445",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Joaquim da Silva Sampaio",
+               "short_name" : "R. Joaquim da Silva Sampaio",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mercês",
+               "short_name" : "Mercês",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80710-630",
+               "short_name" : "80710-630",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Joaquim da Silva Sampaio, 4445 - Mercês, Curitiba - PR, 80710-630, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.4231477,
+               "lng" : -49.2962675
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.42179871970849,
+                  "lng" : -49.2949185197085
+               },
+               "southwest" : {
+                  "lat" : -25.4244966802915,
+                  "lng" : -49.2976164802915
+               }
+            }
+         },
+         "place_id" : "ChIJI9xxCOPj3JQRcIYAlYO6jtY",
+         "plus_code" : {
+            "compound_code" : "HPG3+PF Curitiba, State of Paraná, Brazil",
+            "global_code" : "586GHPG3+PF"
+         },
+         "types" : [ "bicycle_store", "establishment", "point_of_interest", "store" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "547",
+               "short_name" : "547",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Joaquim da Silva Sampaio",
+               "short_name" : "R. Joaquim da Silva Sampaio",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mercês",
+               "short_name" : "Mercês",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80710-630",
+               "short_name" : "80710-630",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Joaquim da Silva Sampaio, 547 - Mercês, Curitiba - PR, 80710-630, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.4233009,
+                  "lng" : -49.2964767
+               },
+               "southwest" : {
+                  "lat" : -25.423433,
+                  "lng" : -49.29660879999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4233662,
+               "lng" : -49.2965611
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4220179697085,
+                  "lng" : -49.2951937697085
+               },
+               "southwest" : {
+                  "lat" : -25.4247159302915,
+                  "lng" : -49.2978917302915
+               }
+            }
+         },
+         "place_id" : "ChIJEc5kdOPj3JQRGGD_4e0qMPs",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "546",
+               "short_name" : "546",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Joaquim da Silva Sampaio",
+               "short_name" : "R. Joaquim da Silva Sampaio",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mercês",
+               "short_name" : "Mercês",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80710-630",
+               "short_name" : "80710-630",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Joaquim da Silva Sampaio, 546 - Mercês, Curitiba - PR, 80710-630, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.4232573,
+               "lng" : -49.2964506
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4219083197085,
+                  "lng" : -49.2951016197085
+               },
+               "southwest" : {
+                  "lat" : -25.4246062802915,
+                  "lng" : -49.2977995802915
+               }
+            }
+         },
+         "place_id" : "EkxSLiBKb2FxdWltIGRhIFNpbHZhIFNhbXBhaW8sIDU0NiAtIE1lcmPDqnMsIEN1cml0aWJhIC0gUFIsIDgwNzEwLTYzMCwgQnJhemlsIhsSGQoUChIJqdNSc-Pj3JQRaK1BDsl_WvsQogQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "500-640",
+               "short_name" : "500-640",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Joaquim da Silva Sampaio",
+               "short_name" : "R. Joaquim da Silva Sampaio",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mercês",
+               "short_name" : "Mercês",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80710-630",
+               "short_name" : "80710-630",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Joaquim da Silva Sampaio, 500-640 - Mercês, Curitiba - PR, 80710-630, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.4226682,
+                  "lng" : -49.29627079999999
+               },
+               "southwest" : {
+                  "lat" : -25.4236508,
+                  "lng" : -49.2967218
+               }
+            },
+            "location" : {
+               "lat" : -25.4231592,
+               "lng" : -49.2964954
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4218105197085,
+                  "lng" : -49.2951473197085
+               },
+               "southwest" : {
+                  "lat" : -25.4245084802915,
+                  "lng" : -49.2978452802915
+               }
+            }
+         },
+         "place_id" : "ChIJqdNSc-Pj3JQRaK1BDsl_Wvs",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "80710-630",
+               "short_name" : "80710-630",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Mercês",
+               "short_name" : "Mercês",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mercês, Curitiba - State of Paraná, 80710-630, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.4182848,
+                  "lng" : -49.2941687
+               },
+               "southwest" : {
+                  "lat" : -25.4278372,
+                  "lng" : -49.2988462
+               }
+            },
+            "location" : {
+               "lat" : -25.4232744,
+               "lng" : -49.2963432
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4182848,
+                  "lng" : -49.2941687
+               },
+               "southwest" : {
+                  "lat" : -25.4278372,
+                  "lng" : -49.2988462
+               }
+            }
+         },
+         "place_id" : "ChIJhz4LMeXj3JQR9Xe2bnNH2zs",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "80710",
+               "short_name" : "80710",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Matriz",
+               "short_name" : "Matriz",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Matriz, Curitiba - State of Paraná, 80710, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.4166281,
+                  "lng" : -49.2898143
+               },
+               "southwest" : {
+                  "lat" : -25.4346986,
+                  "lng" : -49.30936690000001
+               }
+            },
+            "location" : {
+               "lat" : -25.4237477,
+               "lng" : -49.3018896
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4166281,
+                  "lng" : -49.2898143
+               },
+               "southwest" : {
+                  "lat" : -25.4346986,
+                  "lng" : -49.30936690000001
+               }
+            }
+         },
+         "place_id" : "ChIJVyHAq-bj3JQR4KMlta8I_50",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mercês",
+               "short_name" : "Mercês",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mercês, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.4142271,
+                  "lng" : -49.2791773
+               },
+               "southwest" : {
+                  "lat" : -25.4306924,
+                  "lng" : -49.30881369999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4220894,
+               "lng" : -49.2918813
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4142271,
+                  "lng" : -49.2791773
+               },
+               "southwest" : {
+                  "lat" : -25.4306924,
+                  "lng" : -49.30881369999999
+               }
+            }
+         },
+         "place_id" : "ChIJlVV3tfzj3JQRQZdn8x7IoIw",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Matriz",
+               "short_name" : "Matriz",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Matriz, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3928639,
+                  "lng" : -49.2184679
+               },
+               "southwest" : {
+                  "lat" : -25.4688678,
+                  "lng" : -49.3192934
+               }
+            },
+            "location" : {
+               "lat" : -25.4217847,
+               "lng" : -49.2740045
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3928639,
+                  "lng" : -49.2184679
+               },
+               "southwest" : {
+                  "lat" : -25.4688678,
+                  "lng" : -49.3192934
+               }
+            }
+         },
+         "place_id" : "ChIJSdL-QBTk3JQRTa4Zsr5CKw0",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba, State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4289541,
+               "lng" : -49.267137
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            }
+         },
+         "place_id" : "ChIJ3bPNUVPj3JQRCejLuqVrL20",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4808762,
+               "lng" : -49.3044253
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            }
+         },
+         "place_id" : "ChIJ8Q8J_PXj3JQRR7crCbCDejw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            },
+            "location" : {
+               "lat" : -25.2520888,
+               "lng" : -52.0215415
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            }
+         },
+         "place_id" : "ChIJnWK4MJQL25QRYfDOY1D9k-g",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

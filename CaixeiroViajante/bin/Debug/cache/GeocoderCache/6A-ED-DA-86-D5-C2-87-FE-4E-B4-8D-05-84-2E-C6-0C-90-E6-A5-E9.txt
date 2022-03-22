@@ -1,0 +1,637 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "JPC9+V9 Taboão, Curitiba - State of Paraná, Brazil",
+      "global_code" : "586GJPC9+V9"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "50",
+               "short_name" : "50",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Lory Lunardon",
+               "short_name" : "Rua Lory Lunardon",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Taboão",
+               "short_name" : "Taboão",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82130-496",
+               "short_name" : "82130-496",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Lory Lunardon, 50 - Taboão, Curitiba - PR, 82130-496, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.3778042,
+               "lng" : -49.2812877
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3764552197085,
+                  "lng" : -49.2799387197085
+               },
+               "southwest" : {
+                  "lat" : -25.3791531802915,
+                  "lng" : -49.2826366802915
+               }
+            }
+         },
+         "place_id" : "ChIJgQlgU9Tm3JQRFeuw-MUHsr4",
+         "plus_code" : {
+            "compound_code" : "JPC9+VF Curitiba, State of Paraná, Brazil",
+            "global_code" : "586GJPC9+VF"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "368",
+               "short_name" : "368",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Lory Lunardon",
+               "short_name" : "Rua Lory Lunardon",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Taboão",
+               "short_name" : "Taboão",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82130-496",
+               "short_name" : "82130-496",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Lory Lunardon, 368 - Taboão, Curitiba - PR, 82130-496, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.3781389,
+               "lng" : -49.2812408
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3767899197085,
+                  "lng" : -49.2798918197085
+               },
+               "southwest" : {
+                  "lat" : -25.3794878802915,
+                  "lng" : -49.2825897802915
+               }
+            }
+         },
+         "place_id" : "ChIJaeMkUdTm3JQRma9kADewyyk",
+         "plus_code" : {
+            "compound_code" : "JPC9+PG Curitiba, State of Paraná, Brazil",
+            "global_code" : "586GJPC9+PG"
+         },
+         "types" : [
+            "establishment",
+            "food",
+            "meal_takeaway",
+            "point_of_interest",
+            "restaurant"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "278",
+               "short_name" : "278",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Oswaldo Maciel",
+               "short_name" : "Rua Oswaldo Maciel",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Taboão",
+               "short_name" : "Taboão",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82130-494",
+               "short_name" : "82130-494",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Oswaldo Maciel, 278 - Taboão, Curitiba - PR, 82130-494, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3780923,
+                  "lng" : -49.281075
+               },
+               "southwest" : {
+                  "lat" : -25.3782424,
+                  "lng" : -49.28120699999999
+               }
+            },
+            "location" : {
+               "lat" : -25.3781601,
+               "lng" : -49.2811528
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3768183697085,
+                  "lng" : -49.27979201970849
+               },
+               "southwest" : {
+                  "lat" : -25.3795163302915,
+                  "lng" : -49.28248998029149
+               }
+            }
+         },
+         "place_id" : "ChIJ41D4UNTm3JQReEyrIXKBK6k",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "60",
+               "short_name" : "60",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Lory Lunardon",
+               "short_name" : "Rua Lory Lunardon",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Taboão",
+               "short_name" : "Taboão",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82130-496",
+               "short_name" : "82130-496",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Lory Lunardon, 60 - Taboão, Curitiba - PR, 82130-496, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.3778534,
+               "lng" : -49.2813437
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3765044197085,
+                  "lng" : -49.2799947197085
+               },
+               "southwest" : {
+                  "lat" : -25.3792023802915,
+                  "lng" : -49.2826926802915
+               }
+            }
+         },
+         "place_id" : "EkFSdWEgTG9yeSBMdW5hcmRvbiwgNjAgLSBUYWJvw6NvLCBDdXJpdGliYSAtIFBSLCA4MjEzMC00OTYsIEJyYXppbCIaEhgKFAoSCc07YlTU5tyUEWaO3ERJEAySEDw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2-82",
+               "short_name" : "2-82",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Lory Lunardon",
+               "short_name" : "Rua Lory Lunardon",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Taboão",
+               "short_name" : "Taboão",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82130-496",
+               "short_name" : "82130-496",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Lory Lunardon, 2-82 - Taboão, Curitiba - PR, 82130-496, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3776621,
+                  "lng" : -49.2813367
+               },
+               "southwest" : {
+                  "lat" : -25.3783556,
+                  "lng" : -49.281365
+               }
+            },
+            "location" : {
+               "lat" : -25.3780098,
+               "lng" : -49.2813528
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3766598697085,
+                  "lng" : -49.28000186970851
+               },
+               "southwest" : {
+                  "lat" : -25.3793578302915,
+                  "lng" : -49.2826998302915
+               }
+            }
+         },
+         "place_id" : "ChIJzTtiVNTm3JQRZo7cREkQDJI",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "82130-496",
+               "short_name" : "82130-496",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Taboão",
+               "short_name" : "Taboão",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taboão, Curitiba - State of Paraná, 82130-496, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3760617,
+                  "lng" : -49.2810339
+               },
+               "southwest" : {
+                  "lat" : -25.3783383,
+                  "lng" : -49.2825591
+               }
+            },
+            "location" : {
+               "lat" : -25.3771221,
+               "lng" : -49.2817666
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3758510197085,
+                  "lng" : -49.2804475197085
+               },
+               "southwest" : {
+                  "lat" : -25.3785489802915,
+                  "lng" : -49.28314548029149
+               }
+            }
+         },
+         "place_id" : "ChIJvYAwBtXm3JQRsYImWsox9lI",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taboão",
+               "short_name" : "Taboão",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taboão, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3597126,
+                  "lng" : -49.2739188
+               },
+               "southwest" : {
+                  "lat" : -25.381565,
+                  "lng" : -49.2873858
+               }
+            },
+            "location" : {
+               "lat" : -25.3723539,
+               "lng" : -49.2801052
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3597126,
+                  "lng" : -49.2739188
+               },
+               "southwest" : {
+                  "lat" : -25.381565,
+                  "lng" : -49.2873858
+               }
+            }
+         },
+         "place_id" : "ChIJ8cyshCvn3JQRon0FKafBeRg",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "82130",
+               "short_name" : "82130",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba - State of Paraná, 82130, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3594873,
+                  "lng" : -49.2672684
+               },
+               "southwest" : {
+                  "lat" : -25.3820316,
+                  "lng" : -49.28562530000001
+               }
+            },
+            "location" : {
+               "lat" : -25.3712508,
+               "lng" : -49.276539
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3594873,
+                  "lng" : -49.2672684
+               },
+               "southwest" : {
+                  "lat" : -25.3820316,
+                  "lng" : -49.28562530000001
+               }
+            }
+         },
+         "place_id" : "ChIJU3AK_Sjn3JQRbtAZn3LDz9k",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4808762,
+               "lng" : -49.3044253
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            }
+         },
+         "place_id" : "ChIJ8Q8J_PXj3JQRR7crCbCDejw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            },
+            "location" : {
+               "lat" : -25.2520888,
+               "lng" : -52.0215415
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            }
+         },
+         "place_id" : "ChIJnWK4MJQL25QRYfDOY1D9k-g",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

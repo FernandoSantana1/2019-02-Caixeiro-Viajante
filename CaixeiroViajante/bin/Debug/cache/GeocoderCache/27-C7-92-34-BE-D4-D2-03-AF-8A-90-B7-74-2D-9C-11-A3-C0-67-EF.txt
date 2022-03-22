@@ -1,0 +1,681 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "JQ7C+H2 Curitiba, State of Paraná, Brazil",
+      "global_code" : "586GJQ7C+H2"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "121",
+               "short_name" : "121",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Arary Souto",
+               "short_name" : "Rua Arary Souto",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tingui",
+               "short_name" : "Tingui",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82620-010",
+               "short_name" : "82620-010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Arary Souto, 121 - Tingui, Curitiba - PR, 82620-010, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.385761,
+               "lng" : -49.22995299999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3844120197085,
+                  "lng" : -49.2286040197085
+               },
+               "southwest" : {
+                  "lat" : -25.3871099802915,
+                  "lng" : -49.2313019802915
+               }
+            }
+         },
+         "place_id" : "ChIJE0xmQ27m3JQR89GVvrP4HbQ",
+         "plus_code" : {
+            "compound_code" : "JQ7C+M2 Curitiba, State of Paraná, Brazil",
+            "global_code" : "586GJQ7C+M2"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "454",
+               "short_name" : "454",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Vinte e Nove de Junho",
+               "short_name" : "R. Vinte e Nove de Junho",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bacacheri",
+               "short_name" : "Bacacheri",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82515-396",
+               "short_name" : "82515-396",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Vinte e Nove de Junho, 454 - Bacacheri, Curitiba - PR, 82515-396, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3855525,
+                  "lng" : -49.2294847
+               },
+               "southwest" : {
+                  "lat" : -25.3856657,
+                  "lng" : -49.22962649999999
+               }
+            },
+            "location" : {
+               "lat" : -25.3856038,
+               "lng" : -49.2295707
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3842601197085,
+                  "lng" : -49.2282066197085
+               },
+               "southwest" : {
+                  "lat" : -25.38695808029151,
+                  "lng" : -49.2309045802915
+               }
+            }
+         },
+         "place_id" : "ChIJNRFoaG7m3JQRA2TWuB7g0e0",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "3",
+               "short_name" : "3",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Arary Souto",
+               "short_name" : "Rua Arary Souto",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tingui",
+               "short_name" : "Tingui",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82620-110",
+               "short_name" : "82620-110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Arary Souto, 3 - Tingui, Curitiba - PR, 82620-110, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.3858339,
+               "lng" : -49.2297336
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.38448491970849,
+                  "lng" : -49.2283846197085
+               },
+               "southwest" : {
+                  "lat" : -25.3871828802915,
+                  "lng" : -49.2310825802915
+               }
+            }
+         },
+         "place_id" : "EjJSdWEgQXJhcnkgU291dG8sIDMgLSBUaW5ndWksIEN1cml0aWJhIC0gUFIsIEJyYXppbCIaEhgKFAoSCS8NG0Nu5tyUESLC71qc7WABEAM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "7-1",
+               "short_name" : "7-1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Arary Souto",
+               "short_name" : "Rua Arary Souto",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tingui",
+               "short_name" : "Tingui",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82620-110",
+               "short_name" : "82620-110",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Arary Souto, 7-1 - Tingui, Curitiba - PR, 82620-110, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3855346,
+                  "lng" : -49.2294821
+               },
+               "southwest" : {
+                  "lat" : -25.3859835,
+                  "lng" : -49.2302365
+               }
+            },
+            "location" : {
+               "lat" : -25.3857591,
+               "lng" : -49.2298593
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3844100697085,
+                  "lng" : -49.2285103197085
+               },
+               "southwest" : {
+                  "lat" : -25.3871080302915,
+                  "lng" : -49.2312082802915
+               }
+            }
+         },
+         "place_id" : "ChIJLw0bQ27m3JQRIsLvWpztYAE",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "82620-110",
+               "short_name" : "82620-110",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Tingui",
+               "short_name" : "Tingui",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tingui, Curitiba - State of Paraná, 82620-110, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3766943,
+                  "lng" : -49.2195408
+               },
+               "southwest" : {
+                  "lat" : -25.3866139,
+                  "lng" : -49.230936
+               }
+            },
+            "location" : {
+               "lat" : -25.3819824,
+               "lng" : -49.22551139999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3766943,
+                  "lng" : -49.2195408
+               },
+               "southwest" : {
+                  "lat" : -25.3866139,
+                  "lng" : -49.230936
+               }
+            }
+         },
+         "place_id" : "ChIJf528YWzm3JQR7h8XQ9trsSw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "82515",
+               "short_name" : "82515",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Bacacheri",
+               "short_name" : "Bacacheri",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bacacheri, Curitiba - State of Paraná, 82515, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3829506,
+                  "lng" : -49.2208367
+               },
+               "southwest" : {
+                  "lat" : -25.4057016,
+                  "lng" : -49.2362484
+               }
+            },
+            "location" : {
+               "lat" : -25.3934812,
+               "lng" : -49.2258711
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3829506,
+                  "lng" : -49.2208367
+               },
+               "southwest" : {
+                  "lat" : -25.4057016,
+                  "lng" : -49.2362484
+               }
+            }
+         },
+         "place_id" : "ChIJnX9jgHbm3JQRNkIV2f6_4Xs",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bacacheri",
+               "short_name" : "Bacacheri",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bacacheri, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3837051,
+                  "lng" : -49.2124994
+               },
+               "southwest" : {
+                  "lat" : -25.4200983,
+                  "lng" : -49.247431
+               }
+            },
+            "location" : {
+               "lat" : -25.3981876,
+               "lng" : -49.2371719
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3837051,
+                  "lng" : -49.2124994
+               },
+               "southwest" : {
+                  "lat" : -25.4200983,
+                  "lng" : -49.247431
+               }
+            }
+         },
+         "place_id" : "ChIJz04TXnbm3JQRf5z9IdWj2wo",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boa Vista",
+               "short_name" : "Boa Vista",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Boa Vista, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1914303
+               },
+               "southwest" : {
+                  "lat" : -25.4313697,
+                  "lng" : -49.2815916
+               }
+            },
+            "location" : {
+               "lat" : -25.3886823,
+               "lng" : -49.2334685
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1914303
+               },
+               "southwest" : {
+                  "lat" : -25.4313697,
+                  "lng" : -49.2815916
+               }
+            }
+         },
+         "place_id" : "ChIJ4yXhiYjm3JQRib7FMdA38u0",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba, State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4289541,
+               "lng" : -49.267137
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            }
+         },
+         "place_id" : "ChIJ3bPNUVPj3JQRCejLuqVrL20",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4808762,
+               "lng" : -49.3044253
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            }
+         },
+         "place_id" : "ChIJ8Q8J_PXj3JQRR7crCbCDejw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            },
+            "location" : {
+               "lat" : -25.2520888,
+               "lng" : -52.0215415
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            }
+         },
+         "place_id" : "ChIJnWK4MJQL25QRYfDOY1D9k-g",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

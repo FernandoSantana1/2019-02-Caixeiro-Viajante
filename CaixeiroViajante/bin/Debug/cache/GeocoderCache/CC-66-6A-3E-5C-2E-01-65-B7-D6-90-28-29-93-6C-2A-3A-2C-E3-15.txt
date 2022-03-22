@@ -1,0 +1,685 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "JM3R+VM Curitiba, State of Paraná, Brazil",
+      "global_code" : "586GJM3R+VM"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "608",
+               "short_name" : "608",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Alfredo Muraro",
+               "short_name" : "Rua Alfredo Muraro",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "São João",
+               "short_name" : "São João",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82030-132",
+               "short_name" : "82030-132",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Alfredo Muraro, 608 - São João, Curitiba - PR, 82030-132, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.396237,
+               "lng" : -49.307697
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3948880197085,
+                  "lng" : -49.30634801970849
+               },
+               "southwest" : {
+                  "lat" : -25.3975859802915,
+                  "lng" : -49.30904598029149
+               }
+            }
+         },
+         "place_id" : "ChIJiU8THRfh3JQRDAV70B4dESc",
+         "plus_code" : {
+            "compound_code" : "JM3R+GW Curitiba, State of Paraná, Brazil",
+            "global_code" : "586GJM3R+GW"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2050",
+               "short_name" : "2050",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Ângelo Domingos Durigan",
+               "short_name" : "R. Ângelo Domingos Durigan",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "São João",
+               "short_name" : "São João",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82025-100",
+               "short_name" : "82025-100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Ângelo Domingos Durigan, 2050 - São João, Curitiba - PR, 82025-100, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.3968153,
+               "lng" : -49.3089044
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3954663197085,
+                  "lng" : -49.30755541970849
+               },
+               "southwest" : {
+                  "lat" : -25.3981642802915,
+                  "lng" : -49.31025338029149
+               }
+            }
+         },
+         "place_id" : "ChIJJckIzhbh3JQRuhaJ5-ubthg",
+         "plus_code" : {
+            "compound_code" : "JM3R+7C São João - Santa Felicidade, Curitiba - State of Paraná, Brazil",
+            "global_code" : "586GJM3R+7C"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "799",
+               "short_name" : "799",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Alfredo Muraro",
+               "short_name" : "R. Alfredo Muraro",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "São João",
+               "short_name" : "São João",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82030-132",
+               "short_name" : "82030-132",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Alfredo Muraro, 799 - São João, Curitiba - PR, 82030-132, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.3962047,
+               "lng" : -49.3077055
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3948557197085,
+                  "lng" : -49.3063565197085
+               },
+               "southwest" : {
+                  "lat" : -25.3975536802915,
+                  "lng" : -49.30905448029149
+               }
+            }
+         },
+         "place_id" : "EjpSLiBBbGZyZWRvIE11cmFybywgNzk5IC0gU8OjbyBKb8OjbywgQ3VyaXRpYmEgLSBQUiwgQnJhemlsIhsSGQoUChIJ6SB65hbh3JQRn4VdzbjcORMQnwY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "560",
+               "short_name" : "560",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Alfredo Muraro",
+               "short_name" : "R. Alfredo Muraro",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "São João",
+               "short_name" : "São João",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82030-132",
+               "short_name" : "82030-132",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Alfredo Muraro, 560 - São João, Curitiba - PR, 82030-132, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3973077,
+                  "lng" : -49.3078333
+               },
+               "southwest" : {
+                  "lat" : -25.3974129,
+                  "lng" : -49.3079881
+               }
+            },
+            "location" : {
+               "lat" : -25.397356,
+               "lng" : -49.3078922
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3960113197085,
+                  "lng" : -49.3065617197085
+               },
+               "southwest" : {
+                  "lat" : -25.3987092802915,
+                  "lng" : -49.3092596802915
+               }
+            }
+         },
+         "place_id" : "ChIJqeMJ7Bbh3JQRkiGnZOR7SR0",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "560-800",
+               "short_name" : "560-800",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Alfredo Muraro",
+               "short_name" : "R. Alfredo Muraro",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "São João",
+               "short_name" : "São João",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82030-132",
+               "short_name" : "82030-132",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Alfredo Muraro, 560-800 - São João, Curitiba - PR, 82030-132, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3962047,
+                  "lng" : -49.3077055
+               },
+               "southwest" : {
+                  "lat" : -25.3974818,
+                  "lng" : -49.3080924
+               }
+            },
+            "location" : {
+               "lat" : -25.3968394,
+               "lng" : -49.3079437
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.39549426970849,
+                  "lng" : -49.3065499697085
+               },
+               "southwest" : {
+                  "lat" : -25.3981922302915,
+                  "lng" : -49.3092479302915
+               }
+            }
+         },
+         "place_id" : "ChIJ6SB65hbh3JQRnoVdzbjcORM",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "São João",
+               "short_name" : "São João",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "São João, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3825154,
+                  "lng" : -49.3022252
+               },
+               "southwest" : {
+                  "lat" : -25.4055259,
+                  "lng" : -49.3218022
+               }
+            },
+            "location" : {
+               "lat" : -25.3946378,
+               "lng" : -49.31218310000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3825154,
+                  "lng" : -49.3022252
+               },
+               "southwest" : {
+                  "lat" : -25.4055259,
+                  "lng" : -49.3218022
+               }
+            }
+         },
+         "place_id" : "ChIJPTojPQTh3JQRaulEYdJD4l8",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "82030",
+               "short_name" : "82030",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Santa Felicidade",
+               "short_name" : "Santa Felicidade",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Felicidade, Curitiba - State of Paraná, 82030, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3827379,
+                  "lng" : -49.3040836
+               },
+               "southwest" : {
+                  "lat" : -25.403192,
+                  "lng" : -49.3297856
+               }
+            },
+            "location" : {
+               "lat" : -25.3945546,
+               "lng" : -49.31710529999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3827379,
+                  "lng" : -49.3040836
+               },
+               "southwest" : {
+                  "lat" : -25.403192,
+                  "lng" : -49.3297856
+               }
+            }
+         },
+         "place_id" : "ChIJYzB-iQTh3JQRmM6bSRUVHeM",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Felicidade",
+               "short_name" : "Santa Felicidade",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Felicidade, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3574986,
+                  "lng" : -49.28389989999999
+               },
+               "southwest" : {
+                  "lat" : -25.478325,
+                  "lng" : -49.38983289999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4040074,
+               "lng" : -49.3286941
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3574986,
+                  "lng" : -49.28389989999999
+               },
+               "southwest" : {
+                  "lat" : -25.478325,
+                  "lng" : -49.38983289999999
+               }
+            }
+         },
+         "place_id" : "ChIJVyZ-IkHh3JQRDh40dyt3LqI",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba, State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4289541,
+               "lng" : -49.267137
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            }
+         },
+         "place_id" : "ChIJ3bPNUVPj3JQRCejLuqVrL20",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4808762,
+               "lng" : -49.3044253
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            }
+         },
+         "place_id" : "ChIJ8Q8J_PXj3JQRR7crCbCDejw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            },
+            "location" : {
+               "lat" : -25.2520888,
+               "lng" : -52.0215415
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            }
+         },
+         "place_id" : "ChIJnWK4MJQL25QRYfDOY1D9k-g",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

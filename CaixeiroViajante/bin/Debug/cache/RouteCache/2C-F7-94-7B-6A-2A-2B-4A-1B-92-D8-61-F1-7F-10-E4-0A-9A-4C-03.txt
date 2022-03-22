@@ -1,0 +1,204 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJIfmynS_h3JQR6qBB8uAFah8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJEfXiXtTm3JQR6Nu_ZM-iC2I",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.3795681,
+               "lng" : -49.28246590000001
+            },
+            "southwest" : {
+               "lat" : -25.3867573,
+               "lng" : -49.29348840000001
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.8 km",
+                  "value" : 1787
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 242
+               },
+               "end_address" : "Rua Lory Lunardon - Taboão, Curitiba - PR, 82130, Brazil",
+               "end_location" : {
+                  "lat" : -25.3796041,
+                  "lng" : -49.28246590000001
+               },
+               "start_address" : "R. Jorn Jose E E Pereira, 817 - Pilarzinho, Curitiba - PR, 82110-260, Brazil",
+               "start_location" : {
+                  "lat" : -25.3867573,
+                  "lng" : -49.29348840000001
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 119
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 15
+                     },
+                     "end_location" : {
+                        "lat" : -25.3864415,
+                        "lng" : -49.292353
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eRua Jornalista José Ernesto Ericksen Pereira\u003c/b\u003e toward \u003cb\u003eRua Reinaldo M. Von Der Osten\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "fj}yChszkHe@_CYcB"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3867573,
+                        "lng" : -49.29348840000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 366
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 61
+                     },
+                     "end_location" : {
+                        "lat" : -25.3835979,
+                        "lng" : -49.2907929
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Leônidas Xavier de Freitas\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "fh}yCdlzkHSHQBQ@Q@M?M?IAKEMIsAcAyCeB{A_AEEUQgAu@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3864415,
+                        "lng" : -49.292353
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 358
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : -25.3830078,
+                        "lng" : -49.2877673
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAv. Fredolin Wolf\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "nv|yClbzkHH_@DSJ_@J[JYN[HSBIBI@G@G?G?K?K?OAMEQESIQIOKMCEKQW[EGc@e@GG][KMGGCEEGEICGAGAE?G?I@M"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3835979,
+                        "lng" : -49.2907929
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 240
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : -25.3842742,
+                        "lng" : -49.2859022
+                     },
+                     "html_instructions" : "Merge onto \u003cb\u003eRua Domingos Antônio Moro\u003c/b\u003e",
+                     "maneuver" : "merge",
+                     "polyline" : {
+                        "points" : "xr|yCpoykH@Q@E@E@E@EX_AJYJWFMHOJOFKHKJK\\YTQ`@_@FEHIDIHKDGDM"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3830078,
+                        "lng" : -49.2877673
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 184
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : -25.3829829,
+                        "lng" : -49.28479799999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eRua Dr. Bemben\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "tz|yCzcykHs@u@k@m@a@c@_@_@g@[KGUIMEG?"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3842742,
+                        "lng" : -49.2859022
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 520
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 79
+                     },
+                     "end_location" : {
+                        "lat" : -25.3796041,
+                        "lng" : -49.28246590000001
+                     },
+                     "html_instructions" : "\u003cb\u003eRua Dr. Bemben\u003c/b\u003e turns slightly \u003cb\u003eleft\u003c/b\u003e and becomes \u003cb\u003eRua Frei Bernardino Tomat\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "rr|yC~|xkHKAS?Y?e@?KAQASAGAGCCCCCCCACCGAICQCc@?AAGAC?AAA?AA?AAAACACAEAW?O?_@@uAHSAI?a@GKCe@SIEm@c@KIWOw@w@Ma@EMCIGWKc@AS?C?GBS@K?A?C"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3829829,
+                        "lng" : -49.28479799999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "fj}yChszkH_AcFe@Lc@B[?UGaBmAyCeB{A_A[WgAu@H_@Ps@p@eBJc@?o@G_@Oe@e@u@iAqAu@w@KQEO?e@Fc@r@wBd@y@TWr@k@x@y@NSDMs@u@mAqA_@_@g@[a@QUE_BAy@GKGGGEKE[Gq@CEKG]Ao@@iBFk@Gq@Ww@i@c@Yw@w@Ma@IWS{@AWB[@Q"
+         },
+         "summary" : "Rua Frei Bernardino Tomat",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

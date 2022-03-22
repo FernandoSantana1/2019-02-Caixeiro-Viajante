@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJpdhnObrm3JQRF9gZ6rDlzT0",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJpdhnObrm3JQRF9gZ6rDlzT0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.3976914,
+               "lng" : -49.2725806
+            },
+            "southwest" : {
+               "lat" : -25.3976914,
+               "lng" : -49.2725806
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "R. Lívio Moreira, 108 - São Lourenço, Curitiba - PR, 82200-070, Brazil",
+               "end_location" : {
+                  "lat" : -25.3976914,
+                  "lng" : -49.2725806
+               },
+               "start_address" : "R. Lívio Moreira, 108 - São Lourenço, Curitiba - PR, 82200-070, Brazil",
+               "start_location" : {
+                  "lat" : -25.3976914,
+                  "lng" : -49.2725806
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : -25.3976914,
+                        "lng" : -49.2725806
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eR. Lívio Moreira\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "pn_zCrpvkH"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3976914,
+                        "lng" : -49.2725806
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "pn_zCrpvkH"
+         },
+         "summary" : "R. Lívio Moreira",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

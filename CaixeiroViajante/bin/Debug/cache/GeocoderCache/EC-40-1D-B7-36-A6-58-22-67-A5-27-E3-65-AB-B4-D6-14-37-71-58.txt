@@ -1,0 +1,685 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "JPHC+69 Curitiba, State of Paraná, Brazil",
+      "global_code" : "586GJPHC+69"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "360",
+               "short_name" : "360",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Doutor Antônio Machado de Souza",
+               "short_name" : "R. Dr. Antônio Machado de Souza",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Taboão",
+               "short_name" : "Taboão",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82130-550",
+               "short_name" : "82130-550",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Dr. Antônio Machado de Souza, 360 - Taboão, Curitiba - PR, 82130-550, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.3720585,
+               "lng" : -49.278577
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3707095197085,
+                  "lng" : -49.2772280197085
+               },
+               "southwest" : {
+                  "lat" : -25.3734074802915,
+                  "lng" : -49.27992598029149
+               }
+            }
+         },
+         "place_id" : "ChIJy937ginn3JQRPIeIpwVvHhA",
+         "plus_code" : {
+            "compound_code" : "JPHC+5H Curitiba, State of Paraná, Brazil",
+            "global_code" : "586GJPHC+5H"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "360",
+               "short_name" : "360",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Doutor Antônio Machado de Souza",
+               "short_name" : "R. Dr. Antônio Machado de Souza",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Taboão",
+               "short_name" : "Taboão",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82130-550",
+               "short_name" : "82130-550",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Dr. Antônio Machado de Souza, 360 - Taboão, Curitiba - PR, 82130-550, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.3720585,
+               "lng" : -49.278577
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3707095197085,
+                  "lng" : -49.2772280197085
+               },
+               "southwest" : {
+                  "lat" : -25.3734074802915,
+                  "lng" : -49.27992598029149
+               }
+            }
+         },
+         "place_id" : "ChIJy937ginn3JQRVn0elmhG374",
+         "plus_code" : {
+            "compound_code" : "JPHC+5H Taboão, Curitiba - State of Paraná, Brazil",
+            "global_code" : "586GJPHC+5H"
+         },
+         "types" : [ "establishment", "food", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "64",
+               "short_name" : "64",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Engenheiro Osvaldo Siqueira",
+               "short_name" : "R. Eng. Osvaldo Siqueira",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Taboão",
+               "short_name" : "Taboão",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82130-562",
+               "short_name" : "82130-562",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Eng. Osvaldo Siqueira, 64 - Taboão, Curitiba - PR, 82130-562, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3716835,
+                  "lng" : -49.2779853
+               },
+               "southwest" : {
+                  "lat" : -25.3717823,
+                  "lng" : -49.2781563
+               }
+            },
+            "location" : {
+               "lat" : -25.3717399,
+               "lng" : -49.2780637
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3703839197085,
+                  "lng" : -49.2767218197085
+               },
+               "southwest" : {
+                  "lat" : -25.3730818802915,
+                  "lng" : -49.2794197802915
+               }
+            }
+         },
+         "place_id" : "ChIJ7TvxdSnn3JQRY_d7squh6Rs",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "360",
+               "short_name" : "360",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Doutor Antônio Machado de Souza",
+               "short_name" : "R. Dr. Antônio Machado de Souza",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Taboão",
+               "short_name" : "Taboão",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82130-550",
+               "short_name" : "82130-550",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Dr. Antônio Machado de Souza, 360 - Taboão, Curitiba - PR, 82130-550, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.3723391,
+               "lng" : -49.2784383
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.37099011970849,
+                  "lng" : -49.2770893197085
+               },
+               "southwest" : {
+                  "lat" : -25.3736880802915,
+                  "lng" : -49.2797872802915
+               }
+            }
+         },
+         "place_id" : "ElFSLiBEci4gQW50w7RuaW8gTWFjaGFkbyBkZSBTb3V6YSwgMzYwIC0gVGFib8OjbywgQ3VyaXRpYmEgLSBQUiwgODIxMzAtNTUwLCBCcmF6aWwiGxIZChQKEgmxJe-aKefclBFCATFghEg7OBDoAg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "316-360",
+               "short_name" : "316-360",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Doutor Antônio Machado de Souza",
+               "short_name" : "R. Dr. Antônio Machado de Souza",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Taboão",
+               "short_name" : "Taboão",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82130-550",
+               "short_name" : "82130-550",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Dr. Antônio Machado de Souza, 316-360 - Taboão, Curitiba - PR, 82130-550, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3723029,
+                  "lng" : -49.2781149
+               },
+               "southwest" : {
+                  "lat" : -25.3723391,
+                  "lng" : -49.2784383
+               }
+            },
+            "location" : {
+               "lat" : -25.3723209,
+               "lng" : -49.2782766
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3709720197085,
+                  "lng" : -49.2769276197085
+               },
+               "southwest" : {
+                  "lat" : -25.3736699802915,
+                  "lng" : -49.2796255802915
+               }
+            }
+         },
+         "place_id" : "ChIJsSXvminn3JQRQgExYIRIOzg",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "82130-510",
+               "short_name" : "82130-510",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Taboão",
+               "short_name" : "Taboão",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taboão, Curitiba - State of Paraná, 82130-510, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3680886,
+                  "lng" : -49.2735447
+               },
+               "southwest" : {
+                  "lat" : -25.3781683,
+                  "lng" : -49.2848501
+               }
+            },
+            "location" : {
+               "lat" : -25.372507,
+               "lng" : -49.2793904
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3680886,
+                  "lng" : -49.2735447
+               },
+               "southwest" : {
+                  "lat" : -25.3781683,
+                  "lng" : -49.2848501
+               }
+            }
+         },
+         "place_id" : "ChIJHfCMx9Lg3JQRy1uPhglFbR4",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taboão",
+               "short_name" : "Taboão",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taboão, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3597126,
+                  "lng" : -49.2739188
+               },
+               "southwest" : {
+                  "lat" : -25.381565,
+                  "lng" : -49.2873858
+               }
+            },
+            "location" : {
+               "lat" : -25.3723539,
+               "lng" : -49.2801052
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3597126,
+                  "lng" : -49.2739188
+               },
+               "southwest" : {
+                  "lat" : -25.381565,
+                  "lng" : -49.2873858
+               }
+            }
+         },
+         "place_id" : "ChIJ8cyshCvn3JQRon0FKafBeRg",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "82130",
+               "short_name" : "82130",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba - State of Paraná, 82130, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3594873,
+                  "lng" : -49.2672684
+               },
+               "southwest" : {
+                  "lat" : -25.3820316,
+                  "lng" : -49.28562530000001
+               }
+            },
+            "location" : {
+               "lat" : -25.3712508,
+               "lng" : -49.276539
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3594873,
+                  "lng" : -49.2672684
+               },
+               "southwest" : {
+                  "lat" : -25.3820316,
+                  "lng" : -49.28562530000001
+               }
+            }
+         },
+         "place_id" : "ChIJU3AK_Sjn3JQRbtAZn3LDz9k",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba, State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4289541,
+               "lng" : -49.267137
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            }
+         },
+         "place_id" : "ChIJ3bPNUVPj3JQRCejLuqVrL20",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4808762,
+               "lng" : -49.3044253
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            }
+         },
+         "place_id" : "ChIJ8Q8J_PXj3JQRR7crCbCDejw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            },
+            "location" : {
+               "lat" : -25.2520888,
+               "lng" : -52.0215415
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            }
+         },
+         "place_id" : "ChIJnWK4MJQL25QRYfDOY1D9k-g",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,744 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "JP8H+42 Curitiba, State of Paraná, Brazil",
+      "global_code" : "586GJP8H+42"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "425",
+               "short_name" : "425",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Padre José Joaquim Goral",
+               "short_name" : "R. Padre José Joaquim Goral",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Abranches",
+               "short_name" : "Abranches",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82130-210",
+               "short_name" : "82130-210",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Padre José Joaquim Goral, 425 - Abranches, Curitiba - PR, 82130-210, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.3847006,
+               "lng" : -49.2725314
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3833516197085,
+                  "lng" : -49.2711824197085
+               },
+               "southwest" : {
+                  "lat" : -25.3860495802915,
+                  "lng" : -49.2738803802915
+               }
+            }
+         },
+         "place_id" : "ChIJBa3voMXm3JQROxaVm6JQbU4",
+         "plus_code" : {
+            "compound_code" : "JP8G+4X Curitiba, State of Paraná, Brazil",
+            "global_code" : "586GJP8G+4X"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "366",
+               "short_name" : "366",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Padre José Joaquim Goral",
+               "short_name" : "R. Padre José Joaquim Goral",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Abranches",
+               "short_name" : "Abranches",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82130-210",
+               "short_name" : "82130-210",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Padre José Joaquim Goral, 366 - Abranches, Curitiba - PR, 82130-210, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3839738,
+                  "lng" : -49.2720922
+               },
+               "southwest" : {
+                  "lat" : -25.3841407,
+                  "lng" : -49.2722621
+               }
+            },
+            "location" : {
+               "lat" : -25.3840708,
+               "lng" : -49.27216319999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.38270826970849,
+                  "lng" : -49.2708281697085
+               },
+               "southwest" : {
+                  "lat" : -25.3854062302915,
+                  "lng" : -49.2735261302915
+               }
+            }
+         },
+         "place_id" : "ChIJP2FtD8Xm3JQRJ3BdYT8BnSY",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "182",
+               "short_name" : "182",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Padre José Joaquim Goral",
+               "short_name" : "R. Padre José Joaquim Goral",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Abranches",
+               "short_name" : "Abranches",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82130-210",
+               "short_name" : "82130-210",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Padre José Joaquim Goral, 182 - Abranches, Curitiba - PR, 82130-210, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.3840761,
+               "lng" : -49.2718717
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.38272711970849,
+                  "lng" : -49.2705227197085
+               },
+               "southwest" : {
+                  "lat" : -25.3854250802915,
+                  "lng" : -49.2732206802915
+               }
+            }
+         },
+         "place_id" : "ChIJIb2fBsXm3JQR5_5TosqtsaE",
+         "plus_code" : {
+            "compound_code" : "JP8H+97 Curitiba, State of Paraná, Brazil",
+            "global_code" : "586GJP8H+97"
+         },
+         "types" : [ "establishment", "point_of_interest", "school" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "419",
+               "short_name" : "419",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Padre José Joaquim Goral",
+               "short_name" : "R. Padre José Joaquim Goral",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Abranches",
+               "short_name" : "Abranches",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82130-210",
+               "short_name" : "82130-210",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Padre José Joaquim Goral, 419 - Abranches, Curitiba - PR, 82130-210, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.3845663,
+               "lng" : -49.272526
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3832173197085,
+                  "lng" : -49.2711770197085
+               },
+               "southwest" : {
+                  "lat" : -25.3859152802915,
+                  "lng" : -49.2738749802915
+               }
+            }
+         },
+         "place_id" : "Ek9SLiBQYWRyZSBKb3PDqSBKb2FxdWltIEdvcmFsLCA0MTkgLSBBYnJhbmNoZXMsIEN1cml0aWJhIC0gUFIsIDgyMTMwLTIxMCwgQnJhemlsIhsSGQoUChIJKaEHEsXm3JQRbFzU9zJ0FWMQowM",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "529-347",
+               "short_name" : "529-347",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Padre José Joaquim Goral",
+               "short_name" : "R. Padre José Joaquim Goral",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Abranches",
+               "short_name" : "Abranches",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82130-210",
+               "short_name" : "82130-210",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "R. Padre José Joaquim Goral, 529-347 - Abranches, Curitiba - PR, 82130-210, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3839516,
+                  "lng" : -49.2718449
+               },
+               "southwest" : {
+                  "lat" : -25.3848724,
+                  "lng" : -49.27315549999999
+               }
+            },
+            "location" : {
+               "lat" : -25.3844978,
+               "lng" : -49.2724252
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3830630197085,
+                  "lng" : -49.2711512197085
+               },
+               "southwest" : {
+                  "lat" : -25.3857609802915,
+                  "lng" : -49.2738491802915
+               }
+            }
+         },
+         "place_id" : "ChIJKaEHEsXm3JQRbFzU9zJ0FWM",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "82130-210",
+               "short_name" : "82130-210",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Abranches",
+               "short_name" : "Abranches",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Abranches, Curitiba - State of Paraná, 82130-210, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3821597,
+                  "lng" : -49.27142569999999
+               },
+               "southwest" : {
+                  "lat" : -25.3850753,
+                  "lng" : -49.2734023
+               }
+            },
+            "location" : {
+               "lat" : -25.3836406,
+               "lng" : -49.2724206
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3821597,
+                  "lng" : -49.2710650197085
+               },
+               "southwest" : {
+                  "lat" : -25.3850753,
+                  "lng" : -49.2737629802915
+               }
+            }
+         },
+         "place_id" : "ChIJu1SDMcXm3JQR5hM_K7BAXTM",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "82120",
+               "short_name" : "82120",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Pilarzinho",
+               "short_name" : "Pilarzinho",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pilarzinho, Curitiba - State of Paraná, 82120, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3793311,
+                  "lng" : -49.27022909999999
+               },
+               "southwest" : {
+                  "lat" : -25.3981588,
+                  "lng" : -49.28801050000001
+               }
+            },
+            "location" : {
+               "lat" : -25.3876214,
+               "lng" : -49.2816082
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3793311,
+                  "lng" : -49.27022909999999
+               },
+               "southwest" : {
+                  "lat" : -25.3981588,
+                  "lng" : -49.28801050000001
+               }
+            }
+         },
+         "place_id" : "ChIJJcSPAszm3JQRAwB9Y91B3xw",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Abranches",
+               "short_name" : "Abranches",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Abranches, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3467369,
+                  "lng" : -49.2649181
+               },
+               "southwest" : {
+                  "lat" : -25.3877003,
+                  "lng" : -49.2820398
+               }
+            },
+            "location" : {
+               "lat" : -25.3705231,
+               "lng" : -49.2705171
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3467369,
+                  "lng" : -49.2649181
+               },
+               "southwest" : {
+                  "lat" : -25.3877003,
+                  "lng" : -49.2820398
+               }
+            }
+         },
+         "place_id" : "ChIJ9y3fDyXn3JQRKercW0D-uxc",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boa Vista",
+               "short_name" : "Boa Vista",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Boa Vista, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1914303
+               },
+               "southwest" : {
+                  "lat" : -25.4313697,
+                  "lng" : -49.2815916
+               }
+            },
+            "location" : {
+               "lat" : -25.3886823,
+               "lng" : -49.2334685
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1914303
+               },
+               "southwest" : {
+                  "lat" : -25.4313697,
+                  "lng" : -49.2815916
+               }
+            }
+         },
+         "place_id" : "ChIJ4yXhiYjm3JQRib7FMdA38u0",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba, State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4289541,
+               "lng" : -49.267137
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            }
+         },
+         "place_id" : "ChIJ3bPNUVPj3JQRCejLuqVrL20",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4808762,
+               "lng" : -49.3044253
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            }
+         },
+         "place_id" : "ChIJ8Q8J_PXj3JQRR7crCbCDejw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            },
+            "location" : {
+               "lat" : -25.2520888,
+               "lng" : -52.0215415
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            }
+         },
+         "place_id" : "ChIJnWK4MJQL25QRYfDOY1D9k-g",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

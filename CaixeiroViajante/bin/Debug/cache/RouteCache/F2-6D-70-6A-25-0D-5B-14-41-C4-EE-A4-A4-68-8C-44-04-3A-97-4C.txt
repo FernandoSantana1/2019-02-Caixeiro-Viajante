@@ -1,0 +1,298 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJmaXy2j_k3JQRaTdeY5Fv8r8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EktBdi4gUHJlZmVpdG8gTWF1csOtY2lvIEZydWV0LCAyNDYgLSBKYXJkaW0gQm90w6JuaWNvLCBDdXJpdGliYSAtIFBSLCBCcmF6aWwiGxIZChQKEgkRbbEDB-XclBGoVWgO2J2PrBD2AQ",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.4261382,
+               "lng" : -49.2373246
+            },
+            "southwest" : {
+               "lat" : -25.4412525,
+               "lng" : -49.2651984
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "4.3 km",
+                  "value" : 4261
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 744
+               },
+               "end_address" : "Av. Prefeito Maurício Fruet, 246 - Jardim Botânico, Curitiba - PR, 82590-100, Brazil",
+               "end_location" : {
+                  "lat" : -25.4410995,
+                  "lng" : -49.2377926
+               },
+               "start_address" : "R. Conselheiro Araújo, 80 - Centro, Curitiba - PR, 80060-230, Brazil",
+               "start_location" : {
+                  "lat" : -25.4261382,
+                  "lng" : -49.2634064
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 180
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 49
+                     },
+                     "end_location" : {
+                        "lat" : -25.4268328,
+                        "lng" : -49.26502439999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouthwest\u003c/b\u003e on \u003cb\u003eR. Conselheiro Araújo\u003c/b\u003e toward \u003cb\u003eLargo Bittencourt\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eR. Mariano Torres\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "j`ezChwtkHFTd@tAZhARn@JXLVPh@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4261382,
+                        "lng" : -49.2634064
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "41 m",
+                        "value" : 41
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 13
+                     },
+                     "end_location" : {
+                        "lat" : -25.4270417,
+                        "lng" : -49.2650401
+                     },
+                     "html_instructions" : "Sharp \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Luiz Leão\u003c/b\u003e",
+                     "maneuver" : "turn-sharp-left",
+                     "polyline" : {
+                        "points" : "tdezCjaukHFPDPLQLM"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4268328,
+                        "lng" : -49.26502439999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "63 m",
+                        "value" : 63
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 27
+                     },
+                     "end_location" : {
+                        "lat" : -25.4275478,
+                        "lng" : -49.2647633
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eJardim Leonor Twardowski\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "~eezCnaukHVSlAc@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4270417,
+                        "lng" : -49.2650401
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1148
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 235
+                     },
+                     "end_location" : {
+                        "lat" : -25.4371007,
+                        "lng" : -49.260524
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eR. Tibagi\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "diezCv_ukHdAa@b@Qr@SdAUHCVGt@OpBu@fA_@bBs@LGtAc@dAYbAWx@]x@]xEyAn@UnAa@VIdBg@\\K`Cs@LELGLKNEfBo@b@Mt@Wf@SBADER["
+                     },
+                     "start_location" : {
+                        "lat" : -25.4275478,
+                        "lng" : -49.2647633
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 845
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 87
+                     },
+                     "end_location" : {
+                        "lat" : -25.4412525,
+                        "lng" : -49.2539028
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eViaduto Colorado\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "zdgzCfetkH~@kAjBgClAcBdAiABEXU~@o@l@e@HGBADEf@]ROh@c@XURST[PYNYXy@BI@G@C@IDMDk@Bk@@]?M@q@B[NmAVqANk@Ja@Ps@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4371007,
+                        "lng" : -49.260524
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 1024
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 142
+                     },
+                     "end_location" : {
+                        "lat" : -25.4375725,
+                        "lng" : -49.2445623
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Brasílio Itiberê\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "x~gzCz{rkHGWs@qCa@}AQm@COEOm@wBo@yB{@wC_@iACOEOGOEQk@iBi@iBe@_Bc@}Ac@wAIWQi@Ma@m@uBm@uBe@uASq@O]"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4412525,
+                        "lng" : -49.2539028
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 608
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 87
+                     },
+                     "end_location" : {
+                        "lat" : -25.4399305,
+                        "lng" : -49.2391975
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAv. Dr. Dário Lopes dos Santos\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "xggzCnaqkH\\kA@CJ]FQ`@gAHUJ]Lg@t@gEHi@VyA^aCNc@HMrByCd@o@p@aA"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4375725,
+                        "lng" : -49.2445623
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "75 m",
+                        "value" : 75
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : -25.4395276,
+                        "lng" : -49.2386249
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Engo. Ostoja Roguski\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "pvgzC~_pkHc@e@EEKIOS?M?EIU"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4399305,
+                        "lng" : -49.2391975
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "24 m",
+                        "value" : 24
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : -25.4397031,
+                        "lng" : -49.23848779999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "`tgzCj|okHHGNIFG"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4395276,
+                        "lng" : -49.2386249
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 253
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 80
+                     },
+                     "end_location" : {
+                        "lat" : -25.4410995,
+                        "lng" : -49.2377926
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "bugzCp{okHAECSCSAI?G?G@E@GBGBGDG?ABGDEBCLG\\UnAy@PGLCBAB?HAXF@@@@@B@BVl@ZZ"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4397031,
+                        "lng" : -49.23848779999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "j`ezChwtkH|AdFXp@Xz@DPLQd@a@rCeAvAe@|Cq@xDuApB{@zC}@bAWx@]x@]xEyA~Bw@|GqBZM\\QhFiB|AoBxDkFhAoApCsBdAu@bAy@h@o@`@s@\\cAJc@HwA@k@DmANmAVqAZmAPs@GWuAoFU}@_DyKq@yBeF}PoCcJc@oA^oA~@mCXeA~@qFv@{EXq@xCiEp@aAc@e@QOOS?MI[XQFGAEGg@AQ@MN_@LSj@]`BaA^GZHBDXp@ZZ"
+         },
+         "summary" : "R. Tibagi",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

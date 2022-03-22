@@ -1,0 +1,300 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJVbLwfN_j3JQRgdJfUWgsYoI",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJmaXy2j_k3JQRaTdeY5Fv8r8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.422928,
+               "lng" : -49.2626014
+            },
+            "southwest" : {
+               "lat" : -25.4324054,
+               "lng" : -49.306454
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "5.4 km",
+                  "value" : 5357
+               },
+               "duration" : {
+                  "text" : "17 mins",
+                  "value" : 1042
+               },
+               "end_address" : "R. Conselheiro Araújo, 80 - Centro, Curitiba - PR, 80060-230, Brazil",
+               "end_location" : {
+                  "lat" : -25.4261382,
+                  "lng" : -49.2634064
+               },
+               "start_address" : "Av. Cândido Hartmann, 2297 - Bigorrilho, Curitiba - PR, 80710-410, Brazil",
+               "start_location" : {
+                  "lat" : -25.4236698,
+                  "lng" : -49.306454
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "77 m",
+                        "value" : 77
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : -25.4237871,
+                        "lng" : -49.30570119999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e toward \u003cb\u003eRua Doutor Aluízio França\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "|pdzChd}kHVuC"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4236698,
+                        "lng" : -49.306454
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 102
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 67
+                     },
+                     "end_location" : {
+                        "lat" : -25.4229378,
+                        "lng" : -49.3053106
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eRua Doutor Aluízio França\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "tqdzCr_}kHc@OA?_@Q_@OcA["
+                     },
+                     "start_location" : {
+                        "lat" : -25.4237871,
+                        "lng" : -49.30570119999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 971
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 137
+                     },
+                     "end_location" : {
+                        "lat" : -25.4275154,
+                        "lng" : -49.2975037
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAv. Cândido Hartmann\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "jldzCd}|kHA{@?W?W?A?OBQ@KDS@ODYJi@Lm@FUJUJSV_@LODKHQFOx@gDHWFKFGHEVKJEFEDCDEDIDKBMBODKFMHKJINKLELIVQHKX_@RYx@mAd@o@PUHK`@i@`@]`@]v@u@?ARWRYLSHO@ERe@b@kA\\y@@MJa@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4229378,
+                        "lng" : -49.3053106
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 607
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 122
+                     },
+                     "end_location" : {
+                        "lat" : -25.4324054,
+                        "lng" : -49.2949037
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. Francisco Rocha\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "~hezCjl{kHJDF@F?BABArAi@dCiA~@e@^QDCxBaA`Aa@j@Yz@a@v@]lAi@JEBCNIpAo@pAo@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4275154,
+                        "lng" : -49.2975037
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.9 km",
+                        "value" : 1854
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 289
+                     },
+                     "end_location" : {
+                        "lat" : -25.4257321,
+                        "lng" : -49.2779886
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eRua Martim Afonso\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "pgfzCb|zkHo@uBk@kBoAsEESq@wB]gA[gAMc@i@oBi@oBOg@YiAw@_Cs@{BkA{Dg@mBOi@WaAQi@i@iBs@gCk@sBm@sBm@mBACm@yB]gAc@{A_AcDYaAWy@o@{B]gA]eAQo@Oe@Ok@K["
+                     },
+                     "start_location" : {
+                        "lat" : -25.4324054,
+                        "lng" : -49.2949037
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.2 km",
+                        "value" : 1236
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 246
+                     },
+                     "end_location" : {
+                        "lat" : -25.4278502,
+                        "lng" : -49.2659282
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eR. Treze de Maio\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "x}dzClrwkH?EAGAA?IAK@GJmADg@De@BUZuC@KViCR{AFq@BOJ}@P{AFc@Dg@LmAPeBD_@Fe@NmATkB@SLmA@UHmADi@VoBPmBFk@Hc@?UBWJaAJaALkAFo@Fq@JgAJy@DYBM"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4257321,
+                        "lng" : -49.2779886
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "16 m",
+                        "value" : 16
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : -25.4279866,
+                        "lng" : -49.2658638
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. Conselheiro Laurindo\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "`kezC`gukHZM"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4278502,
+                        "lng" : -49.2659282
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 360
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 98
+                     },
+                     "end_location" : {
+                        "lat" : -25.4266393,
+                        "lng" : -49.2626014
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Amintas de Barros\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "|kezCrfukHs@_Cc@{AW{@U{@GOGSi@uAWs@GOm@yB"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4279866,
+                        "lng" : -49.2658638
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "84 m",
+                        "value" : 84
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 33
+                     },
+                     "end_location" : {
+                        "lat" : -25.4259521,
+                        "lng" : -49.2629543
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Dr. Faivre\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ncezCfrtkHcAb@eA`@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4266393,
+                        "lng" : -49.2626014
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "50 m",
+                        "value" : 50
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 12
+                     },
+                     "end_location" : {
+                        "lat" : -25.4261382,
+                        "lng" : -49.2634064
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003eR. Conselheiro Araújo\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "d_ezClttkHd@zA"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4259521,
+                        "lng" : -49.2629543
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "|pdzChd}kHVuCc@Oa@QcBk@AsAB{@NiAXwARk@b@s@R[Pa@bA_ENS`@QRKJIJUF]LYTUbAm@rDeF`@i@`@]xAsAt@gAbAgC\\y@@MJa@JDN@FCxEsB~Aw@~BeAlB{@lEoBvDmBqDiMyBkH}BqIkB{FkA{Dg@mBg@kB{@sC_B{F{AaFqBaH_G_S[mAE_@XcDx@aIjAcKl@yFt@{GJcB\\yCXyCHy@h@gFf@cFHg@ZMs@_C{@wC]kAqAmDm@yBcAb@eA`@d@zA"
+         },
+         "summary" : "Rua Martim Afonso",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

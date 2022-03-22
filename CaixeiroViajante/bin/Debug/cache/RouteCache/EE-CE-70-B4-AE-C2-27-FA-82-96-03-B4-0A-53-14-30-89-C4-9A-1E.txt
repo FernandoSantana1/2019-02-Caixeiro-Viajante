@@ -1,0 +1,277 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ_1f4AdDm3JQRl3HhR89rCQw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJOdStSh7k3JQRL8pFykxe0PY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.3827215,
+               "lng" : -49.2676162
+            },
+            "southwest" : {
+               "lat" : -25.4096614,
+               "lng" : -49.2757748
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "4.2 km",
+                  "value" : 4202
+               },
+               "duration" : {
+                  "text" : "10 mins",
+                  "value" : 575
+               },
+               "end_address" : "R. Mal. Hermes, 999 - Centro Cívico, Curitiba - PR, 80530-230, Brazil",
+               "end_location" : {
+                  "lat" : -25.4094687,
+                  "lng" : -49.2676162
+               },
+               "start_address" : "Rua Benedito Correia de Freitas, 138 - Abranches, Curitiba - PR, 82130-240, Brazil",
+               "start_location" : {
+                  "lat" : -25.3827215,
+                  "lng" : -49.2742835
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 138
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 18
+                     },
+                     "end_location" : {
+                        "lat" : -25.3838127,
+                        "lng" : -49.2737232
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eRua Benedito Correia de Freitas\u003c/b\u003e toward \u003cb\u003eR. Antônio Krainiski\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "~p|yCf{vkHP@XAVCNEJEJGNMDELKPOPMROPI"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3827215,
+                        "lng" : -49.2742835
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 232
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 36
+                     },
+                     "end_location" : {
+                        "lat" : -25.3856247,
+                        "lng" : -49.27483770000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. Antônio Krainiski\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "xw|yCvwvkHLNTRJHPJRL~At@`A`@pAl@^P"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3838127,
+                        "lng" : -49.2737232
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 423
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 54
+                     },
+                     "end_location" : {
+                        "lat" : -25.3872785,
+                        "lng" : -49.2711522
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. João Gava\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "bc}yCv~vkHj@sDBQHg@BMHg@F]DWF_@F[FWHUHOHMFKFGDGFIBCBEHIHIJMFKHIFIJKHMHKJKHMLSFODIBIHU"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3856247,
+                        "lng" : -49.27483770000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 191
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 32
+                     },
+                     "end_location" : {
+                        "lat" : -25.388664,
+                        "lng" : -49.2722668
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. João Enéas de Sá\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "nm}yCtgvkHRPLL`@ZFDTPf@X@@h@ZNJPLLLl@j@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3872785,
+                        "lng" : -49.2711522
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.8 km",
+                        "value" : 1841
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 183
+                     },
+                     "end_location" : {
+                        "lat" : -25.404533,
+                        "lng" : -49.2757748
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Nilo Peçanha\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "bv}yCtnvkHLIDENGFAD?NCL?F?L@L@`AJjBNPBzBP~@JzCXH@xALh@FfAHl@BjAFlBBbA?f@FN@l@NrCt@NFXF^J`@Jj@F`CDx@BfA@X@Z@x@DL@H@J@D@T@h@Jf@Nx@`@z@`@l@Vl@Xx@f@x@f@ZVXX`@X^PH@`CJZ@Z@x@UPEJCHAF?HAF?PBTHv@T`@L~Af@~Ab@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.388664,
+                        "lng" : -49.2722668
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 722
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 113
+                     },
+                     "end_location" : {
+                        "lat" : -25.4049572,
+                        "lng" : -49.2686042
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Albano Reis\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "hy`zCpdwkHLkDF{BBiATmGFkCBiABaAD}BDmBBc@DaBBmA@GEy@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.404533,
+                        "lng" : -49.2757748
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 509
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 85
+                     },
+                     "end_location" : {
+                        "lat" : -25.4089048,
+                        "lng" : -49.2680263
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eR. Viêira dos Santos\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "~{`zCvwukH@??A@??A@??AT?LCfABjBFhBFfBHxADvADlBD^@JAD?@A@?@A@C@E?MB_@B{A"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4049572,
+                        "lng" : -49.2686042
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 125
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 43
+                     },
+                     "end_location" : {
+                        "lat" : -25.4096522,
+                        "lng" : -49.2676671
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "rtazCdtukHZD|ARD?DC@EBQFc@BU?E?AAC"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4089048,
+                        "lng" : -49.2680263
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "21 m",
+                        "value" : 21
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 11
+                     },
+                     "end_location" : {
+                        "lat" : -25.4094687,
+                        "lng" : -49.2676162
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "hyazC|qukHc@I"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4096522,
+                        "lng" : -49.2676671
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "~p|yCf{vkHj@?f@Il@a@dAy@PILN`@\\d@X`DvApB~@n@eE^{B\\kBRe@PYX]hAsAh@s@^w@HURPn@h@fAr@x@f@^Zl@j@LITMj@EdBNxHp@hHp@tBLxDJbA?f@FN@l@NbD|@x@R`@Jj@FzDHvDJh@F~@Lf@Nx@`@hBx@fB`Ax@f@ZVz@r@h@R|CLZ@x@U\\Ib@Cf@LxAb@~DjATgHXwIJuERqIHoDCaABA@A?Ab@CrDJbK\\lCFPAFGHoCxBXJCPqA?GACc@I"
+         },
+         "summary" : "R. Nilo Peçanha",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

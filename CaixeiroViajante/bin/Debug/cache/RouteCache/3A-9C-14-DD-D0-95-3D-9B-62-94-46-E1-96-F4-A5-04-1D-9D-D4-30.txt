@@ -1,0 +1,276 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJiQDa2hPk3JQRc4hsE6ToSv0",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJVbLwfN_j3JQRgdJfUWgsYoI",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.4229299,
+               "lng" : -49.2705813
+            },
+            "southwest" : {
+               "lat" : -25.4306399,
+               "lng" : -49.306454
+            }
+         },
+         "copyrights" : "Map data ©2019",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "4.6 km",
+                  "value" : 4618
+               },
+               "duration" : {
+                  "text" : "12 mins",
+                  "value" : 734
+               },
+               "end_address" : "Av. Cândido Hartmann, 2297 - Bigorrilho, Curitiba - PR, 80710-410, Brazil",
+               "end_location" : {
+                  "lat" : -25.4236698,
+                  "lng" : -49.306454
+               },
+               "start_address" : "R. Barão do Serro Azul, 335 - Centro, Curitiba - PR, 80020-180, Brazil",
+               "start_location" : {
+                  "lat" : -25.4261496,
+                  "lng" : -49.2705813
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 174
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 38
+                     },
+                     "end_location" : {
+                        "lat" : -25.4276821,
+                        "lng" : -49.27093559999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eR. Barão do Serro Azul\u003c/b\u003e toward \u003cb\u003eR. Treze de Maio\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "l`ezCbdvkHnAP`@Fv@HfBZ^F"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4261496,
+                        "lng" : -49.2705813
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 249
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 39
+                     },
+                     "end_location" : {
+                        "lat" : -25.4285215,
+                        "lng" : -49.2731709
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eTv. Nestor de Castro\u003c/b\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "~iezCjfvkHZLFDDJLZRlAHh@F^DTDNF`@TdA^zA"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4276821,
+                        "lng" : -49.27093559999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "90 m",
+                        "value" : 90
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 10
+                     },
+                     "end_location" : {
+                        "lat" : -25.4285492,
+                        "lng" : -49.2740462
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e to stay on \u003cb\u003eTv. Nestor de Castro\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "foezChtvkHBJBL@JBL@J?J?NAL?JAJAJANAH?@?D"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4285215,
+                        "lng" : -49.2731709
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 725
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 108
+                     },
+                     "end_location" : {
+                        "lat" : -25.4306399,
+                        "lng" : -49.2808575
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eAlameda Augusto Stellfeld\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "loezCxyvkH?F?B?JAR?D?H@H@L@JBJDRBLFTBHLn@ZzAZzA`@lBb@lBZvAXtAb@pBb@rBTv@J\\@HFPNj@t@tCFV"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4285492,
+                        "lng" : -49.2740462
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 657
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 128
+                     },
+                     "end_location" : {
+                        "lat" : -25.425217,
+                        "lng" : -49.2834561
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. Visc. do Rio Branco\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "n|ezCjdxkHUJ{@ZIBgAb@MDeAb@a@La@Lk@Tk@TqBt@qBt@y@ZQF_@N}Aj@sAf@g@R_@L}An@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4306399,
+                        "lng" : -49.2808575
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.2 km",
+                        "value" : 1168
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 158
+                     },
+                     "end_location" : {
+                        "lat" : -25.4294126,
+                        "lng" : -49.2941164
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Padre Agostinho\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "rzdzCrtxkHl@rBl@rBj@jBp@vB\\nAV|@v@jCdApDH^X`At@hCZfANb@DPp@|Bj@lB?@j@lBh@lBj@jBh@lBr@bCDLFZ"
+                     },
+                     "start_location" : {
+                        "lat" : -25.425217,
+                        "lng" : -49.2834561
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.4 km",
+                        "value" : 1376
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 182
+                     },
+                     "end_location" : {
+                        "lat" : -25.4229378,
+                        "lng" : -49.3053106
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAv. Cândido Hartmann\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "xtezCfwzkHi@XMXOr@KXQb@IROb@Uf@w@bBkBvDINCDOZM\\GTKZK`@AL]x@c@jASd@ADINMRSXSV?@w@t@a@\\a@\\a@h@IJQTe@n@y@lASXY^IJWPMHMDOJKHIJGLEJCNCLEJEHEDEBGDKDWJIDGFGJIVy@fDGNIPEJMNW^KRKTGTMl@Kh@EXANERAJCP?N?@?V?V@z@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4294126,
+                        "lng" : -49.2941164
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 102
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 28
+                     },
+                     "end_location" : {
+                        "lat" : -25.4237871,
+                        "lng" : -49.30570119999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eRua Doutor Aluízio França\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "jldzCd}|kHbAZ^N^P@?b@N"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4229378,
+                        "lng" : -49.3053106
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "77 m",
+                        "value" : 77
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 43
+                     },
+                     "end_location" : {
+                        "lat" : -25.4236698,
+                        "lng" : -49.306454
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "tqdzCr_}kHWtC"
+                     },
+                     "start_location" : {
+                        "lat" : -25.4237871,
+                        "lng" : -49.30570119999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "l`ezCbdvkHpBXv@HfBZ^FZLLPLZRlAPhAh@lCh@`CDX?ZEp@C`@?dALx@\\|AzFfXj@pBdA`EFVUJeA^uAh@uDtAmPhGgA`@}An@l@rBxA~EnAfE~CzKzBvHnGtTx@pCFZi@XMXOr@]|@Yv@mAjCiChFm@pBAL]x@w@pBm@bASXyArAa@\\a@h@IJeClDc@j@e@Z]PUTMXG\\KTKHu@\\ORcA~DQ`@SZc@r@Sj@a@`CG^C`@@lBbBj@`@Pb@NWtC"
+         },
+         "summary" : "R. Padre Agostinho and Av. Cândido Hartmann",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

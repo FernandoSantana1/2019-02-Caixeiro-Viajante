@@ -1,0 +1,367 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "HWV2+6C Piraquara, PR, Brazil",
+      "global_code" : "586GHWV2+6C"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "3411",
+               "short_name" : "3411",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Ks-6",
+               "short_name" : "R. Ks-6",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vila Militar I",
+               "short_name" : "Vila Militar I",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Piraquara",
+               "short_name" : "Piraquara",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "R. Ks-6, 3411 - Vila Militar I, Piraquara - PR, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.4157764,
+               "lng" : -49.0990872
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.4144274197085,
+                  "lng" : -49.0977382197085
+               },
+               "southwest" : {
+                  "lat" : -25.4171253802915,
+                  "lng" : -49.1004361802915
+               }
+            }
+         },
+         "place_id" : "EjZSLiBLcy02LCAzNDExIC0gVmlsYSBNaWxpdGFyIEksIFBpcmFxdWFyYSAtIFBSLCBCcmF6aWwiGxIZChQKEgkprikpx-3clBEbn1R3TwCU6hDTGg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "850-3412",
+               "short_name" : "850-3412",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Ks-6",
+               "short_name" : "R. Ks-6",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vila Militar I",
+               "short_name" : "Vila Militar I",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Piraquara",
+               "short_name" : "Piraquara",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "R. Ks-6, 850-3412 - Vila Militar I, Piraquara - PR, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.4157477,
+                  "lng" : -49.0975952
+               },
+               "southwest" : {
+                  "lat" : -25.4183869,
+                  "lng" : -49.0991036
+               }
+            },
+            "location" : {
+               "lat" : -25.4170673,
+               "lng" : -49.0983494
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.41571831970849,
+                  "lng" : -49.0970004197085
+               },
+               "southwest" : {
+                  "lat" : -25.4184162802915,
+                  "lng" : -49.0996983802915
+               }
+            }
+         },
+         "place_id" : "ChIJKa4pKcft3JQRGp9Ud08AlOo",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vila Militar I",
+               "short_name" : "Vila Militar I",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Piraquara",
+               "short_name" : "Piraquara",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vila Militar I, Piraquara - PR, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3951882,
+                  "lng" : -49.0635681
+               },
+               "southwest" : {
+                  "lat" : -25.4319194,
+                  "lng" : -49.1051932
+               }
+            },
+            "location" : {
+               "lat" : -25.4128584,
+               "lng" : -49.0867644
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3951882,
+                  "lng" : -49.0635681
+               },
+               "southwest" : {
+                  "lat" : -25.4319194,
+                  "lng" : -49.1051932
+               }
+            }
+         },
+         "place_id" : "ChIJM5l5S5zt3JQRcj7QbPYRcTc",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Piraquara",
+               "short_name" : "Piraquara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Piraquara",
+               "short_name" : "Piraquara",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Piraquara, PR, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3951882,
+                  "lng" : -48.9724276
+               },
+               "southwest" : {
+                  "lat" : -25.5400055,
+                  "lng" : -49.1733267
+               }
+            },
+            "location" : {
+               "lat" : -25.4426635,
+               "lng" : -49.0628847
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3951882,
+                  "lng" : -48.9724276
+               },
+               "southwest" : {
+                  "lat" : -25.5400055,
+                  "lng" : -49.1733267
+               }
+            }
+         },
+         "place_id" : "ChIJ958nlgTz3JQR3XRdCat3hMw",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Piraquara",
+               "short_name" : "Piraquara",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Piraquara - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3864251,
+                  "lng" : -48.9409814
+               },
+               "southwest" : {
+                  "lat" : -25.5507138,
+                  "lng" : -49.1755766
+               }
+            },
+            "location" : {
+               "lat" : -25.4425825,
+               "lng" : -49.0628796
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3864251,
+                  "lng" : -48.9409814
+               },
+               "southwest" : {
+                  "lat" : -25.5507138,
+                  "lng" : -49.1755766
+               }
+            }
+         },
+         "place_id" : "ChIJuQGTLJHy3JQR9rdtm8GDnh0",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            },
+            "location" : {
+               "lat" : -25.2520888,
+               "lng" : -52.0215415
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            }
+         },
+         "place_id" : "ChIJnWK4MJQL25QRYfDOY1D9k-g",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

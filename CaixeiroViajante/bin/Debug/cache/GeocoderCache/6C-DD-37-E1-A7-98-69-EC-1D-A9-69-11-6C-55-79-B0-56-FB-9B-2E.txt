@@ -1,0 +1,802 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "JQ63+R8 Curitiba, State of Paraná, Brazil",
+      "global_code" : "586GJQ63+R8"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "855",
+               "short_name" : "855",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Brigadeiro Arthur Carlos Peralta",
+               "short_name" : "Rua Brigadeiro Arthur Carlos Peralta",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Boa Vista",
+               "short_name" : "Boa Vista",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82560-030",
+               "short_name" : "82560-030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Brigadeiro Arthur Carlos Peralta, 855 - Boa Vista, Curitiba - PR, 82560-030, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.3879088,
+               "lng" : -49.2466766
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.38655981970849,
+                  "lng" : -49.2453276197085
+               },
+               "southwest" : {
+                  "lat" : -25.3892577802915,
+                  "lng" : -49.2480255802915
+               }
+            }
+         },
+         "place_id" : "ChIJ9Uo014vm3JQRjzU8RHqcaGQ",
+         "plus_code" : {
+            "compound_code" : "JQ63+R8 Curitiba, State of Paraná, Brazil",
+            "global_code" : "586GJQ63+R8"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "881",
+               "short_name" : "881",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Brigadeiro Arthur Carlos Peralta",
+               "short_name" : "Rua Brigadeiro Arthur Carlos Peralta",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Boa Vista",
+               "short_name" : "Boa Vista",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82560-030",
+               "short_name" : "82560-030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Brigadeiro Arthur Carlos Peralta, 881 - Boa Vista, Curitiba - PR, 82560-030, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3877395,
+                  "lng" : -49.2468544
+               },
+               "southwest" : {
+                  "lat" : -25.3880167,
+                  "lng" : -49.2471446
+               }
+            },
+            "location" : {
+               "lat" : -25.3878637,
+               "lng" : -49.2469839
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3865291197085,
+                  "lng" : -49.2456505197085
+               },
+               "southwest" : {
+                  "lat" : -25.3892270802915,
+                  "lng" : -49.2483484802915
+               }
+            }
+         },
+         "place_id" : "ChIJYRoC24vm3JQR5JTWyUb3KiU",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "892",
+               "short_name" : "892",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Brigadeiro Arthur Carlos Peralta",
+               "short_name" : "Rua Brigadeiro Arthur Carlos Peralta",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Boa Vista",
+               "short_name" : "Boa Vista",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82560-030",
+               "short_name" : "82560-030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Brigadeiro Arthur Carlos Peralta, 892 - Boa Vista, Curitiba - PR, 82560-030, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.3875526,
+               "lng" : -49.24679889999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3862036197085,
+                  "lng" : -49.24544991970849
+               },
+               "southwest" : {
+                  "lat" : -25.3889015802915,
+                  "lng" : -49.24814788029149
+               }
+            }
+         },
+         "place_id" : "ChIJt1kQxYvm3JQRKd8r7bfS0KU",
+         "plus_code" : {
+            "compound_code" : "JQ63+X7 Curitiba, State of Paraná, Brazil",
+            "global_code" : "586GJQ63+X7"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "David Geronasso, 947 - Boa Vista",
+               "short_name" : "David Geronasso, 947 - Boa Vista",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Boa Vista",
+               "short_name" : "Boa Vista",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82560-030",
+               "short_name" : "82560-030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "David Geronasso, 947 - Boa Vista - Boa Vista, Curitiba - PR, 82560-030, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.3878597,
+               "lng" : -49.2473116
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3865107197085,
+                  "lng" : -49.2459626197085
+               },
+               "southwest" : {
+                  "lat" : -25.3892086802915,
+                  "lng" : -49.2486605802915
+               }
+            }
+         },
+         "place_id" : "ChIJUSk_3Yvm3JQRjARm8G-EhdQ",
+         "plus_code" : {
+            "compound_code" : "JQ63+V3 Curitiba, State of Paraná, Brazil",
+            "global_code" : "586GJQ63+V3"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "858",
+               "short_name" : "858",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Brigadeiro Arthur Carlos Peralta",
+               "short_name" : "Rua Brigadeiro Arthur Carlos Peralta",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Boa Vista",
+               "short_name" : "Boa Vista",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82560-030",
+               "short_name" : "82560-030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Brigadeiro Arthur Carlos Peralta, 858 - Boa Vista, Curitiba - PR, 82560-030, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -25.3878046,
+               "lng" : -49.2466316
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3864556197085,
+                  "lng" : -49.2452826197085
+               },
+               "southwest" : {
+                  "lat" : -25.3891535802915,
+                  "lng" : -49.2479805802915
+               }
+            }
+         },
+         "place_id" : "EldSdWEgQnJpZ2FkZWlybyBBcnRodXIgQ2FybG9zIFBlcmFsdGEsIDg1OCAtIEJvYSBWaXN0YSwgQ3VyaXRpYmEgLSBQUiwgODI1NjAtMDMwLCBCcmF6aWwiGxIZChQKEgntaOLQi-bclBEqciGKXtR9gxDaBg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "822-924",
+               "short_name" : "822-924",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Rua Brigadeiro Arthur Carlos Peralta",
+               "short_name" : "Rua Brigadeiro Arthur Carlos Peralta",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Boa Vista",
+               "short_name" : "Boa Vista",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82560-030",
+               "short_name" : "82560-030",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rua Brigadeiro Arthur Carlos Peralta, 822-924 - Boa Vista, Curitiba - PR, 82560-030, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3874773,
+                  "lng" : -49.2462521
+               },
+               "southwest" : {
+                  "lat" : -25.3880854,
+                  "lng" : -49.2470738
+               }
+            },
+            "location" : {
+               "lat" : -25.3877813,
+               "lng" : -49.2466629
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3864323697085,
+                  "lng" : -49.2453139697085
+               },
+               "southwest" : {
+                  "lat" : -25.3891303302915,
+                  "lng" : -49.2480119302915
+               }
+            }
+         },
+         "place_id" : "ChIJ7Wji0Ivm3JQRKnIhil7UfYM",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "82560-370",
+               "short_name" : "82560-370",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Boa Vista",
+               "short_name" : "Boa Vista",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Boa Vista, Curitiba - State of Paraná, 82560-370, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3863734,
+                  "lng" : -49.2448663
+               },
+               "southwest" : {
+                  "lat" : -25.3913107,
+                  "lng" : -49.2486661
+               }
+            },
+            "location" : {
+               "lat" : -25.3891903,
+               "lng" : -49.2470799
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3863734,
+                  "lng" : -49.2448663
+               },
+               "southwest" : {
+                  "lat" : -25.3913107,
+                  "lng" : -49.2486661
+               }
+            }
+         },
+         "place_id" : "ChIJZZeqLorm3JQRM2xLAIUDxMo",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "82560",
+               "short_name" : "82560",
+               "types" : [ "postal_code", "postal_code_prefix" ]
+            },
+            {
+               "long_name" : "Boa Vista",
+               "short_name" : "Boa Vista",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Boa Vista, Curitiba - State of Paraná, 82560, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3772091,
+                  "lng" : -49.2386618
+               },
+               "southwest" : {
+                  "lat" : -25.3912371,
+                  "lng" : -49.2570033
+               }
+            },
+            "location" : {
+               "lat" : -25.3855732,
+               "lng" : -49.2461329
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3772091,
+                  "lng" : -49.2386618
+               },
+               "southwest" : {
+                  "lat" : -25.3912371,
+                  "lng" : -49.2570033
+               }
+            }
+         },
+         "place_id" : "ChIJd5oST4vm3JQRK46jpyevgaM",
+         "types" : [ "postal_code", "postal_code_prefix" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boa Vista",
+               "short_name" : "Boa Vista",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Boa Vista, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.3716464,
+                  "lng" : -49.2323934
+               },
+               "southwest" : {
+                  "lat" : -25.4010466,
+                  "lng" : -49.2616416
+               }
+            },
+            "location" : {
+               "lat" : -25.388446,
+               "lng" : -49.2436556
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.3716464,
+                  "lng" : -49.2323934
+               },
+               "southwest" : {
+                  "lat" : -25.4010466,
+                  "lng" : -49.2616416
+               }
+            }
+         },
+         "place_id" : "ChIJxxscpYvm3JQRx9mRflxCxZw",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boa Vista",
+               "short_name" : "Boa Vista",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Boa Vista, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1914303
+               },
+               "southwest" : {
+                  "lat" : -25.4313697,
+                  "lng" : -49.2815916
+               }
+            },
+            "location" : {
+               "lat" : -25.3886823,
+               "lng" : -49.2334685
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1914303
+               },
+               "southwest" : {
+                  "lat" : -25.4313697,
+                  "lng" : -49.2815916
+               }
+            }
+         },
+         "place_id" : "ChIJ4yXhiYjm3JQRib7FMdA38u0",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba, State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4289541,
+               "lng" : -49.267137
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            }
+         },
+         "place_id" : "ChIJ3bPNUVPj3JQRCejLuqVrL20",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4808762,
+               "lng" : -49.3044253
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346736,
+                  "lng" : -49.18522489999999
+               },
+               "southwest" : {
+                  "lat" : -25.6453862,
+                  "lng" : -49.38933859999999
+               }
+            }
+         },
+         "place_id" : "ChIJ8Q8J_PXj3JQRR7crCbCDejw",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            },
+            "location" : {
+               "lat" : -25.2520888,
+               "lng" : -52.0215415
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.5166644,
+                  "lng" : -48.0235303
+               },
+               "southwest" : {
+                  "lat" : -26.7172983,
+                  "lng" : -54.6192979
+               }
+            }
+         },
+         "place_id" : "ChIJnWK4MJQL25QRYfDOY1D9k-g",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            },
+            "location" : {
+               "lat" : -14.235004,
+               "lng" : -51.92528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.2717863,
+                  "lng" : -28.650543
+               },
+               "southwest" : {
+                  "lat" : -34.0891,
+                  "lng" : -73.9828169
+               }
+            }
+         },
+         "place_id" : "ChIJzyjM68dZnAARYz4p8gYVWik",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

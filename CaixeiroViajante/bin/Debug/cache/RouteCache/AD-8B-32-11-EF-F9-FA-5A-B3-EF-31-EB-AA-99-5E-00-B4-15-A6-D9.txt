@@ -1,0 +1,157 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ1YxHtyzh3JQRvn9tehSu52w",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJZ9ebO9Lm3JQRIgZfA0lVtRU",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : -25.3803012,
+               "lng" : -49.279535
+            },
+            "southwest" : {
+               "lat" : -25.3830021,
+               "lng" : -49.2847936
+            }
+         },
+         "copyrights" : "Map data ©2019 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 km",
+                  "value" : 1021
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 175
+               },
+               "end_address" : "R. Eugênio Flôr, 275 - Abranches, Curitiba - PR, 82130-290, Brazil",
+               "end_location" : {
+                  "lat" : -25.3830021,
+                  "lng" : -49.2800291
+               },
+               "start_address" : "Rua Frei Bernardino Tomat, 110 - Pilarzinho, Curitiba - PR, 82115-460, Brazil",
+               "start_location" : {
+                  "lat" : -25.3826916,
+                  "lng" : -49.2847936
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 169
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 21
+                     },
+                     "end_location" : {
+                        "lat" : -25.3815445,
+                        "lng" : -49.2841512
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eRua Frei Bernardino Tomat\u003c/b\u003e toward \u003cb\u003eRua Pedro Romildo Dall Stella\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "xp|yC||xkHe@?KAQASAGAGCCCCCCCACCGAICQCc@?AAGAC?AAA?AA?AAAACACAEAW?O?_@@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3826916,
+                        "lng" : -49.2847936
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 481
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 97
+                     },
+                     "end_location" : {
+                        "lat" : -25.3807282,
+                        "lng" : -49.28019579999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eRua Pedro Romildo Dall Stella\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ri|yC|xxkH?c@@S?MAI?A?EAGCECEGEQOq@c@s@c@g@]OKKIGEA?EEGEGEAA?AAGAu@?iA?kAAkA?A?kAVg@N]@ARa@Tc@"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3815445,
+                        "lng" : -49.2841512
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "55 m",
+                        "value" : 55
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : -25.3803012,
+                        "lng" : -49.2799291
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eR. Des. José Carlos Ribeiro Ribas\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "pd|yCf`xkHSIKCOGMIIGMM"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3807282,
+                        "lng" : -49.28019579999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 316
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 43
+                     },
+                     "end_location" : {
+                        "lat" : -25.3830021,
+                        "lng" : -49.2800291
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eR. Eugênio Flôr\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "za|yCp~wkHr@MrAYv@Qx@OVCP?VBTFPDRHRJXPVLNHXH@?XBT@@?"
+                     },
+                     "start_location" : {
+                        "lat" : -25.3803012,
+                        "lng" : -49.2799291
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "xp|yC||xkHwAEWMKYI_ACIIEq@C_@@?c@@a@CYGKYU}CqB[UQMC_AAcF?kAVg@P_@h@eA_@M]QWUxFiAh@Cl@Jd@Nl@\\f@VZHp@D"
+         },
+         "summary" : "Rua Pedro Romildo Dall Stella and R. Eugênio Flôr",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}
